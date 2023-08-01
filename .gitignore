@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+
+data/raw/
+data/processed/montreal/*
+!data/processed/montreal/montreal_neuro-studies.csv
