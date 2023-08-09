@@ -68,12 +68,12 @@ org_short <- stringr::str_c(org_short,
 # Download and process AACT data ------------------------------------------
 
 download_aact(ids = trns, dir = dir_raw_org, user = AACT_USER, query = glue("AACT_{org_short}"))
-process_aact(dir_raw_org, dir_processed_org)
+process_aact(dir_raw_org, dir_processed_org, "csv")
 
 
 # Combine AACT and org affiliation info -----------------------------------
 
-aact <- read_rds(path(dir_processed_org, "ctgov-studies.rds"))
+aact <- read_csv(path(dir_processed_org, "ctgov-studies.csv"))
 
 studies <-
   affiliations %>%

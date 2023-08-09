@@ -1,0 +1,149 @@
+nct_id,contact_type,name,email,phone,facility_id,organization
+NCT02685605,central_primary,"Martina Nesper-Brock, PhD",martina.nesper-brock@umm.de,+49-621-383,NA,NA
+NCT02685605,central_backup,Clinical Trial Office UMM,strahlentherapie.studien@umm.de,+49-621-383,NA,NA
+NCT02685605,facility_primary,Lisa Arnold,Lisa.Arnold@DignityHealth.org,NA,198772600,NA
+NCT02685605,facility_backup,"Norissa Honea, RN, PhD",Norissa.Honea@dignityhealth.org,+1-602-406,198772600,NA
+NCT02685605,facility_primary,"Beth A Chiappetta, RN, BSN, CCRP",BCHIAPPETTA@lumc.edu,708-216,198772601,NA
+NCT02685605,facility_primary,"Louise A Purcell, MS ANP-C CCRN-CMC",LPurcell@northwell.edu,+1 516-941,198772602,NA
+NCT02685605,facility_primary,"Tamika A Wong, MPH",twong4@northwell.edu,212-434-4836,198772603,NA
+NCT02685605,facility_primary,Joseph Brunetti,NA,304-293-7360,198772604,NA
+NCT02685605,facility_primary,"Douglas Guedes de Castro, MD",dougguedes@uol.com.br,NA,198772605,NA
+NCT02685605,facility_primary,"Kevin Petrecca, MD, PhD",kevin.petrecca@mcgill.ca,514-398,198772606,NA
+NCT02685605,facility_primary,Chengkai Zhang,ckzhanghs@163.com,NA,198772607,NA
+NCT02685605,facility_primary,"Sabine Schill, PhD",Sabine.Schill@klinikum-augsburg.de,+49 821 400 25 42,198772608,NA
+NCT02685605,facility_primary,Susanne Runewitz,susanne.runewitz@charite.de,+49 30 450 617,198772609,NA
+NCT02685605,facility_primary,"Oliver Sorge, MD",Oliver.Sorge@sanktgeorg.de,NA,198772610,NA
+NCT02685605,facility_backup,Anna Hedwig Müller,Anna-Hedwig.Mueller@SanktGeorg.de,NA,198772610,NA
+NCT02685605,facility_primary,Studienzentrale Strahlentherapie,Studien.Strahlen@medma.uni-heidelberg.de,00496213834960,198772611,NA
+NCT02685605,facility_primary,"Carmen Kessel, PhD",carmen.kessel@tum.de],+49 89 4140-4501,198772612,NA
+NCT02685605,facility_primary,Ulrike Arzbach,u.arzbach@klinikum-stuttgart.de,+49 711/ 278-33700,198772613,NA
+NCT02685605,facility_primary,Mareike Schultes,Mareike.Schultes@helios-gesundheit.de,+49 (202) 896 23,198772614,NA
+NCT02685605,facility_primary,"Ik Jae Lee, MD",IKJAE412@YUHS.AC,+82-2-2019,198772615,NA
+NCT02685605,facility_primary,Montserrat Ventura Bujalance,montseventura@iconcologia.net,+ 34 93 260 77 22,198772616,NA
+NCT02685605,facility_primary,"Sonia Garcia Cabezas, MD",songar1@gmail.com,NA,198772617,NA
+NCT02685605,facility_backup,"Juan Solivera Vela, MD",juan.solivera@gmail.com,NA,198772617,NA
+NCT04057898,central_primary,Project Management Team,clinicaltrialinfo@medicinova.com,858-373-1500,NA,NA
+NCT04057898,facility_primary,Pola Gaid,polagaid@hs.uci.edu,714-456-6191,197868829,NA
+NCT04057898,facility_primary,Collette McHugh-Strong,Mchugh-strong.colette@mayo.edu,904-953-4965,197868830,NA
+NCT04057898,facility_backup,Jany Paulett,Paulett.jany@mayo.edu,904-953-3730,197868830,NA
+NCT04057898,facility_primary,"Brandy Quarles, MPH CCRC",bquarles@augusta.edu,706-721-0390,197868831,NA
+NCT04057898,facility_backup,"Kristy Bouchard, BS CCRC",kbouchard@augusta.edu,706-721-0390,197868831,NA
+NCT04057898,facility_primary,"Sandra Guingrich, LPN",sguingri@iu.edu,317-963-7382,197868832,NA
+NCT04057898,facility_backup,"Angela Micheels, PT",amicheel@iu.edu,317-963-7382,197868832,NA
+NCT04057898,facility_primary,Katheryn Jennens Lillig,kjennens2@kumc.edu,913-945-9932,197868833,NA
+NCT04057898,facility_primary,"Kristen Riley, Ph.D.",kriley15@jhmi.edu,410-955-8511,197868834,NA
+NCT04057898,facility_backup,"Alpa Uchil, CRNP",apalich2@jhmi.edu,410-955-8511,197868834,NA
+NCT04057898,facility_primary,Daphne Fruchtman,DFruchtman@hhrinstitute.org,612-873-2607,197868835,NA
+NCT04057898,facility_backup,Sandra Swanson,sandyswansonpt@msn.com,612-518-5351,197868835,NA
+NCT04057898,facility_primary,Sigiriya Smolen,smolens@upstate.edu,315-464-1670,197868838,NA
+NCT04057898,facility_backup,Lena Deb,DebL@upstate.edu,315-464-9756,197868838,NA
+NCT04057898,facility_primary,"Rachel M Ward, RN",rachel.m.ward@duke.edu,919-613-2681,197868840,NA
+NCT04057898,facility_primary,Kevin A Stanley,Kevin_A.Stanley@lvhn.org,610-402-9543,197868842,NA
+NCT04057898,facility_backup,"Terry Kloiber, RN",Terry.kloiber@lvhn.org,610-402-9543,197868842,NA
+NCT04057898,facility_primary,Miranda Nadeo,Miranda.Nadeo@AHN.org,NA,197868843,NA
+NCT04057898,facility_backup,Mary Fetter,Mary.Fetter@AHN.org,NA,197868843,NA
+NCT04057898,facility_primary,Sejal Smajic,SS4YN@hscmail.mcc.virginia.edu,434-243-0355,197868844,NA
+NCT04057898,facility_backup,Mary Wagoner,Miw9b@virginia.edu,434-924-5541,197868844,NA
+NCT04057898,facility_primary,Wei Chen,wei.chen@primesiteresearch.com,NA,197868846,NA
+NCT04057898,facility_backup,Kelsey Tymkow,Tymkow@ualberta.ca,NA,197868846,NA
+NCT04057898,facility_primary,Daniela Trapsa,trapsd@mcmaster.ca,905 521 2100,197868847,NA
+NCT04057898,facility_backup,Jane Allan,allanjane@HHSC.CA,905 521 2100,197868847,NA
+NCT04057898,facility_primary,Nishat Rashid,nishat.rashid@sri.utoronto.ca,416-480-6100,197868848,NA
+NCT04057898,facility_backup,Jahan Mookshah,jahan.mookshah@sri.utoronto.ca,(416) 480-6100,197868848,NA
+NCT04057898,facility_primary,Achraf Boutayeb,Achraf.Boutayeb@mcgill.ca,514-398-6083,197868849,NA
+NCT04057898,facility_backup,Vanessa Bertone,Vanessa.Bertone@mcgill.ca,514-398-6183,197868849,NA
+NCT04057898,facility_primary,Caroline Cayer,caroline.cayer.ciusse-chus@ssss.gouv.qc.ca,819-346-1110,197868850,NA
+NCT04057898,facility_backup,Caitlyn Bockus,Caitlyn.bockus.ciusse-chus@ssss.gouv.qc.ca,NA,197868850,NA
+NCT04057898,facility_primary,Twyla Bode,twyla.bode@usask.ca,306-655-7742,197868851,NA
+NCT04057898,facility_backup,Joanne Boyer,Joanne.boyer@usask.ca,NA,197868851,NA
+NCT04057898,facility_primary,Alexandra Simard,alexandra.simard@crchudequebec.ulaval.ca,418-649-0252,197868852,NA
+NCT04057898,facility_backup,Manon Blanchel,manon.blanchet@crchudequebec.ulaval.ca,NA,197868852,NA
+NCT04477785,central_primary,"Cari Rainville, BS",crainville@indd.org,877-525-7764,NA,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885552,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885553,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885554,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885555,NA
+NCT04477785,facility_primary,PPMI Call Center,clinicaltrialsadrc@health.ucsd.edu,877-525-7764,197885556,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885557,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885558,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885559,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885560,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885561,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885562,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885563,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885564,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885565,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885566,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885567,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885568,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885569,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885570,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885571,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885572,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885573,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885575,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885576,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885577,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885578,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885579,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885580,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885581,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885582,NA
+NCT04477785,facility_primary,Corrine Horlings,NA,NA,197885583,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885584,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885585,NA
+NCT04477785,facility_primary,PPMI Call Center,NA,877-525-7764,197885586,NA
+NCT04477785,facility_primary,Elisabeth Sittig,sittig@med.uni-marburg.de,NA,197885587,NA
+NCT04477785,facility_primary,Diana Willeke,diana.willeke@pk-mx.de,49 561 6009 272,197885588,NA
+NCT04477785,facility_primary,Norbert Bruggermann,norbert.brueggemann@neuro.uni-luebeck.de,NA,197885589,NA
+NCT04477785,facility_primary,Ella Hilt,ella.hilt@med.uni-tuebingen.de,+49 7072 298621,197885590,NA
+NCT04477785,facility_primary,Christos Koros,chkoros@gmail.com,00302107289405,197885591,NA
+NCT04477785,facility_primary,"Anat Mirelman, Bsc",anatmi@tlvmc.gov.il,972-3-697-3014,197885592,NA
+NCT04477785,facility_primary,"Susan Ainscough, BA",ricercaparkinson@gmail.com,39 340 519 2659,197885593,NA
+NCT04477785,facility_primary,Tainá Marques,taina.marques@ext.uni.lu,352(466)644-6491,197885594,NA
+NCT04477785,facility_primary,Myrthe Burgler,myrthe.burgler@radboudumc.nl,NA,197885595,NA
+NCT04477785,facility_primary,Oluwadamilola Ojo,oluojo@unilag.edu.ng,2348033606414,197885596,NA
+NCT04477785,facility_primary,"Alicia Garrido, MD",agarridop@clinic.ub.es,34 932275785,197885597,NA
+NCT04477785,facility_primary,Ioana Croitoru,ioana.croitoru@biodonostia.org,+34 943 00 72 46,197885598,NA
+NCT04477785,facility_primary,Cristina Simonet,c.simonet@qmul.ac.uk,44-02078823379,197885599,NA
+NCT04477785,facility_primary,Victoria Foster,victoria.foster@ncl.ac.uk,+441912081197,197885600,NA
+NCT04477785,facility_primary,Raquel Lopes,raquel.lopes@nhs.net,NA,197885601,NA
+NCT04477785,facility_primary,Jamil Razzaque,jamil.razzaque@ouh.nhs.uk,+441865223166,197885602,NA
+NCT04494256,central_primary,US Biogen Clinical Trial Center,clinicaltrials@biogen.com,866-633-4636,NA,NA
+NCT04494256,central_backup,Global Biogen Clinical Trial Center,clinicaltrials@biogen.com,NA,NA,NA
+NCT04494256,facility_primary,NA,NA,602-406-6262,199553838,NA
+NCT04494256,facility_primary,Rosemarie Previte,rprevite@health.ucsd.edu,NA,199553839,NA
+NCT04494256,facility_primary,NA,NeuromuscularResearch@stanford.edu,650-725-4341,199553840,NA
+NCT04494256,facility_primary,Recruitment Coordinator,NeuroResearch@cuanschutz.edu,303-724-4644,199553841,NA
+NCT04494256,facility_backup,Principal Investigator,NA,7208488530,199553841,NA
+NCT04494256,facility_primary,NA,NA,646-797-8917,199553842,NA
+NCT04494256,facility_primary,Jany Paulett,Paulett.jany@mayo.edu,904-953-3730,199553843,NA
+NCT04494256,facility_primary,NA,NA,321-841-2800,199553844,NA
+NCT04494256,facility_primary,"Kristen Riley, PhD",kriley15@jhmi.edu,NA,199553846,NA
+NCT04494256,facility_primary,Erica Scirocco,escirocco@mgh.harvard.edu,617-726-1363,199553847,NA
+NCT04494256,facility_primary,NA,als@wustl.edu,1-844-ALS-CARE,199553848,NA
+NCT04494256,facility_primary,Stephanie Hansen,stephanie.hansen@pennmedicine.upenn.edu,215-662-4067,199553849,NA
+NCT04494256,facility_primary,NA,NA,713-363-7310,199553850,NA
+NCT04494256,facility_primary,Michael Papadakis,m.papadakis@utah.edu,NA,199553851,NA
+NCT04494256,facility_primary,Dipannita Purkayastha,dipannita.purkayastha@mcgill.ca,514-398-6183,199553852,NA
+NCT04494256,facility_primary,NA,cresla.torino@gmail.com,NA,199553853,NA
+NCT04494256,facility_primary,NA,trialALS@UMCutrecht.nl,0031(0)887553204,199553854,NA
+NCT04886518,central_primary,Ann Adee,clinicaltrials@harmonybiosciences.com,7733836258,NA,NA
+NCT04886518,central_backup,Michelle Manuel,clinicaltrials@harmonybiosciences.com,8479034610,NA,NA
+NCT04886518,facility_primary,Jessica MacGregor,jemacgregor@ohri.ca,NA,199287225,NA
+NCT04886518,facility_primary,Marie-Josée Duchesne,Marie-josee.duchesne@ssss.gouv.qc.ca,418-541-1000,199287226,NA
+NCT05039099,central_primary,Study Director: AL-S Pharma SA,choruspharma@lists.lilly.com,3176517036,NA,NA
+NCT05039099,facility_primary,NA,jravits@ucsd.edu,858-243-1319,200132024,NA
+NCT05039099,facility_primary,NA,wendyj@ualberta.ca,780-248-1089,200132026,NA
+NCT05039099,facility_primary,NA,Christen.Shoesmith@lhsc.on.ca,519-663-3597,200132027,NA
+NCT05039099,facility_primary,NA,Lorne.Zinman@sunnybrook.ca,NA,200132028,NA
+NCT05039099,facility_primary,NA,rami.massie@mcgill.ca,514-398-8551,200132029,NA
+NCT05039099,facility_primary,NA,thomas.meyer@charite.de,NA,200132030,NA
+NCT05039099,facility_primary,NA,Petri.Susanne@mh-hannover.de,NA,200132032,NA
+NCT05039099,facility_primary,NA,albert.ludolph@rku.de,NA,200132033,NA
+NCT05039099,facility_primary,NA,kimsh1@hanyang.ac.kr,+82-2-2290-8371,200132034,NA
+NCT05039099,facility_primary,NA,NA,+46851771231,200132035,NA
+NCT05039099,facility_primary,NA,NA,+46725487410,200132036,NA
+NCT05061953,facility_primary,"Julian Santorelli, M.Eng",julian.santorelli@mcgill.ca,514-398-6191,199782968,NA
+NCT05061953,facility_backup,"Pascale Patenaude, MSc.",pascale.patenaude@mcgill.ca,514-398-7324,199782968,NA
+NCT05061953,facility_primary,Adrien Poulin,apoulin@gengepartners.com,438-874-8334,199782969,NA
