@@ -93,8 +93,10 @@ studies <-
          floor_date(start_date, unit = "month")),
 
     # Days from completion date to summary results date
-    # TODO: decide if use primary completion date if no completion date
     days_cd_to_summary = duration_days(completion_date, summary_results_date),
+
+    # Days from primary completion date to summary results date
+    days_pcd_to_summary = duration_days(primary_completion_date, summary_results_date),
 
     # Whether summary results are reported within 1 year of completion
     is_summary_results_1y = days_cd_to_summary < 365*1
