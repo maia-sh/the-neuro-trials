@@ -6,6 +6,7 @@ library(readr)
 library(aactr)
 library(lubridate)
 library(glue)
+source("https://raw.githubusercontent.com/maia-sh/intovalue-data/817c24afa007dbc222cd28fe9b6090c4355ec96e/scripts/functions/duration_days.R")
 
 
 #  Prepare organization ---------------------------------------------------
@@ -84,7 +85,20 @@ studies <-
   mutate(
     registration_year = lubridate::year(registration_date),
     start_year = lubridate::year(start_date),
-    completion_year = lubridate::year(completion_date)
+    completion_year = lubridate::year(completion_date),
+
+    # Registration is prospective if registered in same or prior month to start
+    is_prospective =
+      (floor_date(registration_date, unit = "month") <=
+         floor_date(start_date, unit = "month")),
+
+    # Days from (primary) completion date to summary results date
+    days_cd_to_summary = duration_days(completion_date, summary_results_date),
+    days_pcd_to_summary = duration_days(primary_completion_date, summary_results_date),
+
+    # Whether summary results are reported within 1 year of (primary) completion
+    is_summary_results_1y_cd = days_cd_to_summary < 365*1,
+    is_summary_results_1y_pcd = days_pcd_to_summary < 365*1
   )
 
 write_csv(studies, glue("{dir_processed_org}/{org_short}-studies.csv"))
