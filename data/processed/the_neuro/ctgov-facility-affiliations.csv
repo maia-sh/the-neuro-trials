@@ -1,54 +1,27 @@
 nct_id,facility_affiliation,city,country
-NCT02685605,Barrow Neurological Institute (SJHMC),Phoenix,United States
-NCT02685605,Stritch School of Medicine Loyola University,Maywood,United States
-NCT02685605,"Long Island Jewish Medical Center, North Shore University Hospital",Lake Success,United States
-NCT02685605,"Lenox Hill Hospital, Hofstra Northwell School of Medicine",New York,United States
-NCT02685605,West Virginia University,Morgantown,United States
-NCT02685605,Hospital Alemão Oswaldo Cruz,São Paulo,Brazil
-NCT02685605,Montreal Neurological Institute and Hospital,Montréal,Canada
-NCT02685605,"Beijing Tian Tan Hospital, Capital Medical University",Beijing,China
-NCT02685605,University Hospital Augsburg,Augsburg,Germany
-NCT02685605,Charité - Universitätsmedizin,Berlin,Germany
-NCT02685605,St. Georg Hospital,Leipzig,Germany
-NCT02685605,University Hospital Mannheim,Mannheim,Germany
-NCT02685605,"Technical University of Munich (TUM), Department of Radiation Oncology",Munich,Germany
-NCT02685605,Klinikum Stuttgart,Stuttgart,Germany
-NCT02685605,Helios University Hospital Wuppertal,Wuppertal,Germany
-NCT02685605,"Gangnam Severance Hospital, Yonsei University College of Medicine",Seoul,"Korea, Republic of"
-NCT02685605,Catalan Institute of Oncology (ICO),Barcelona,Spain
-NCT02685605,Hospital Reina Sofia,Córdoba,Spain
-NCT02685605,The London Clinic,London,United Kingdom
-NCT04840823,Montreal Neurological Institute-Hospital,Montreal,Canada
-NCT05039099,"UC San Diego, ACTRI",La Jolla,United States
-NCT05039099,"Department of Neurology, University Hospitals",Leuven,Belgium
-NCT05039099,"ALS clinic at the Kaye Edmonton Clinic, University of Alberta",Edmonton,Canada
-NCT05039099,London Health Sciences Centre - Victoria Hospital,London,Canada
-NCT05039099,ALS Research Sunnybrook Health Sciences Centre,Toronto,Canada
-NCT05039099,Montreal Neurological Institute and Hospital / Dr Genge,Montréal,Canada
-NCT05039099,Charité,Berlin,Germany
-NCT05039099,Deutsches Zentrum für Neurodegenerative Erkrankungen e.V. (DZNE),Bonn,Germany
-NCT05039099,Hannover Medical School,Hanover,Germany
-NCT05039099,Ulm University Hospital,Ulm,Germany
-NCT05039099,Hanyang University Medical Center,Seoul,"Korea, Republic of"
-NCT05039099,"Studieenheten Akademiskt specialistcentrum, SLSO",Stockholm,Sweden
-NCT05039099,Norrlands universitetssjukhus/ University Hospital of Northern Sweden (NUS),Umeå,Sweden
-NCT04494256,Barrow Neurological Institute,Phoenix,United States
-NCT04494256,UCSD,La Jolla,United States
-NCT04494256,Stanford Neuromuscular Research Center,Palo Alto,United States
-NCT04494256,University of Colorado Hospital - Neuroscience Center -Anschutz Medical Campus,Aurora,United States
-NCT04494256,Georgetown University,Washington,United States
-NCT04494256,Mayo Clinic Florida,Jacksonville,United States
-NCT04494256,Orlando Health,Orlando,United States
-NCT04494256,The Emory Clinic,Atlanta,United States
-NCT04494256,"ALS Clinic - Department of Neurology, Neuromuscular Division, Johns Hopkins University, School of Medicine",Baltimore,United States
-NCT04494256,Massachusetts General Hospital,Boston,United States
-NCT04494256,"Washington University, School of Medicine",Saint Louis,United States
-NCT04494256,University of Pennsylvania,Philadelphia,United States
-NCT04494256,Houston Methodist Neurological Institute,Houston,United States
-NCT04494256,University of Utah,Salt Lake City,United States
-NCT04494256,Montreal Neurological Institute-Hospital,Montreal,Canada
-NCT04494256,A.O.U. Città della salute e della scienza di Torino,Torino,Italy
-NCT04494256,UMC Utrecht,Utrecht,Netherlands
+NCT04886518,UCI Center for Clinical Research,Irvine,United States
+NCT04886518,University of Colorado School of Medicine,Aurora,United States
+NCT04886518,University of South Florida,Tampa,United States
+NCT04886518,Rare Disease Research,Atlanta,United States
+NCT04886518,Indiana University,Indianapolis,United States
+NCT04886518,Kennedy Krieger Institute Center for Genetic Muscle Disorders,Baltimore,United States
+NCT04886518,University of Minnesota,Minneapolis,United States
+NCT04886518,University of Rochester Medical Center,Rochester,United States
+NCT04886518,University of North Carolina,Chapel Hill,United States
+NCT04886518,Wake Forest,Winston-Salem,United States
+NCT04886518,University of Pennsylvania,Philadelphia,United States
+NCT04886518,The Ottawa Hospital,Ottawa,Canada
+NCT04886518,Hôpital de Chicoutimi,Chicoutimi,Canada
+NCT04935866,The Ottawa Hospital,Ottawa,Canada
+NCT04935866,CHU de Québec - Université Laval (Hôpital de l'Enfant-Jésus),Québec City,Canada
+NCT03179501,University of Hawaii Clinics at Kakaako,Honolulu,United States
+NCT04747431,University of Pennsylvania,Philadelphia,United States
+NCT04747431,University of Texas at Houston,Houston,United States
+NCT04747431,Hospital das Clinicas da Universidade Federal de Minas Gerais (UFMG),Minas Gerais,Brazil
+NCT04747431,Hospital das Clinicas da Faculdade de Medicina da Universidade de Sao Paulo (HCFMUSP),São Paulo,Brazil
+NCT04747431,University of Toronto,Toronto,Canada
+NCT04747431,Besta Institute,Milan,Italy
+NCT04747431,Centro Hospitalar e Universitário de Coimbra,Coimbra,Portugal
 NCT04057898,University of California,Orange,United States
 NCT04057898,Mayo Clinic,Jacksonville,United States
 NCT04057898,Augusta University,Augusta,United States
@@ -73,6 +46,615 @@ NCT04057898,Montreal Neurological Institute and Hospital,Montreal,Canada
 NCT04057898,Clinique Maladies Neuromusculaire,Sherbrooke,Canada
 NCT04057898,University of Saskatchewan - Sastakoon Hospital,Saskatoon,Canada
 NCT04057898,"Hopital de L'Enfant-Jesus, CHU de Quebec-Universite Laval",Quebec,Canada
+NCT04349514,University of Florida,Gainesville,United States
+NCT04349514,"Center for Magnetic Resonance Research, University of Minnesota",Minneapolis,United States
+NCT04349514,Children's Hospital of Philadelphia,Philadelphia,United States
+NCT04349514,"Monash Biomedical Imaging, Monash University",Clayton,Australia
+NCT04349514,"Lab of Neuroimaging and Dept of Neurology, University of Campinas (UNICAMP)",São Paulo,Brazil
+NCT04349514,McGill University,Montréal,Canada
+NCT04349514,"Department of Neurology, RWTH Aachen University",Aachen,Germany
+NCT05039099,"UC San Diego, ACTRI",La Jolla,United States
+NCT05039099,"Department of Neurology, University Hospitals",Leuven,Belgium
+NCT05039099,"ALS clinic at the Kaye Edmonton Clinic, University of Alberta",Edmonton,Canada
+NCT05039099,London Health Sciences Centre - Victoria Hospital,London,Canada
+NCT05039099,ALS Research Sunnybrook Health Sciences Centre,Toronto,Canada
+NCT05039099,Montreal Neurological Institute and Hospital / Dr Genge,Montréal,Canada
+NCT05039099,Charité,Berlin,Germany
+NCT05039099,Deutsches Zentrum für Neurodegenerative Erkrankungen e.V. (DZNE),Bonn,Germany
+NCT05039099,Hannover Medical School,Hanover,Germany
+NCT05039099,Ulm University Hospital,Ulm,Germany
+NCT05039099,Hanyang University Medical Center,Seoul,"Korea, Republic of"
+NCT05039099,"Studieenheten Akademiskt specialistcentrum, SLSO",Stockholm,Sweden
+NCT05039099,Norrlands universitetssjukhus/ University Hospital of Northern Sweden (NUS),Umeå,Sweden
+NCT04948645,UC Irvine Health ALS and Neuromuscular Center,Irvine,United States
+NCT04948645,Cedars-Sinai Medical Center,Los Angeles,United States
+NCT04948645,Forbes Norris MDA/ALS Research and Treatment Center,San Francisco,United States
+NCT04948645,Mayo Clinic,Jacksonville,United States
+NCT04948645,Johns Hopkins ALS Clinical Trials Unit,Baltimore,United States
+NCT04948645,Healey & AMG Center for ALS Research,Boston,United States
+NCT04948645,Mayo Clinic,Rochester,United States
+NCT04948645,University of Calgary - Heritage Medical Research Clinic,Calgary,Canada
+NCT04948645,University of Alberta,Edmonton,Canada
+NCT04948645,Stan Cassidy Centre for Rehabilitation,Fredericton,Canada
+NCT04948645,London Health Sciences Centre,London,Canada
+NCT04948645,Sunnybrook Research Institute,Toronto,Canada
+NCT04948645,Centre Hospitalier de l'Universite de Montreal (CHUM),Montreal,Canada
+NCT04948645,Montreal Neurological Institute and Hospital,Montreal,Canada
+NCT04635891,David Geffen School of Medicine at UCLA,Los Angeles,United States
+NCT04635891,Neuromuscular Disorders Program at Stanford University School of Medicine,Stanford,United States
+NCT04635891,University of Colorado Anschutz Medical Campus,Aurora,United States
+NCT04635891,Univeristy of Florida Gainesville,Gainesville,United States
+NCT04635891,Univeristy of Kansas Medical Center,Kansas City,United States
+NCT04635891,Kennedy Krieger Institute,Baltimore,United States
+NCT04635891,University of Rochester Medical Center,Rochester,United States
+NCT04635891,The Ohio State University Medical Center,Columbus,United States
+NCT04635891,Univeristy of Texas Southwestern Medical Center,Dallas,United States
+NCT04635891,University of Utah,Salt Lake City,United States
+NCT04635891,Virginia Commonwealth University,Richmond,United States
+NCT04635891,University of Washington Medical Center,Seattle,United States
+NCT04635891,Ottawa Hospital Research Institute,Ottawa,Canada
+NCT04635891,University of McGill,Montreal,Canada
+NCT04635891,Sheffield Teaching Hospital,Sheffield,United Kingdom
+NCT05349721,UC Irvine Health ALS and Neuromuscular Center,Orange,United States
+NCT05349721,Forbes Norris MDA/ALS Research Center at California Pacific Medical Center,San Francisco,United States
+NCT05349721,"Holy Cross Hospital, Phil Smith Neuroscience Institute",Fort Lauderdale,United States
+NCT05349721,University of South Florida - Carol and Frank Morsani Center for Advanced Healthcare,Tampa,United States
+NCT05349721,Augusta University,Augusta,United States
+NCT05349721,University of Kansas Medical Center (KUMC) - Landon Center on Aging,Kansas City,United States
+NCT05349721,Henry Ford Health System Department of Neurology,Detroit,United States
+NCT05349721,"Neurology Associates, P.C. / Somnos Clinical Research",Lincoln,United States
+NCT05349721,University of Nebraska Medical Center,Omaha,United States
+NCT05349721,Providence Brain and Spine Institute,Portland,United States
+NCT05349721,Lewis Katz School of Medicine at Temple Universtiy,Philadelphia,United States
+NCT05349721,National Neuromuscular Research Institute,Austin,United States
+NCT05349721,Nerve and Muscle Center of Texas,Houston,United States
+NCT05349721,Iadin Srl.,Buenos Aires,Argentina
+NCT05349721,Royal Brisbane and Women's Hospital,Brisbane,Australia
+NCT05349721,Gold Coast Hospital,Southport,Australia
+NCT05349721,Calvary Health Care Bethlehem,Caulfield South,Australia
+NCT05349721,Austin Health,Heidelberg,Australia
+NCT05349721,AZ Sint-Lucas Gent,Gent,Belgium
+NCT05349721,UZ Leuven,Leuven,Belgium
+NCT05349721,FORBELI s.r.o.,Prague 6,Czechia
+NCT05349721,CHU de Bordeaux,Bordeaux Cedex,France
+NCT05349721,Hôpital Neurologique Pierre Wertheimer,Bron Cedex,France
+NCT05349721,CHRU Lille - Hôpital Roger Salengro,Lille Cedex,France
+NCT05349721,CHU Dupuytren 1 Limoges,Limoges,France
+NCT05349721,CRMR SLA - MNM du CHU de Nice,Nice,France
+NCT05349721,Hannover Medical School,Hannover,Germany
+NCT05349721,"Universitaetsklinikum Schleswig-Holstein (UKSH) Campus Luebeck, Klinik fuer Neurologie, Praezisionsneurologie",Lubeck,Germany
+NCT05349721,Centro Clinico Nemo Brescia,Brescia,Italy
+NCT05349721,Istituti Clinici Scientifici Maugeri IRCCS,Milano,Italy
+NCT05349721,Istituto Auxolgoico Italiano,Milano,Italy
+NCT05349721,"Maggiore della Carita University Hospital, Neurology department, ALS center",Novara,Italy
+NCT05349721,"ALS Clinical Research Center, University Hospital Policlinico ""P Giaccone""",Palermo,Italy
+NCT05349721,Policlinico Umberto I,Roma,Italy
+NCT05349721,AOU Citta Della Salute e Scienza,Torino,Italy
+NCT05349721,UMC Utrecht,Utrecht,Netherlands
+NCT05349721,City Clinic Research Sp. Z o.o,Warsaw,Poland
+NCT05349721,Centrum Medyczne Neuro Protect,Warszawa,Poland
+NCT05349721,Unidad Neuromuscular. Servicio de Neurologia Hospital Universitari Vall d'Hebron,Barcelona,Spain
+NCT05349721,H. St Pau,Barcelona,Spain
+NCT05349721,Hospital Universitario y Politecnico La Fe,Valencia,Spain
+NCT05349721,"Skanes universitetssjukhus, VE Neurologi",Malmo,Sweden
+NCT04494256,Barrow Neurological Institute,Phoenix,United States
+NCT04494256,UCSD,La Jolla,United States
+NCT04494256,Stanford Neuromuscular Research Center,Palo Alto,United States
+NCT04494256,University of Colorado Hospital - Neuroscience Center -Anschutz Medical Campus,Aurora,United States
+NCT04494256,Georgetown University,Washington,United States
+NCT04494256,Mayo Clinic Florida,Jacksonville,United States
+NCT04494256,Orlando Health,Orlando,United States
+NCT04494256,The Emory Clinic,Atlanta,United States
+NCT04494256,"ALS Clinic - Department of Neurology, Neuromuscular Division, Johns Hopkins University, School of Medicine",Baltimore,United States
+NCT04494256,Massachusetts General Hospital,Boston,United States
+NCT04494256,"Washington University, School of Medicine",Saint Louis,United States
+NCT04494256,University of Pennsylvania,Philadelphia,United States
+NCT04494256,Houston Methodist Neurological Institute,Houston,United States
+NCT04494256,University of Utah,Salt Lake City,United States
+NCT04494256,Montreal Neurological Institute-Hospital,Montreal,Canada
+NCT04494256,A.O.U. Città della salute e della scienza di Torino,Torino,Italy
+NCT04494256,UMC Utrecht,Utrecht,Netherlands
+NCT05348785,Banner Sun Health Research Institute,Sun City,United States
+NCT05348785,SC3 Research Group Inc.,Pasadena,United States
+NCT05348785,University of California San Francisco (UCSF),San Francisco,United States
+NCT05348785,University of Colorado,Aurora,United States
+NCT05348785,CenExel Rocky Mountain Clinical Research,Englewood,United States
+NCT05348785,Institute for Neurodegenerative Disorders (IND),New Haven,United States
+NCT05348785,Parkinson's Disease and Movement Disorders Center of Boca Raton,Boca Raton,United States
+NCT05348785,University of Miami,Miami,United States
+NCT05348785,"Adventist Health System/Sunbelt, Inc.",Orlando,United States
+NCT05348785,USF Health Byrd Institute,Tampa,United States
+NCT05348785,"Hawaii Pacific Neuroscience, LLC",Honolulu,United States
+NCT05348785,Northwestern University,Chicago,United States
+NCT05348785,Rush University Medical Center,Chicago,United States
+NCT05348785,"University of Kansas Medical Center Research Institute, Inc.",Kansas City,United States
+NCT05348785,Boston University Medical Center,Boston,United States
+NCT05348785,Beth Israel Deaconess Medical Center,Boston,United States
+NCT05348785,Massachusetts General Hospital,Boston,United States
+NCT05348785,Quest Research Institute,Farmington Hills,United States
+NCT05348785,Mount Sinai Beth Israel,New York,United States
+NCT05348785,Weill Medical College of Cornell University,New York,United States
+NCT05348785,Duke Movement Disorders Clinic,Durham,United States
+NCT05348785,The Cleveland Clinic Foundation,Cleveland,United States
+NCT05348785,UPHS,Philadelphia,United States
+NCT05348785,University of Pittsburgh,Pittsburgh,United States
+NCT05348785,"Neurology Clinic, PC",Cordova,United States
+NCT05348785,The Methodist Hospital Research Institute,Houston,United States
+NCT05348785,Virginia Commonwealth University Department of Neurology,Richmond,United States
+NCT05348785,Evergreen Hospital Medical Center,Kirkland,United States
+NCT05348785,Inland Northwest Research,Spokane,United States
+NCT05348785,Medizinische Universität,Innsbruck,Austria
+NCT05348785,Klinik Ottakring,Vienna,Austria
+NCT05348785,University of Calgary,Calgary,Canada
+NCT05348785,True North Clinical Research,Halifax,Canada
+NCT05348785,Toronto Western Hospital,Toronto,Canada
+NCT05348785,Montreal Neurological Institute,Montreal,Canada
+NCT05348785,Xuanwu Hospital Capital Medical University,Beijing,China
+NCT05348785,Beijing Hospital,Beijing,China
+NCT05348785,Second Affiliated Hospital of Soochow University,Jiangsu,China
+NCT05348785,"West China Hospital, Sichuan University",Chengdu,China
+NCT05348785,Hôpital de la Timone,Marseille,France
+NCT05348785,Hopital Purpan,Toulouse Cedex 09,France
+NCT05348785,Hopital Gui de Chauliac,Montpellier,France
+NCT05348785,CHU Rennes - Hopital Pontchaillou,Rennes,France
+NCT05348785,CHU Clermont Ferrand - Hopital Gabriel Montpied,Clermont Ferrand Cedex,France
+NCT05348785,Centre Hospitalier Universitaire de Lyon-Hospices Civils de Lyon-Hopital Pierre Wertheimer,Bron,France
+NCT05348785,CHU Nantes - Hopital Nord Laën,Loire-Atlantique,France
+NCT05348785,Groupe Hospitalier Pitie-Salpetriere,Paris,France
+NCT05348785,Hopital Henri Mondor,Paris,France
+NCT05348785,Universitat Ulm,Ulm,Germany
+NCT05348785,Katholisches Klinikum Bochum,Muenchen,Germany
+NCT05348785,Universitaetsklinikum Wuerzburg,Wuerzburg,Germany
+NCT05348785,Medizinische Hochschule Hannover,Hannover,Germany
+NCT05348785,Katholisches Klinikum Bochum gGmbH,Bochum,Germany
+NCT05348785,Universitaetsklinikum Duesseldorf AoeR,Duesseldorf,Germany
+NCT05348785,Universitaetsklinikum Carl Gustav Carus TU Dresden,Dresden,Germany
+NCT05348785,Paracelsus-Elena-Klinik Kassel,Kassel,Germany
+NCT05348785,Universitätsklinikum Marburg,Marburg,Germany
+NCT05348785,Universitaetsklinikum Tuebinge,Tuebingen,Germany
+NCT05348785,Rabin Medical Center,Petah Tikva,Israel
+NCT05348785,Center Chaim Sheba Medical Center,Ramat Gan,Israel
+NCT05348785,Tel Aviv Sourasky Medical Center,Tel Aviv,Israel
+NCT05348785,I.R.C.C.S. Neuromed,Diego,Italy
+NCT05348785,IRCCS-Institute of Neurological Sciences of Bologna,Bologna,Italy
+NCT05348785,Azienda Ospedaliera Spedali,Brescia,Italy
+NCT05348785,U.O. Neurologia I,Catania,Italy
+NCT05348785,Ospedale Clinicizzato SS. Annu,Chieti,Italy
+NCT05348785,Ospedale San Raffaele,Milano,Italy
+NCT05348785,AO Universitaria Pisana,Pisa,Italy
+NCT05348785,IRCCS San Raffaele Pisana,Roma,Italy
+NCT05348785,Okinawa Prefectural Nanbu,Haeburu,Japan
+NCT05348785,NHO Asahikawa Medical Center,Asahikawa-shi,Japan
+NCT05348785,Himeji Central,Himeji-shi,Japan
+NCT05348785,Juntendo University,Tokyo,Japan
+NCT05348785,Brain Research Center Amsterdam,Amsterdam,Netherlands
+NCT05348785,Radboudumc,Nijmegen,Netherlands
+NCT05348785,Brain Research Center Zwolle B.V.,Zwolle,Netherlands
+NCT05348785,Centrum Medyczne NeuroProtect,Warsaw,Poland
+NCT05348785,Centrum Medyczne Neuromed,Bydgoszcz,Poland
+NCT05348785,"Instytut Zdrowia dr Boczarska-Jedynak sp.z.o.o, Sp.K",Katowice,Poland
+NCT05348785,Nzoz Novo-Med,Katowice,Poland
+NCT05348785,MD Clinic Praga,Warszawa,Poland
+NCT05348785,INSULA Centrum Badan Klinicznych,Warszawa,Poland
+NCT05348785,Hospital General de Catalunya,Sant Cugat del Valles,Spain
+NCT05348785,Clinica Universidad de Navarra,Pamplona,Spain
+NCT05348785,Complejo Hospitalario Universitario A Coruña,A Coruna,Spain
+NCT05348785,Hospital de Cruces,Barakaldo,Spain
+NCT05348785,Hospital Universitari Vall d'Hebron,Barcelona,Spain
+NCT05348785,Hospital Clinic de Barcelona,Barcelona,Spain
+NCT05348785,Hospital de la Santa Creu i Sant Pau,Barcelona,Spain
+NCT05348785,Hospital Universitario de La Princesa,Madrid,Spain
+NCT05348785,Policlinica Gipuzkoa,San Sebastian,Spain
+NCT05348785,Hospital Universitario Virgen del Rocio,Sevilla,Spain
+NCT05348785,University Hospitals Plymouth,Plymouth,United Kingdom
+NCT05348785,The National Hospital for Neurology & Neurosurgery,London,United Kingdom
+NCT05348785,Salford Royal NHS Foundation Trust,Salford,United Kingdom
+NCT05348785,Glasgow Memory Clinic Ltd,Motherwell,United Kingdom
+NCT05348785,Newcastle University,Newcastle upon Tyne,United Kingdom
+NCT05348785,Ninewells Hospital,Dundee,United Kingdom
+NCT04167527,Providence Little Company of Mary Medical Center,Torrance,United States
+NCT04167527,Baptist Health Jacksonville FL,Jacksonville,United States
+NCT04167527,University of Miami Miller School of Medicine,Miami,United States
+NCT04167527,Grady Health System (non-CRN),Atlanta,United States
+NCT04167527,Rush University Medical Center: University Neurosurgery,Chicago,United States
+NCT04167527,Advocate Aurora Health,Downers Grove,United States
+NCT04167527,Indiana University,Bloomington,United States
+NCT04167527,University of Iowa,Iowa City,United States
+NCT04167527,Baptist Health Lexington,Lexington,United States
+NCT04167527,University of Massachusetts Medical Center,Worcester,United States
+NCT04167527,Michigan Medicine Comprehensive Stroke Center,Ann Arbor,United States
+NCT04167527,Henry Ford Health System,Detroit,United States
+NCT04167527,McLaren Health Care Corporation,Grand Blanc,United States
+NCT04167527,Washington University School of Medicine,Saint Louis,United States
+NCT04167527,JFK Neurosciences Center,Edison,United States
+NCT04167527,Thomas Jefferson University,Woodbury,United States
+NCT04167527,Albany Medical Center,Albany,United States
+NCT04167527,University at Buffalo Neurosurgery/ Kaleida Health,Buffalo,United States
+NCT04167527,Icahn School of Medicine at Mount Sinai,New York,United States
+NCT04167527,University of Cincinnati,Cincinnati,United States
+NCT04167527,Cleveland Clinic,Cleveland,United States
+NCT04167527,Ohio State Wexner Medical Center,Columbus,United States
+NCT04167527,"Riverside Medical Center, OhioHealth Research Institute",Columbus,United States
+NCT04167527,Oregon Health & Science University,Portland,United States
+NCT04167527,Prisma Health-Upstate,Greenville,United States
+NCT04167527,Semmes Murphey Foundation,Memphis,United States
+NCT04167527,Texas Tech University Health Sciences Center at El Paso,El Paso,United States
+NCT04167527,VHS-Harlingen Hospital Company dba Valley Baptist Medical Center-Harlingen,Harlingen,United States
+NCT04167527,University of Calgary and Foothills Medical Centre,Calgary,Canada
+NCT04167527,University of Alberta Hospital,Edmonton,Canada
+NCT04167527,University of Manitoba,Winnipeg,Canada
+NCT04167527,London Health Sciences Centre,London,Canada
+NCT04167527,Trillium Health Partners,Mississauga,Canada
+NCT04167527,The Ottawa Hospital Civic Campus,Ottawa,Canada
+NCT04167527,Sunnybrook Health Sciences Centre,Toronto,Canada
+NCT04167527,Montreal Neurological Institute and Hospital,Montréal,Canada
+NCT04167527,University of Saskatchewan,Saskatoon,Canada
+NCT04167527,"Universitätsklinikum Freiburg, Klinik für Neurologie",Freiburg im Breisgau,Germany
+NCT04167527,Universitäts Klinikum Heidelberg,Heidelberg,Germany
+NCT04167527,"Ludwig Maximilian University, Department of Neurology",München,Germany
+NCT04167527,"Institute of Neuroradiology, University Hospital Frankfurt",Frankfurt Am Main,Germany
+NCT04167527,Universitätsmedizin Göttingen,Göttingen,Germany
+NCT04167527,"Klinikum Osnabrueck, Department of Neurology",Osnabrück,Germany
+NCT04167527,Universitätsklinikum Essen,Essen,Germany
+NCT04167527,"University Hospital Carl Gustav Carus Dresden Dresden, Department of Neurology",Dresden,Germany
+NCT04167527,"University Hospital Schleswig-Holstein, Campus Kiel",Kiel,Germany
+NCT04167527,Gesundheit Nord Klinikum Bremen-Mitte,Bremen,Germany
+NCT04241068,University of Alabama at Birmingham,Birmingham,United States
+NCT04241068,Banner Alzheimer's Institute,Phoenix,United States
+NCT04241068,Dignity Health,Phoenix,United States
+NCT04241068,Banner Sun Health Research Institute,Sun City,United States
+NCT04241068,Center for Neurosciences,Tucson,United States
+NCT04241068,Neurology Center of North Orange County,Fullerton,United States
+NCT04241068,UCI MIND,Irvine,United States
+NCT04241068,University of California San Diego Medical Center,La Jolla,United States
+NCT04241068,"Senior Clinical Trials, Inc.",Laguna Hills,United States
+NCT04241068,USC Keck School of Medicine,Los Angeles,United States
+NCT04241068,"Mary S. Easton Center for Alzheimer's Disease Research, UCLA",Los Angeles,United States
+NCT04241068,Pacific Neuroscience Medical Group,Oxnard,United States
+NCT04241068,Stanford Hospital and Clinics,Palo Alto,United States
+NCT04241068,Anderson Clinical Research,Redlands,United States
+NCT04241068,"Pacific Research Network, Inc",San Diego,United States
+NCT04241068,UCSF - Memory and Aging Center,San Francisco,United States
+NCT04241068,Syrentis Clinical Research,Santa Ana,United States
+NCT04241068,California Neuroscience Research Medical Group Inc.,Sherman Oaks,United States
+NCT04241068,University of Colorado Denver,Aurora,United States
+NCT04241068,IMMUNOe International Research Centers,Centennial,United States
+NCT04241068,Yale University,Fairfield,United States
+NCT04241068,Invicro,New Haven,United States
+NCT04241068,Yale University School Of Medicine,New Haven,United States
+NCT04241068,"Research Center for Clinical Studies, Inc.",Norwalk,United States
+NCT04241068,Georgetown University Clinical Research Unit (CRU),Washington,United States
+NCT04241068,JEM Research,Atlantis,United States
+NCT04241068,"Bradenton Research Center, Inc",Bradenton,United States
+NCT04241068,Brain Matters Research,Delray Beach,United States
+NCT04241068,Neuropsychiatric Research Center of Southwest Florida,Fort Myers,United States
+NCT04241068,"Infinity Clinical Research, LLC",Hollywood,United States
+NCT04241068,Jacksonville Center for Clinical Research,Jacksonville,United States
+NCT04241068,Mayo Clinic in Florida,Jacksonville,United States
+NCT04241068,University of Miami,Miami,United States
+NCT04241068,"Miami Jewish Health System, Inc",Miami,United States
+NCT04241068,Renstar Medical Research,Ocala,United States
+NCT04241068,Accelerated Enrollment Solutions (AES),Orlando,United States
+NCT04241068,"Clinical Neuroscience Solutions, Inc.",Orlando,United States
+NCT04241068,Accelerated Enrollment Solutions (AES),Orlando,United States
+NCT04241068,Palm Beach Neurological Center,Palm Beach Gardens,United States
+NCT04241068,Quantum Laboratories Inc.,Pompano Beach,United States
+NCT04241068,Axiom Clinical Research of Florida,Tampa,United States
+NCT04241068,"Stedman Clinical Trials, LLC",Tampa,United States
+NCT04241068,USF Health Byrd Institute,Tampa,United States
+NCT04241068,Meridien Research,Tampa,United States
+NCT04241068,Premiere Research Institute,West Palm Beach,United States
+NCT04241068,Cleveland Clinic Florida - Weston,Weston,United States
+NCT04241068,Emory University Cognitive Neurology Clinic & ADRC,Atlanta,United States
+NCT04241068,"Medical Research Health and Education Foundation, Inc",Columbus,United States
+NCT04241068,"NeuroStudies.net, LLC",Decatur,United States
+NCT04241068,Alexian Brothers Medical Center - Neuroscience Research Institute,Elk Grove Village,United States
+NCT04241068,Advocate Lutheran General Hospital,Park Ridge,United States
+NCT04241068,Fort Wayne Neurological Center,Fort Wayne,United States
+NCT04241068,Indiana University School of Medicine,Indianapolis,United States
+NCT04241068,"Josephson, Wallack, Munshower Neurology, P.C.",Indianapolis,United States
+NCT04241068,"University of Kansas Medical Center Research Institute, Inc.",Fairway,United States
+NCT04241068,"Ascension Via Christi Research, a division of Ascension Via Christi Hospitals Wichita, Inc.",Wichita,United States
+NCT04241068,Baptist Health Lexington,Lexington,United States
+NCT04241068,McLean Hospital,Belmont,United States
+NCT04241068,Beth Israel Deaconess Medical Center,Boston,United States
+NCT04241068,Brigham and Women's Hospital Department of Neurology,Boston,United States
+NCT04241068,"ActivMed Practices & Research, Inc.",Methuen,United States
+NCT04241068,Boston Center for Memory,Newton,United States
+NCT04241068,"Donald S. Marks, M.D., P.C.",Plymouth,United States
+NCT04241068,Mayo Clinic,Rochester,United States
+NCT04241068,"Hattiesburg Clinic, PA",Hattiesburg,United States
+NCT04241068,Washington University,Saint Louis,United States
+NCT04241068,Cleveland Clinic Lou Ruvo Center for Brain Health,Las Vegas,United States
+NCT04241068,Las Vegas Medical Research,Las Vegas,United States
+NCT04241068,"ActivMed Practices & Research, Inc.",Portsmouth,United States
+NCT04241068,"Advanced Memory Research Inst. of NJ, PC",Toms River,United States
+NCT04241068,Albany Medical College,Albany,United States
+NCT04241068,"Empire Neurology, PC",Latham,United States
+NCT04241068,New York University Medical Center PRIME,New York,United States
+NCT04241068,Weill Cornell Medical College (WCMC) - Judith Jaffe Multiple Sclerosis Center (JJMSC),New York,United States
+NCT04241068,Mount Sinai School of Medicine,New York,United States
+NCT04241068,University of Rochester,Rochester,United States
+NCT04241068,"AMC Research, LLC",Charlotte,United States
+NCT04241068,Raleigh Neurology Associates,Raleigh,United States
+NCT04241068,Gastroenterology Associates of the Piedmont,Winston-Salem,United States
+NCT04241068,Wake Forest Baptist Health,Winston-Salem,United States
+NCT04241068,Cleveland Clinic Foundation,Cleveland,United States
+NCT04241068,Ohio State University Wexner Medical Center,Columbus,United States
+NCT04241068,Lynn Health Science Institute,Oklahoma City,United States
+NCT04241068,"Lehigh Center for Clinical Research, LLC",Allentown,United States
+NCT04241068,"The Clinical Trial Center, LLC",Jenkintown,United States
+NCT04241068,Penn Memory Center,Philadelphia,United States
+NCT04241068,University of Pittsburgh,Pittsburgh,United States
+NCT04241068,Northeastern Pennsylvania Memory and Alzheimer's Center,Wilkes-Barre,United States
+NCT04241068,Rhode Island Mood & Memory Research Institute,East Providence,United States
+NCT04241068,Rhode Island Hospital,Providence,United States
+NCT04241068,Butler Hospital,Providence,United States
+NCT04241068,Roper St. Francis Healthcare,Charleston,United States
+NCT04241068,Medical University of South Carolina (MUSC),Charleston,United States
+NCT04241068,"Neurology Clinic, PC",Cordova,United States
+NCT04241068,Senior Adult Specialty Research,Austin,United States
+NCT04241068,UT Southwestern Medical Center,Dallas,United States
+NCT04241068,Baylor College of Medicine,Houston,United States
+NCT04241068,Clinical Trial Network,Houston,United States
+NCT04241068,University of Utah Health Sciences Center,Salt Lake City,United States
+NCT04241068,The Memory Clinic,Bennington,United States
+NCT04241068,National Clinical Research Inc.-Richmond,Richmond,United States
+NCT04241068,University of Washington Medical Centre,Seattle,United States
+NCT04241068,"Kingfisher Cooperative, LLC",Spokane,United States
+NCT04241068,"Medical College of Wisconsin, Inc.",Milwaukee,United States
+NCT04241068,The Prince Charles Hospital,Chermside,Australia
+NCT04241068,St Vincent's Hospital Sydney,Darlinghurst,Australia
+NCT04241068,Central Coast Neurosciences Research (Erina),Erina,Australia
+NCT04241068,KaRa Institute of Neurological Diseases,Macquarie Park,Australia
+NCT04241068,Box Hill Hospital,Box Hill,Australia
+NCT04241068,Austin Health,Heidelberg West,Australia
+NCT04241068,Royal Melbourne Hospital,Parkville,Australia
+NCT04241068,Australian Alzheimer's Research Foundation,Nedlands,Australia
+NCT04241068,LKH - Universitaetsklinikum Graz,Graz,Austria
+NCT04241068,Christian-Doppler-Klinik - Universitätsklinikum Salzburg,Salzburg,Austria
+NCT04241068,AKH - Medizinische Universität Wien,Vienna,Austria
+NCT04241068,AZ Klina,Brasschaat,Belgium
+NCT04241068,AZ Sint-Jan,Brugge,Belgium
+NCT04241068,Universitair Ziekenhuis Brussel,Brussel,Belgium
+NCT04241068,Universitair Ziekenhuis Gent,Gent,Belgium
+NCT04241068,AZ Groeninge,Kortrijk,Belgium
+NCT04241068,UZ Leuven,Leuven,Belgium
+NCT04241068,AZ Delta,Roeselare,Belgium
+NCT04241068,University of Calgary - Heritage Medical Research Clinic,Calgary,Canada
+NCT04241068,The Medical Arts Health Research Group,Kamloops,Canada
+NCT04241068,The Medical Arts Health Research Group,Penticton,Canada
+NCT04241068,UBC Hospital,Vancouver,Canada
+NCT04241068,Medical Arts Health Research Group,West Vancouver,Canada
+NCT04241068,True North Clinical Research - Halifax Inc.,Halifax,Canada
+NCT04241068,True North Clinical Research,Kentville,Canada
+NCT04241068,St. Joseph's HC- Parkwood Institute,London,Canada
+NCT04241068,Bruyere Continuing Care,Ottawa,Canada
+NCT04241068,Kawartha Centre - Redefining Healthy Aging,Peterborough,Canada
+NCT04241068,Toronto Memory Program (Neurology Research Inc.),Toronto,Canada
+NCT04241068,Toronto Sunnybrook Hospital,Toronto,Canada
+NCT04241068,Toronto Western Hospital,Toronto,Canada
+NCT04241068,Clinique de la Memoire de l'Outaouais,Gatineau,Canada
+NCT04241068,Institut et Clinique MoCA,Greenfield Park,Canada
+NCT04241068,Montreal Neurological Institute Clinical Research Unit,Montréal,Canada
+NCT04241068,CHU de Quebec - Hôpital de l' Enfant Jésus,Quebec,Canada
+NCT04241068,CCBR - Ålborg - DK,Aalborg,Denmark
+NCT04241068,Danish Dementia Research Centre,København,Denmark
+NCT04241068,CCBR - Vejle - DK,Vejle,Denmark
+NCT04241068,Terveystalo Ruoholahti,Helsinki,Finland
+NCT04241068,"Itä-Suomen yliopisto, Aivotutkimusyksikkö",Kuopio,Finland
+NCT04241068,"CRST, Clinical Research Services Turku",Turku,Finland
+NCT04241068,CHU Strasbourg - Hôpital Hautepierre,Strasbourg Cedex,France
+NCT04241068,Hôpital de la Timone,Marseille cedex 05,France
+NCT04241068,Groupe Hospitalier Pellegrin - Hôpital Pellegrin,Bordeaux Cedex,France
+NCT04241068,Hopital Purpan,Toulouse cedex 9,France
+NCT04241068,Hôpital La Grave,Toulouse Cedex 9,France
+NCT04241068,Hopital Gui de Chauliac,Montpellier,France
+NCT04241068,CHU Rennes - Pontchaillou,Rennes cedex 9,France
+NCT04241068,CHU Nantes - Hopital Nord Laënnec,Nantes cedex 1,France
+NCT04241068,CHU Reims - Hôpital Maison Blanche,Reims,France
+NCT04241068,CHU Lille - Hopital Roger Salengro,Lille Cedex,France
+NCT04241068,Hôpital Lariboisière,Paris cedex 10,France
+NCT04241068,CHU de Lyon - Hopital Neurologique Pierre Wertheimer,Bron Cedex,France
+NCT04241068,Hôpital des Chapennes,Villeurbanne,France
+NCT04241068,Groupe Hospitalier Pitie-Salpetriere,Paris,France
+NCT04241068,Hôpital Broca,Paris,France
+NCT04241068,Studienzentrum fur Neurologie und Psychiatrie,Böblingen,Germany
+NCT04241068,ISPG - Institut fuer Studien zur Psychischen Gesundheit,Mannheim,Germany
+NCT04241068,mind mvz GmbH,Stuttgart,Germany
+NCT04241068,Neuropoint Studienzentrum,Ulm,Germany
+NCT04241068,Universitaetsklinikum Ulm,Ulm,Germany
+NCT04241068,Klinikum Bayreuth GmbH- Hohe Warte,Bayreuth,Germany
+NCT04241068,Bezirkskrankenhaus Guenzburg,Günzburg,Germany
+NCT04241068,Klinikum rechts der Isar der TU Muenchen,Munich,Germany
+NCT04241068,Institut fuer Schlaganfall- und Demenzforschung (ISD),München,Germany
+NCT04241068,Neuropraxis Muenchen Sued,Unterhaching,Germany
+NCT04241068,"Neuro Centrum Science GmbH, Geschaftführende Gesellschafterin Barbara Unsorg und Prüfarzt Dr. med. G",Erbach,Germany
+NCT04241068,Neurologische Gemeinschaftspraxis Kassel,Kassel,Germany
+NCT04241068,Klinische Forschung Hannover-Mitte GmbH,Hannover,Germany
+NCT04241068,Universitaetsklinikum Aachen AOeR,Aachen,Germany
+NCT04241068,Neurozentrum Bielefeld,Bielefeld,Germany
+NCT04241068,Universitaetsklinikum Duesseldorf AoeR,Duesseldorf,Germany
+NCT04241068,Universitaetsklinikum Koeln,Koeln,Germany
+NCT04241068,Zentrum f. Neurologisch- Psychiatrische Studien und Begutachtung,Siegen,Germany
+NCT04241068,Klinikum Altenburger Land GmbH,Altenburg,Germany
+NCT04241068,Emovis GmbH,Berlin,Germany
+NCT04241068,Neurologie im Tempelhofer Hafen,Berlin,Germany
+NCT04241068,Charite Universitaetsmedizin Berlin - Campus Berlin Buch,Berlin,Germany
+NCT04241068,Ospedale degli Infermi,Ponderano,Italy
+NCT04241068,Azienda Ospedaliera Card. G. Panico,Tricase,Italy
+NCT04241068,ASST di Monza,Monza,Italy
+NCT04241068,Fondazione Istituto G.Giglio di Cefalù,Cefalù,Italy
+NCT04241068,Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia (Presidio Spedali Civili),Brescia,Italy
+NCT04241068,Azienda Ospedaliero Universitaria San Martino,Genova,Italy
+NCT04241068,Ospedale San Raffaele,Milano,Italy
+NCT04241068,Fondazione IRCCS Istituto Neurologico Carlo Besta,Milano,Italy
+NCT04241068,AOU dell'Università degli studi della Campania Luigi Vanvitelli,Napoli,Italy
+NCT04241068,Azienda Ospedaliera e Universitaria di Perugia,Perugia,Italy
+NCT04241068,Azienda Ospedaliero Universitaria Pisana,Pisa,Italy
+NCT04241068,Azienda Ospedaliera Universitaria Policlinico Umberto I - Università di Roma La Sapienza,Roma,Italy
+NCT04241068,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Roma,Italy
+NCT04241068,Fondazione Santa Lucia IRCCS,Roma,Italy
+NCT04241068,Azienda Ospedaliera Universitaria OO. RR. S. Giovanni di Dio e Ruggi D'Aragona,Salerno,Italy
+NCT04241068,A.O.U. Senese Policlinico Santa Maria alle Scotte,Siena,Italy
+NCT04241068,Research Site,Obu-shi,Japan
+NCT04241068,Research Site,Chiba-shi,Japan
+NCT04241068,Research Site,Chiba-shi,Japan
+NCT04241068,Research Site,Inzai-shi,Japan
+NCT04241068,Research Site,Toon-shi,Japan
+NCT04241068,Research Site,Fukuoka-shi,Japan
+NCT04241068,Research Site,Kurume-shi,Japan
+NCT04241068,Research Site,Aizu-Wakamatsu,Japan
+NCT04241068,Research Site,Otake-shi,Japan
+NCT04241068,Research Site,Asahikawa-shi,Japan
+NCT04241068,Research Site,Sapporo-shi,Japan
+NCT04241068,Research Site,Amagasaki-shi,Japan
+NCT04241068,Research Site,Himeji-shi,Japan
+NCT04241068,Research Site,Himeji-shi,Japan
+NCT04241068,Research Site,Kobe-shi,Japan
+NCT04241068,Research Site,Kita-gun,Japan
+NCT04241068,Research Site,Kamakura-shi,Japan
+NCT04241068,Research Site,Kyoto-shi,Japan
+NCT04241068,Research Site,Kyoto-shi,Japan
+NCT04241068,Research Site,Tsu-shi,Japan
+NCT04241068,Research Site,Togitsu,Japan
+NCT04241068,Research Site,Nagaoka-shi,Japan
+NCT04241068,Research Site,Yufu-shi,Japan
+NCT04241068,Research Site,Kurashiki-shi,Japan
+NCT04241068,Research Site,Okayama-shi,Japan
+NCT04241068,Research Site,Tsukuba,Japan
+NCT04241068,Research Site,Osaka-shi,Japan
+NCT04241068,Research Site,Suita-shi,Japan
+NCT04241068,Research Site,Iruma-gun,Japan
+NCT04241068,Research Site,Kasukabe-shi,Japan
+NCT04241068,Research Site,Shizuka-shi,Japan
+NCT04241068,Research Site,Shizuoka-shi,Japan
+NCT04241068,Research Site,Bunkyo-ku,Japan
+NCT04241068,Research Site,Kiyose-shi,Japan
+NCT04241068,Research Site,Kodaira-shi,Japan
+NCT04241068,Research Site,Yamagata-shi,Japan
+NCT04241068,Inha University Hospital,Incheon,"Korea, Republic of"
+NCT04241068,Seoul National University Bundang Hospital,Seongnam,"Korea, Republic of"
+NCT04241068,Gachon University Gil Medical Center,Incheon,"Korea, Republic of"
+NCT04241068,Konkuk University Medical Center,Seoul,"Korea, Republic of"
+NCT04241068,Asan Medical Center,Seoul,"Korea, Republic of"
+NCT04241068,Samsung Medical Center,Seoul,"Korea, Republic of"
+NCT04241068,Brain Research Center,Amsterdam,Netherlands
+NCT04241068,"Amphia Ziekenhuis, Molengracht",Breda,Netherlands
+NCT04241068,Erasmus Medisch Centrum,Rotterdam,Netherlands
+NCT04241068,Podlaskie Centrum Psychogeriatrii,Bialystok,Poland
+NCT04241068,PALLMED Sp. z o.o.,Bydgoszcz,Poland
+NCT04241068,Klinika Psychiatrii Doroslych UCK,Gdansk,Poland
+NCT04241068,Novo-Med Zielinski i wspolnicy Sp. j.,Katowice,Poland
+NCT04241068,SPZOZ Centralny Szpital Kliniczny UM w Lodzi,Lodz,Poland
+NCT04241068,Samodzielny Publiczny Szpital Kliniczny Nr 4 w Lublinie,Lublin,Poland
+NCT04241068,"NZOZ ""NEURO-KARD"", ""Ilkowski i Partnerzy"" Sp. Partn. Lek.",Poznan,Poland
+NCT04241068,Neuro-Care Gabriela Klodowska,Siemianowice Slaskie,Poland
+NCT04241068,Centrum Medyczne Senior,Sopot,Poland
+NCT04241068,Osrodek Badan Klinicznych EUROMEDIS,Szczecin,Poland
+NCT04241068,Centrum Medyczne NeuroProtect,Warszawa,Poland
+NCT04241068,NZOZ Wroclawskie Centrum Alzheimerowskie,Wroclaw,Poland
+NCT04241068,Hospital de Braga,Braga,Portugal
+NCT04241068,Centro Hospitalar e Universitário de Coimbra E.P.E - Hospitais da Universidade de Coimbra,Coimbra,Portugal
+NCT04241068,Hospital Beatriz Ângelo,Loures,Portugal
+NCT04241068,CNS-Campus Neurologico Senior,Torres Vedras,Portugal
+NCT04241068,Hospital General Universitario de Elche,Elche,Spain
+NCT04241068,Hospital Universitario Reina Sofia,Cordoba,Spain
+NCT04241068,Policlinica Gipuzkoa,San Sebastian,Spain
+NCT04241068,Clinica Universidad de Navarra,Pamplona,Spain
+NCT04241068,CAE Oroitu,Getxo,Spain
+NCT04241068,Hospital del Mar,Barcelona,Spain
+NCT04241068,Hospital de la Santa Creu i Sant Pau,Barcelona,Spain
+NCT04241068,Fundacio ACE,Barcelona,Spain
+NCT04241068,Hospital Clinic de Barcelona,Barcelona,Spain
+NCT04241068,Hospital Universitari de Santa Maria,Lleida,Spain
+NCT04241068,Complejo Hospitalario Ruber Juan Bravo,Madrid,Spain
+NCT04241068,Hospital Victoria Eugenia,Sevilla,Spain
+NCT04241068,Hospital Universitario Dr. Peset,Valencia,Spain
+NCT04241068,Hospital Universitari i Politecnic La Fe,Valencia,Spain
+NCT04241068,Skånes Universitetssjukhus,Malmö,Sweden
+NCT04241068,"Sahlgrenska Universitetssjukhuset, Mölndal Sjukhus",Mölndal,Sweden
+NCT04241068,"Karolinska Universitetssjukhuset, Huddinge",Stockholm,Sweden
+NCT04241068,Akademiska Sjukhuset,Uppsala,Sweden
+NCT04241068,Spitalzentrum Biel,Biel/Bienne,Switzerland
+NCT04241068,Hôpitaux Universitaires de Geneve- HUG,Genève,Switzerland
+NCT04241068,Centre Hospitalier Universitaire Vaudois,Lausanne,Switzerland
+NCT04241068,Ospedale Regionale di Lugano,Lugano,Switzerland
+NCT04241068,"Institut fur Regenerative Medizin-IREM Universitat Zurich, Campus Schlieren",Schlieren,Switzerland
+NCT04241068,Changhua Christian Medical Foundation Changhua Christian Hospital,Changhua,Taiwan
+NCT04241068,Kaohsiung Chang Gung Memorial Hospital,Kaohsiung,Taiwan
+NCT04241068,National Cheng Kung University Hospital,Tainan,Taiwan
+NCT04241068,Taipei Veterans General Hospital,Taipei,Taiwan
+NCT04241068,"Chang Gung Memorial Hospital, Linkou",Taoyuan City,Taiwan
+NCT04241068,Re:Cognition Health Ltd (London),London,United Kingdom
+NCT04241068,Charing Cross Hospital,London,United Kingdom
+NCT04241068,The National Hospital for Neurology and Neurosurgery Centre,London,United Kingdom
+NCT04241068,Manchester Royal Infirmary,Manchester,United Kingdom
+NCT04241068,The University of Edinburgh,Edinburgh,United Kingdom
+NCT04241068,The RICE Centre,Bath,United Kingdom
+NCT04241068,Queen Elizabeth University Hospital Campus,Glasgow,United Kingdom
+NCT04241068,Glasgow Memory Clinic Ltd,Motherwell,United Kingdom
+NCT04241068,Ninewells Hospital,Dundee,United Kingdom
+NCT04241068,Newcastle University,Newcastle upon Tyne,United Kingdom
+NCT05686551,Uab Medicine,Birmingham,United States
+NCT05686551,Barrow Neurological Institute,Phoenix,United States
+NCT05686551,University of California San Diego,La Jolla,United States
+NCT05686551,University of California Davis Medical System,Sacramento,United States
+NCT05686551,"CenExel Rocky Mountain Clinical Research, LLC",Englewood,United States
+NCT05686551,"Georgetown University; Research Division, Psychiatry",Washington,United States
+NCT05686551,University of Florida,Gainesville,United States
+NCT05686551,University of South Florida,Tampa,United States
+NCT05686551,Northwestern University,Chicago,United States
+NCT05686551,John Hopkins University School of Medicine,Baltimore,United States
+NCT05686551,Beth Israel Deaconess Medical Center,Boston,United States
+NCT05686551,Dent Neurological Institute,Amherst,United States
+NCT05686551,University of Pittsburgh,Pittsburgh,United States
+NCT05686551,Vanderbilt University Medical Center,Nashville,United States
+NCT05686551,Inland Northwest Research,Spokane,United States
+NCT05686551,CINME,Buenos Aires,Argentina
+NCT05686551,Hospital Ramos Mejía,Caba,Argentina
+NCT05686551,INEBA,Capital Federal,Argentina
+NCT05686551,Hospital Britanico de Buenos Aires,Ciudad Autonoma Buenos Aires,Argentina
+NCT05686551,WESTMEAD HOSPITAL; Deparment of Neurology,Westmead,Australia
+NCT05686551,Monash Medical Centre,Clayton,Australia
+NCT05686551,Perron Institute for Neurological and Translational Science,Nedlands,Australia
+NCT05686551,"Uniklinik fuer Neurologie, Medizinische Universitaet Innsbruck; Department fuer Neurologie",Innsbruck,Austria
+NCT05686551,"Rigshospitalet, Hukommelsesklinikken",Koebenhavn Oe,Denmark
+NCT05686551,"CHU Angers, Batiement Larrey 2, Neurologie",Angers Cedex 9,France
+NCT05686551,Hopital Henri Mondor; Service de Neurologie,Creteil,France
+NCT05686551,Hopital Roger Salengro Service de Neurologie,Lille,France
+NCT05686551,CHU toulouse - Hôpital Purpan; Departement de Neurologie,Toulouse,France
+NCT05686551,Uniklinik RWTH Aachen; Klinik für Neurologie,Aachen,Germany
+NCT05686551,"Charité - Universitätsmed. Berlin, Klinik für Psychiatrie und Psychotherapie; Abt. Neuropsychiatrie",Berlin,Germany
+NCT05686551,"St. Josef-Hospital, Neurologische Klinik der Ruhr-Uni; Huntington-Center NRW, Abt. Neurodegeneration",Bochum,Germany
+NCT05686551,German Center for Neurodegenerative Diseases (DZNE),Bonn,Germany
+NCT05686551,"Universitätsklinikum Erlangen, Abteilung Molekulare Neurologie",Erlangen,Germany
+NCT05686551,Universitätsklinikum Schleswig-Holstein / Campus Lübeck; Zentrum für Seltene Erkrankungen,Lübeck,Germany
+NCT05686551,Universitätsklinikum Ulm; Klinik für Neurologie,Ulm,Germany
+NCT05686551,Ospedale Bellaria; Istituto delle Scienze Neurologiche,Bologna,Italy
+NCT05686551,Azienda Ospedaliera Sant'Andrea; UOC Neurologia,Roma,Italy
+NCT05686551,Fondazione IRCCS Istituto Neurologico Carlo Besta; U.O.C. Genetica Medica-Neurogenetica,Milano,Italy
+NCT05686551,New Zealand Brain Research Institute,Christchurch,New Zealand
+NCT05686551,Szpital Sw. Wojciecha; Oddzial Neurologiczny,Gda?sk,Poland
+NCT05686551,Krakowska Akademia Neurologii Sp z o.o. Centrum Neurologii K,Krakow,Poland
+NCT05686551,Instytut Psychiatrii i Neurologii,Warszawa,Poland
+NCT05686551,Hospital de Santa Maria; Servico de Neurologia,Lisboa,Portugal
+NCT05686551,CNS - Campus Neurológico,Torres Vedras,Portugal
+NCT05686551,Hospital de Cruces; Servicio de Neurologia,Barakaldo,Spain
+NCT05686551,Hospital Universitario de Badajoz; Servicio de Neurología,Badajoz,Spain
+NCT05686551,Hospital de la Santa Creu i Sant Pau; Servicio de Neurologia,Barcelona,Spain
+NCT05686551,Hospital Universitario de Burgos. Servicio de Neurología,Burgos,Spain
+NCT05686551,Hospital Ramon y Cajal; Servicio de Neurologia,Madrid,Spain
+NCT05686551,Hospital Universitario Virgen Macarena; Servicio de Neurologia,Sevilla,Spain
+NCT05686551,Hospital Universitario la Fe; Servicio de Neurologia,Valencia,Spain
+NCT05686551,Universitätsspital Basel; Neurologie,Basel,Switzerland
+NCT05686551,Neurozentrum Siloah,Gümligen,Switzerland
+NCT05686551,University Hospitals Birmingham NHS Foundation Trust,Birmingham,United Kingdom
+NCT05686551,Addenbrookes Hospital,Cambridge,United Kingdom
+NCT05686551,John Radcliffe Hospital; Neurosciences,Chinnor,United Kingdom
+NCT05686551,Chapel Allerton Hospital; Clinical Genetics,Leeds,United Kingdom
+NCT05686551,UCL Hospital NHS Trust,London,United Kingdom
+NCT05686551,Southampton University Hospitals NHS Trust,Southampton,United Kingdom
 NCT04477785,University of Alabama at Birmingham,Birmingham,United States
 NCT04477785,Barrow Neurological Institute,Phoenix,United States
 NCT04477785,Mayo Foundation for Medical Education and Research,Scottsdale,United States
@@ -124,20 +706,6 @@ NCT04477785,Queen Mary University of London,London,United Kingdom
 NCT04477785,Newcastle University,Newcastle Upon Tyne,United Kingdom
 NCT04477785,Imperial College London,London,United Kingdom
 NCT04477785,John Radcliffe Hospital Oxford and Oxford University,Oxford,United Kingdom
-NCT04948645,UC Irvine Health ALS and Neuromuscular Center,Irvine,United States
-NCT04948645,Cedars-Sinai Medical Center,Los Angeles,United States
-NCT04948645,Forbes Norris MDA/ALS Research and Treatment Center,San Francisco,United States
-NCT04948645,Mayo Clinic,Jacksonville,United States
-NCT04948645,Johns Hopkins ALS Clinical Trials Unit,Baltimore,United States
-NCT04948645,Healey & AMG Center for ALS Research,Boston,United States
-NCT04948645,Mayo Clinic,Rochester,United States
-NCT04948645,University of Calgary - Heritage Medical Research Clinic,Calgary,Canada
-NCT04948645,University of Alberta,Edmonton,Canada
-NCT04948645,Stan Cassidy Centre for Rehabilitation,Fredericton,Canada
-NCT04948645,London Health Sciences Centre,London,Canada
-NCT04948645,Sunnybrook Research Institute,Toronto,Canada
-NCT04948645,Centre Hospitalier de l'Universite de Montreal (CHUM),Montreal,Canada
-NCT04948645,Montreal Neurological Institute and Hospital,Montreal,Canada
 NCT03260920,UCLA,Los Angeles,United States
 NCT03260920,"University of California, San Francisco",San Francisco,United States
 NCT03260920,Johns Hopkins Bayview Medical Center,Baltimore,United States
@@ -149,30 +717,831 @@ NCT03260920,Sunnybrook Health Sciences Centre,Toronto,Canada
 NCT03260920,University Health Network,Toronto,Canada
 NCT03260920,Montreal Neurological Institute and Hospital,Montreal,Canada
 NCT03260920,Laval University,Quebec,Canada
+NCT05704361,Stanford University Medical Center; Stanford Neuroscience Health Center,Stanford,United States
+NCT05704361,Yale University Multiple Sclerosis Center,New Haven,United States
+NCT05704361,University of South Florida,Tampa,United States
+NCT05704361,University of Massachusetts Medical School,Worcester,United States
+NCT05704361,"UC Health, LLC.",Cincinnati,United States
+NCT05704361,UZ Gent,Gent,Belgium
+NCT05704361,Montreal Neurological Institute and Hospital; Pharmacy Department,Montreal,Canada
+NCT05704361,"Universitätsklinikum ""Carl Gustav Carus""; MS Center Dresden",Dresden,Germany
+NCT05704361,Universitätsmedizin Göttingen Georg-August-Universität; Klinik für Neurologie,Göttingen,Germany
+NCT05704361,Klinikum rechts der Isar der TU Muenchen; Neurologische Klinik und Poliklinik im Neuro-Kopf-Zentrum,München,Germany
+NCT05704361,Universitätsklinikum Münster Klinik u. Poliklinik f. Neurologie,Münster,Germany
+NCT05704361,Hadassah University Hospital - Ein Kerem,Jerusalem,Israel
+NCT05704361,Tel Aviv Sourasky Medical Center; Department of Neurology,Tel Aviv,Israel
+NCT05704361,IRCCS Ospedale San Raffaele; Neurologia Neurofisiologia Neuroriabilitazione-Centro Sclerosi Multipla,Milano,Italy
+NCT05704361,Fond. Istituto Neurologico C.Besta; UO Neurologia IV - Neuroimmunologia Malattie Neuromuscolari,Milano,Italy
+NCT05704361,"ARENSIA Exploratory Medicine Phase I, PMSI Republican Clinical Hospital",Chisinau,"Moldova, Republic of"
+NCT05704361,Uniwersyteckie Centrum Kliniczne; Osrodek Badan Wczesnych Faz,Gda?sk,Poland
+NCT05704361,Regionalny Szpital Specjalistyczny im. W. Bieganskiego; Oddzial Neurologiczny,Grudzi?dz,Poland
+NCT05704361,MedPolonia,Poznan,Poland
+NCT05704361,Osrodek Badan Klinicznych Euromedis,Szczecin,Poland
+NCT05704361,Instytut Psychiatrii i Neurologii II Klinika Neurologiczna,Warszawa,Poland
+NCT05704361,SPSK nr 1; Klinika Neurologii,Zabrze,Poland
+NCT05704361,"Hospital de Braga; Centro Clínico Académico (Piso 1, Ala E)",Braga,Portugal
+NCT05704361,"ARENSIA Exploratory Medicine, County Emergency Hospital",Cluj-Napoca,Romania
+NCT05633459,Universitaire Ziekenhuizen Leuven (UZ Leuven),Leuven,Belgium
+NCT05633459,University of Calgary,Calgary,Canada
+NCT05633459,University of Alberta,Edmonton,Canada
+NCT05633459,CHUM - Hopital Notre-Dame,Montréal,Canada
+NCT05633459,Montreal Neurological Institute-Hospital,Montréal,Canada
+NCT05633459,"University Hospital Schleswig-Holstein (UKSH) Campus Lübeck, Department for Neurology/ Precision Neurology",Lübeck,Germany
+NCT05633459,St James's Hospital,Dublin,Ireland
+NCT05633459,Universitair Medisch Centrum Utrecht,Utrecht,Netherlands
+NCT05633459,"The University of Sheffield, Royal Hallamshire Hospital",Sheffield,United Kingdom
+NCT05399888,HonorHealth Neurology,Scottsdale,United States
+NCT05399888,Banner Sun Health Research Institute,Sun City,United States
+NCT05399888,"PNS Clinical Research, LLC dba",Orange,United States
+NCT05399888,Stanford Hospital and Clinics,Palo Alto,United States
+NCT05399888,University of California San Francisco (PARENT),San Francisco,United States
+NCT05399888,"Charter Research, LLC",Lady Lake,United States
+NCT05399888,"K2 Medical Research, LLC",Orlando,United States
+NCT05399888,Advent Health,Orlando,United States
+NCT05399888,Conquest Research,Winter Park,United States
+NCT05399888,"Charter Research, LLC",Winter Park,United States
+NCT05399888,Hawaii Pacific Neuroscience,Honolulu,United States
+NCT05399888,"Neurological Associates of Albany, PC",Albany,United States
+NCT05399888,Dent Neurologic Institute,Amherst,United States
+NCT05399888,New York University Medical Center PRIME,New York,United States
+NCT05399888,"AMC Research, LLC",Matthews,United States
+NCT05399888,Butler Hospital,Providence,United States
+NCT05399888,"Neurology Clinic, PC",Cordova,United States
+NCT05399888,"Neurology Consultants of Dallas, PA",Dallas,United States
+NCT05399888,University of Texas Health Science Center at San Antonio,San Antonio,United States
+NCT05399888,"Kingfisher Cooperative, LLC",Spokane,United States
+NCT05399888,St Vincent's Hospital Sydney,Darlinghurst,Australia
+NCT05399888,Southern Neurology,Kogarah,Australia
+NCT05399888,The Medical Arts Health Research Group,Kamloops,Canada
+NCT05399888,Medical Arts Health Research Group,West Vancouver,Canada
+NCT05399888,"Recherches Neuro-Hippocampe Inc., d/b/a Ottawa Memory Clinic",Ottawa,Canada
+NCT05399888,Toronto Memory Program (Neurology Research Inc.),Toronto,Canada
+NCT05399888,Baycrest Centre for Geriatric Care,Toronto,Canada
+NCT05399888,Clinique de la Memoire de l'Outaouais,Gatineau,Canada
+NCT05399888,Ehime University Hospital,Toon-shi,Japan
+NCT05399888,Himeji Central Hospital Clinic,Himeji-shi,Japan
+NCT05399888,Nippon Medical School Musashi Kosugi Hospital,Kawasaki-shi,Japan
+NCT05399888,Yokohama City Minato Red Cross Hospital,Yokohama-shi,Japan
+NCT05399888,Osaka Metropolitan University Hospital,Osaka-shi,Japan
+NCT05399888,Osaka University Hospital,Suita-shi,Japan
+NCT05399888,Tokyo Metropolitan Institute for Geriatrics and Gerontology,Itabashi-ku,Japan
+NCT05399888,Ospedale Regionale di Lugano,Lugano,Switzerland
+NCT05399888,"Hôpitaux Universitaires de Genève - HUG- Centre de la mémoire, Bâtiment A1 - Morier",Geneve,Switzerland
 NCT05061953,The Neuro,Montreal,Canada
 NCT05061953,"Genge Partners, Inc.",Montreal,Canada
-NCT04886518,UCI Center for Clinical Research,Irvine,United States
-NCT04886518,University of Colorado School of Medicine,Aurora,United States
-NCT04886518,University of Florida,Gainesville,United States
-NCT04886518,University of South Florida,Tampa,United States
-NCT04886518,Rare Disease Research,Atlanta,United States
-NCT04886518,Indiana University,Indianapolis,United States
-NCT04886518,University of Kansas Medical Center,Kansas City,United States
-NCT04886518,Kennedy Krieger Institute Center for Genetic Muscle Disorders,Baltimore,United States
-NCT04886518,Massachusetts General Hospital,Boston,United States
-NCT04886518,Beaumont Research Institute,Royal Oak,United States
-NCT04886518,University of Minnesota,Minneapolis,United States
-NCT04886518,University of Rochester Medical Center,Rochester,United States
-NCT04886518,University of North Carolina,Chapel Hill,United States
-NCT04886518,Wake Forest,Winston-Salem,United States
-NCT04886518,University of Cincinnati Gardner Neuroscience Institute,Cincinnati,United States
-NCT04886518,Ohio Sleep Medicine Institute,Dublin,United States
-NCT04886518,University of Pennsylvania,Philadelphia,United States
-NCT04886518,University of Texas Health Science Center at San Antonio,San Antonio,United States
-NCT04886518,University of Washington,Seattle,United States
-NCT04886518,The Ottawa Hospital,Ottawa,Canada
-NCT04886518,Hôpital de Chicoutimi,Chicoutimi,Canada
-NCT04886518,Montreal Neurological Institute and Hospital,Montréal,Canada
+NCT05686070,"Eastern Shore Research Institute, LLC | Fairhope, AL",Fairhope,United States
+NCT05686070,St. Joseph's Hosp | Barrow Neuro Institute,Phoenix,United States
+NCT05686070,HonorHealth,Scottsdale,United States
+NCT05686070,Banner - University Medical Center Tucson,Tucson,United States
+NCT05686070,University of Arkansas for Medical Sciences,Little Rock,United States
+NCT05686070,Kaiser Permanente Fontana Medical Center,Fontana,United States
+NCT05686070,MemorialCare Health System,Long Beach,United States
+NCT05686070,Kaiser Permanente Los Angeles Medical Center,Los Angeles,United States
+NCT05686070,University of Southern California Keck School of Medicine,Los Angeles,United States
+NCT05686070,Ronald Reagan UCLA Medical Center,Los Angeles,United States
+NCT05686070,Hoag Memorial Hospital - Center for Research & Education,Newport Beach,United States
+NCT05686070,UC Irvine Medical Center,Orange,United States
+NCT05686070,University of California Davis Medical Center,Sacramento,United States
+NCT05686070,San Francisco VA Health Care System,San Francisco,United States
+NCT05686070,Cottage Health I Santa Barbara Cottage Hospital - Research Department,Santa Barbara,United States
+NCT05686070,Stanford University Medical Center,Stanford,United States
+NCT05686070,Harbor - UCLA Medical Center,Torrance,United States
+NCT05686070,Nuvance Health,Danbury,United States
+NCT05686070,Yale University | School of Medicine - Department of Neurology,New Haven,United States
+NCT05686070,"Cardiology Associates of Fairfield County, PC - Trumbull",Trumbull,United States
+NCT05686070,Christiana Care Health System,Newark,United States
+NCT05686070,HCA Florida JFK Hospital,Atlantis,United States
+NCT05686070,Delray Medical Center,Boynton Beach,United States
+NCT05686070,Nova Clinical Research | Manatee Memorial Hospital,Bradenton,United States
+NCT05686070,Nova Clinical Research | Blake Medical Center Center,Bradenton,United States
+NCT05686070,"BayCare Health System | Morton Plant Hospital, Neuroscience Research department",Clearwater,United States
+NCT05686070,University of Florida Health Sciences Center,Gainesville,United States
+NCT05686070,Baptist Health Research Institute,Jacksonville,United States
+NCT05686070,Intercoastal Medical Group | Clinical Research,Sarasota,United States
+NCT05686070,University of South Florida,Tampa,United States
+NCT05686070,BayCare Health System - Tampa,Tampa,United States
+NCT05686070,University of Illinois at Chicago | Department of Neurology,Chicago,United States
+NCT05686070,The University of Chicago,Chicago,United States
+NCT05686070,Loyola University Medical Center,Maywood,United States
+NCT05686070,Mercyhealth Javon Bea Hospital - Riverside | Neurology Research Department,Rockford,United States
+NCT05686070,HSHS Medical Group,Springfield,United States
+NCT05686070,Baptist Health Lexington,Lexington,United States
+NCT05686070,Ochsner Health System | Ochsner Clinic Foundation - Neuroscience Research Department,New Orleans,United States
+NCT05686070,Ochsner LSU Health Shreveport,Shreveport,United States
+NCT05686070,University of Maryland,Baltimore,United States
+NCT05686070,Comprehensive Neurology Clinics of Bethesda,Bethesda,United States
+NCT05686070,Tufts Medical Center - Boston,Boston,United States
+NCT05686070,Henry Ford Hospital,Detroit,United States
+NCT05686070,Michigan State University,East Lansing,United States
+NCT05686070,Trinity Health Oakland,Pontiac,United States
+NCT05686070,"Minneapolis Clinic of Neurology, Ltd.",Golden Valley,United States
+NCT05686070,Mayo Clinic - Rochester,Rochester,United States
+NCT05686070,University of Mississippi Medical Center | Shafi Group,Jackson,United States
+NCT05686070,University of Missouri Health Care,Columbia,United States
+NCT05686070,St. Luke's Hospital of Kansas City,Kansas City,United States
+NCT05686070,Kansas City VA Medical Center,Kansas City,United States
+NCT05686070,Barnes-Jewish Hospital,Saint Louis,United States
+NCT05686070,Mercy Hospital South,Saint Louis,United States
+NCT05686070,Mercy Hospital,Saint Louis,United States
+NCT05686070,Dartmouth Hitchcock Medical Center,Lebanon,United States
+NCT05686070,Hackensack University Medical Center,Hackensack,United States
+NCT05686070,Inspira Medical Centers | Clinical Research Office,Mullica Hill,United States
+NCT05686070,Albany Medical Center,Albany,United States
+NCT05686070,SUNY Downstate Medical Center,Brooklyn,United States
+NCT05686070,Trinity Medical Western New York | Trinity Vascular & Endovascular Center - Research Department,Buffalo,United States
+NCT05686070,Northwell Health Neuroscience Institute,Great Neck,United States
+NCT05686070,NYU Langone Medical Center,New York,United States
+NCT05686070,Icahn School of Medicine at Mount Sinai,New York,United States
+NCT05686070,Columbia University,New York,United States
+NCT05686070,Mount Sinai Hospital - Stroke Center,New York,United States
+NCT05686070,Vassar Brothers Medical Center,Poughkeepsie,United States
+NCT05686070,Long Island Jewish Medical Center,Queens,United States
+NCT05686070,Rochester General Hospital,Rochester,United States
+NCT05686070,Westchester Medical Center,Valhalla,United States
+NCT05686070,Mission Hospital | Neurology,Asheville,United States
+NCT05686070,University of North Carolina,Chapel Hill,United States
+NCT05686070,Duke Univ. Medical Center,Durham,United States
+NCT05686070,Guilford Neurologic Associates,Greensboro,United States
+NCT05686070,ECU Health Medical Center,Greenville,United States
+NCT05686070,NC Heart & Vascular Research,Raleigh,United States
+NCT05686070,Wake Forest University School of Medicine,Winston-Salem,United States
+NCT05686070,Novant Health Forsyth Medical Center,Winston-Salem,United States
+NCT05686070,Cleveland Clinic Foundation,Cleveland,United States
+NCT05686070,Ohio State University Wexner Medical Center,Columbus,United States
+NCT05686070,OhioHealth Research Institute,Columbus,United States
+NCT05686070,Wright State University | Boonshoft School of Medicine - WSU and Premier Health Clinical Trials Research Alliance,Fairborn,United States
+NCT05686070,Kettering Health Network | Research Institute,Kettering,United States
+NCT05686070,Bon Secours Mercy Health,Lima,United States
+NCT05686070,ProMedica | ProMedica Toledo Hospital - Neuro/Stroke Research Department,Toledo,United States
+NCT05686070,Mercy Health St. Vincent Medical Center,Toledo,United States
+NCT05686070,Mercy Health St. Elizabeth Youngstown Hospital,Youngstown,United States
+NCT05686070,University of Oklahoma Med Center,Oklahoma City,United States
+NCT05686070,Mercy Hospital Oklahoma City,Oklahoma City,United States
+NCT05686070,Oregon Health and Science University,Portland,United States
+NCT05686070,Lehigh Neurology,Allentown,United States
+NCT05686070,University of Pittsburgh Medical Center Hamot,Erie,United States
+NCT05686070,University of Pittsburgh Medical Center,Harrisburg,United States
+NCT05686070,Penn State Milton S. Hershey Medical Center,Hershey,United States
+NCT05686070,Lancaster General Hospital,Lancaster,United States
+NCT05686070,The Hospitals of the University of Pennsylvania,Philadelphia,United States
+NCT05686070,Thomas Jefferson University,Philadelphia,United States
+NCT05686070,Lewis Katz School of Medicine at Temple University - Neurolo,Philadelphia,United States
+NCT05686070,Einstein Healthcare Network,Philadelphia,United States
+NCT05686070,Rhode Island Hospital,Providence,United States
+NCT05686070,Medical University of South Carolina,Charleston,United States
+NCT05686070,Prisma Health Greenville Memorial Hospital,Greenville,United States
+NCT05686070,"Erlanger Health, Inc.",Chattanooga,United States
+NCT05686070,University of Tennessee Medical Center,Knoxville,United States
+NCT05686070,Baptist Memorial Hospital East,Memphis,United States
+NCT05686070,Baylor University Medical Center at Dallas,Dallas,United States
+NCT05686070,University of Texas Southwestern Medical Center,Dallas,United States
+NCT05686070,Doctors Hospital at Renaissance,Edinburg,United States
+NCT05686070,Texas Health Harris Methodist Hospital,Fort Worth,United States
+NCT05686070,Valley Baptist Health System | Harlingen - Clinical Research,Harlingen,United States
+NCT05686070,Houston Methodist Hospital,Houston,United States
+NCT05686070,University of Texas Health Science Center at Houston,Houston,United States
+NCT05686070,"Neurology Consultants of Dallas, PA",Plano,United States
+NCT05686070,University of Texas Health San Antonio,San Antonio,United States
+NCT05686070,Baylor Scott & White,Temple,United States
+NCT05686070,Intermountain Medical Center - Stroke,Murray,United States
+NCT05686070,University of Utah Health Care,Salt Lake City,United States
+NCT05686070,Neurological Associates - Henrico,Henrico,United States
+NCT05686070,Bon Secours St. Mary's Hospital,Richmond,United States
+NCT05686070,University Physicians and Surgeons,Huntington,United States
+NCT05686070,Aurora Saint Luke's Medical Center,Milwaukee,United States
+NCT05686070,Froedtert Health/Medical College of Wisconsin,Milwaukee,United States
+NCT05686070,Clinica IMA,Adrogue,Argentina
+NCT05686070,Hospital General de Agudos JM Ramos Mejía,Buenos Aires (Capital Federal),Argentina
+NCT05686070,Hospital General de Agudos Dr. Ignacio Pirovano,Capital Federal,Argentina
+NCT05686070,Hospital Italiano de La Plata | Clinical Research Department,La Plata,Argentina
+NCT05686070,Policlinico Lomas | Neurology Department,Lomas de Zamora,Argentina
+NCT05686070,Hospital Privado de Comunidad | Clinical Research Department,Mar del Plata,Argentina
+NCT05686070,Sanatorio de la Trinidad Mitre,Buenos Aires,Argentina
+NCT05686070,Hospital Italiano Buenos Aires,Buenos Aires,Argentina
+NCT05686070,Fundacion para la Lucha vs. Enf. Neurologicas de la Infancia,Buenos Aires,Argentina
+NCT05686070,Complejo Policial Churruca Visca,Buenos Aires,Argentina
+NCT05686070,Hospital Privado de Rosario (HPR Grupo Gamma),Rosario,Argentina
+NCT05686070,Sanatorio Parque | Departamento de Neurologia,Rosario,Argentina
+NCT05686070,"Centro Estudios Médicos e Invest. Clínicas ""Dr. N. Quirno""",Buenos Aires,Argentina
+NCT05686070,Sanatorio Allende | Departamento de Investigación Clínica,Córdoba,Argentina
+NCT05686070,San Bernardo Hospital | Neurology Department,Salta,Argentina
+NCT05686070,Blacktown Hospital,Blacktownn,Australia
+NCT05686070,Royal Prince Alfred Hospital,Camperdown,Australia
+NCT05686070,South Western Sydney Local Health District | Liverpool Hospital - Stroke and Neurovascular Department,Liverpool,Australia
+NCT05686070,John Hunter Hospital,New Lambton Heights,Australia
+NCT05686070,Prince of Wales Hospital NSW,Randwick,Australia
+NCT05686070,Royal North Shore Hospital,St Leonards,Australia
+NCT05686070,Nepean Hospital,Sydney,Australia
+NCT05686070,Westmead Hospital,Westmead,Australia
+NCT05686070,Sunshine Coast University Hospital,Birtinya,Australia
+NCT05686070,Royal Brisbane and Women's Hospital,Brisbane,Australia
+NCT05686070,Redcliffe District Hospital,Redcliffe,Australia
+NCT05686070,Gold Coast University Hospital,Southport,Australia
+NCT05686070,Princess Alexandra Hospital Australia,Woollongabba,Australia
+NCT05686070,Royal Adelaide Hospital,Adelaide,Australia
+NCT05686070,Lyell McEwin Hospital,Elizabeth Vale,Australia
+NCT05686070,Grampians Health Ballarat,Ballarat,Australia
+NCT05686070,Box Hill Hospital,Box Hill,Australia
+NCT05686070,Monash Medical Centre,Clayton,Australia
+NCT05686070,Royal Melbourne Hospital,Parkville,Australia
+NCT05686070,The Alfred Hospital,Prahran,Australia
+NCT05686070,Western Health Neuroscience Research Unit,St Albans,Australia
+NCT05686070,Fiona Stanley Hospital,Murdoch,Australia
+NCT05686070,Sir Charles Gairdner Hospital,Nedlands,Australia
+NCT05686070,Landesklinikum Moedling | Abteilung für Neurologie,Moedling,Austria
+NCT05686070,Universitaetsklinikum St. Poelten | Abteilung für Neurologie,St. Poelten,Austria
+NCT05686070,Med Campus III | Klinik fuer Neurologie 2,Linz,Austria
+NCT05686070,Barmherzige Brueder Linz | Neurologie,Linz,Austria
+NCT05686070,Kardinal Schwarzenberg Klinikum,Schwarzach im Pongau,Austria
+NCT05686070,Universitaetsklinikum Graz | Abteilung für Neurologie,Graz,Austria
+NCT05686070,Medizinische Universitaet Innsbruck | Neurologie,Innsbruck,Austria
+NCT05686070,Universitaeres Landeskrankenhaus Feldkirch | Neurologie,Feldkirch,Austria
+NCT05686070,Barmherzige Brueder Wien | Abt. fuer Neurologie,Wien,Austria
+NCT05686070,AKH Wien | Univ. Klinik fuer Neurologie,Wien,Austria
+NCT05686070,Klinik Ottakring | Neurologische Abteilung,Wien,Austria
+NCT05686070,Klinik Floridsdorf | Abt. f. Neurologie,Wien,Austria
+NCT05686070,Jessa Hospital | Neurology Department,Hasselt,Belgium
+NCT05686070,CHC MontLégia Neurology Department,Liege,Belgium
+NCT05686070,AZ Sint-Jan Brugge | Neurology,Brugge,Belgium
+NCT05686070,UZ Brussel,Brussel,Belgium
+NCT05686070,Hôpital Erasme/Erasmus Ziekenhuis,Bruxelles - Brussel,Belgium
+NCT05686070,CU Saint-Luc/UZ St-Luc,Bruxelles - Brussel,Belgium
+NCT05686070,UZ Gent,Gent,Belgium
+NCT05686070,AZ Groeninge Campus Kennedylaan - Neurology department,Kortrijk,Belgium
+NCT05686070,UZ Leuven - Neurology department,Leuven,Belgium
+NCT05686070,"Kust, Ommeland en Meetjesland (KOM) Network | AZ Damiaan - Neurology Department",Ostend,Belgium
+NCT05686070,Vitaz Sint-Niklaas Moerland,Sint-Niklaas,Belgium
+NCT05686070,Clinique de l'Europe,Uccle,Belgium
+NCT05686070,Hospital Universitario Professor Edgard Santos,Salvador,Brazil
+NCT05686070,Centro de Pesquisas do Hospital Bahia,Salvador,Brazil
+NCT05686070,Hospital Geral de Fortaleza,Fortaleza,Brazil
+NCT05686070,Hospital Brasilia,Brasilia,Brazil
+NCT05686070,Hospital Estadual Central Vitoria - Fundação INOVA - ES,Espirito Santo,Brazil
+NCT05686070,Hospital Universitário UFMS,Campo Grande,Brazil
+NCT05686070,Hospital da Universidade Federal de Minas Gerais,Belo Horizonte,Brazil
+NCT05686070,Hospital Madre Tereza,Belo Horizonte,Brazil
+NCT05686070,Hospital das Clinicas da Universidade Federal do Paraná,Curitiba,Brazil
+NCT05686070,Hospital Moinhos de Vento-Centro Clínico,Porto Alegre,Brazil
+NCT05686070,Hospital de Clínicas de Porto Alegre,Porto Alegre,Brazil
+NCT05686070,Clinica Neurologica e Neurocirurgica de Joinville Ltda,Joinville,Brazil
+NCT05686070,Hospital das Clínicas de Botucatu - UNESP Botucatu,Botucatu,Brazil
+NCT05686070,Sociedade Matonense de Benemerência,Matão,Brazil
+NCT05686070,Hosp Clínicas Facult. Med. de Ribeirão Preto / USP,Ribeirão Preto/SP,Brazil
+NCT05686070,Fundação Facu. Reg de Medicina de São José do Rio Preto,São José do Rio Preto,Brazil
+NCT05686070,Hospital Nove de Julho,São Paulo,Brazil
+NCT05686070,Unifesp/Epm,São Paulo,Brazil
+NCT05686070,Hospital São Lucas - Rio de Janeiro,Rio de Janeiro,Brazil
+NCT05686070,Hospital Pró-Cardíaco,Rio de Janeiro,Brazil
+NCT05686070,L'Dor - Instituto de Ensino e Pesquisa,Rio de Janeiro,Brazil
+NCT05686070,Science Valley Research Institute,Sao Paulo,Brazil
+NCT05686070,MHAT Sveti Ivan Rilski 2003,Dupnitsa,Bulgaria
+NCT05686070,MHAT Haskovo AD | Department of Nervous Diseases,Haskovo,Bulgaria
+NCT05686070,MHAT Pleven MMA,Pleven,Bulgaria
+NCT05686070,UMHAT Dr Georgi Stranski Pleven | Department of Neurology,Pleven,Bulgaria
+NCT05686070,MHAT Sveti Pantaleymon - Plovdiv,Plovdiv,Bulgaria
+NCT05686070,University Multiprof. Hosp. for Active Treatment Pulmed,Plovdiv,Bulgaria
+NCT05686070,University Multispecialty Hosp Dep General&Vascu Neurology,Ruse,Bulgaria
+NCT05686070,II MHAT-EAD Sofia,Sofia,Bulgaria
+NCT05686070,Multiprofile Hospital for Active Treatment National Cardiology Hospital | Clinic for Neurological Diseases,Sofia,Bulgaria
+NCT05686070,Acibadem City Clinic | Tokuda Hospital - Department of Neurology and Sleep Medicine,Sofia,Bulgaria
+NCT05686070,UMHAT Tsaritsa Yoanna-ISUL Clinic for neurology diseases,Sofia,Bulgaria
+NCT05686070,Military Medical Academy,Sofia,Bulgaria
+NCT05686070,University Multi-profile Hospital for Active Treatment and Emergency Medicine Pirogov | Department of Nervous Diseases,Sofia,Bulgaria
+NCT05686070,MHAT Sofiamed,Sofia,Bulgaria
+NCT05686070,"MHATNP ""Sveti Naum""",Sofia,Bulgaria
+NCT05686070,MHAT Sveta Anna,Sofia,Bulgaria
+NCT05686070,MHAT Sveta Marina EAD,Varna,Bulgaria
+NCT05686070,University of Calgary | Foothills Medical Centre - Department of Clinical Neurosciences - Stroke Clinical Trials Group,Calgary,Canada
+NCT05686070,University of Alberta Hospital,Edmonton,Canada
+NCT05686070,Kelowna General Hospital,Kelowna,Canada
+NCT05686070,Royal Columbian Hospital,New Westminster,Canada
+NCT05686070,Vancouver General Hospital / Vancouver Stroke Program,Vancouver,Canada
+NCT05686070,Winnepeg Health Sciences Centre,Winnipeg,Canada
+NCT05686070,Queen Elizabeth II Complex,Halifax,Canada
+NCT05686070,Hamilton General Hospital,Hamilton,Canada
+NCT05686070,Kingston Health Sciences Centre (KGH Site),Kingston,Canada
+NCT05686070,London Health Sciences Centre,London,Canada
+NCT05686070,The Ottawa Hospital | The Ottawa Hospital Research Institute - Neurology - Ottawa Stroke Program,Ottawa,Canada
+NCT05686070,"Health Sciences North Research Institute | Sudbury, Canada",Sudbury,Canada
+NCT05686070,Sunnybrook Health Sciences Centre,Toronto,Canada
+NCT05686070,Unity Health Toronto | St. Michael's Hospital - Stroke Research,Toronto,Canada
+NCT05686070,CIUSSS Saguenay Lac-St-Jean,Chicoutimi,Canada
+NCT05686070,CHUM - Centre hospitalier de l'Université de Montréal,Montreal,Canada
+NCT05686070,McGill University,Montreal,Canada
+NCT05686070,Jewish General Hospital,Montreal,Canada
+NCT05686070,"CIUSSS de l'Estrie-CHUS, Hopital Fleurimont",Sherbrooke,Canada
+NCT05686070,"University of Saskatchewan, Royal University Hospital",Saskatoon,Canada
+NCT05686070,Center For Neurologic Research,Lethbridge,Canada
+NCT05686070,CHU de Québec-Hôpital de l'Enfant-Jésus,Quebec,Canada
+NCT05686070,Xuancheng People's Hospital,Xuancheng,China
+NCT05686070,Lanzhou University Second Hospital,Lanzhou,China
+NCT05686070,Foshan First People's Hospital,Foshan,China
+NCT05686070,Guangdong Provincial People's Hospital,Guangzhou,China
+NCT05686070,Zhujiang Hospital of Southern Medical University,Guangzhou,China
+NCT05686070,Guangzhou Overseas Chinese Hospital,Guangzhou,China
+NCT05686070,Liuzhou People's Hospital,Liuzhou,China
+NCT05686070,Hainan General Hospital,Haikou,China
+NCT05686070,Cangzhou Central Hospital,Cangzhou,China
+NCT05686070,Harrison International Peace Hospital,Hengshui,China
+NCT05686070,The Third Hospital of Hebei Medical University,Shijiazhuang,China
+NCT05686070,Tangshan people's Hospital,Tangshan,China
+NCT05686070,Daqing Oilfield General Hospital,Daqing,China
+NCT05686070,Daqing People's Hospital,Daqing,China
+NCT05686070,1st Affiliated Hospital of Henan Science and Technology Univ,Luoyang,China
+NCT05686070,Luoyang Third People's Hospital,Luoyang,China
+NCT05686070,The Third Affiliated Hospital of Xinxiang Medical university,Xinxiang,China
+NCT05686070,Xinxiang Central Hospital,Xinxiang,China
+NCT05686070,"The Central Hospital of Wuhan, Tongji Medl Collg Huazhong...",Wuhan,China
+NCT05686070,Wuhan No. 4 Hospital,Wuhan,China
+NCT05686070,The Third Xiangya Hospital of Central South University,Changsha,China
+NCT05686070,1st Affiliated Hospital of Nanhua University,Hengyang,China
+NCT05686070,Baogang hospital,Baotou,China
+NCT05686070,The First Affiliated Hospital of Baotou Medical College,Baotou,China
+NCT05686070,The Affiliated Huaian No.1 People's Hospi of NJ Medical Unv.,Huai'an,China
+NCT05686070,Affiliated Hospital of Jiangsu University,JiangSu,China
+NCT05686070,The Second Affiliated Hospital of Nanjing Medical university,Nanjing,China
+NCT05686070,Nanjing First Hospital,Nanjing,China
+NCT05686070,Zhongda Hospital Southeast University,Nanjing,China
+NCT05686070,Wuxi No.2 People's Hospital,Wuxi,China
+NCT05686070,Wuxi People's Hospital,Wuxi,China
+NCT05686070,Xuzhou Central Hospital,Xuzhou,China
+NCT05686070,Affiliated Hospital of Yangzhou University,Yangzhou,China
+NCT05686070,Jiangxi Provincial People's Hospital,Nanchang,China
+NCT05686070,The First Affiliated Hospital of NanChang University,Nanchang,China
+NCT05686070,The First Hospital of Jilin University,Changchun,China
+NCT05686070,The First Affiliated Hospital of Jinzhou Medical University,Jinzhou,China
+NCT05686070,General Hospital of Northern Theater Command,Shenyang,China
+NCT05686070,General Hospital of Ningxia Medical University,Yinchuan,China
+NCT05686070,Qinghai University Affiliated Hospital,Xining,China
+NCT05686070,Baoji Central Hospital,Baoji,China
+NCT05686070,Yan'an University Xianyang Hospital,Xianyang,China
+NCT05686070,Qilu Hospital of Shandong University,Jinan,China
+NCT05686070,Jining No.1 people's Hospital,Jining,China
+NCT05686070,Affiliated Hospital of Jining Medical University,Jining,China
+NCT05686070,Liaocheng People's Hospital,Liaocheng,China
+NCT05686070,Linyi People's Hospital,Linyi,China
+NCT05686070,Taian City Central Hospital,Taian,China
+NCT05686070,Shaanxi Provincial People's Hospital,Xi'an,China
+NCT05686070,People's Hospital of Deyang City,Deyang,China
+NCT05686070,"Sir Run Run Shaw Hospital, Zhejiang University School of Med",Hangzhou,China
+NCT05686070,"Hwa Mei Hospital, University of Chinese Academy Sciences",Ningbo,China
+NCT05686070,Taizhou Hospital of Zhejiang Province,Taizhou,China
+NCT05686070,Xuanwu Hospital Capital Medical University,Beijing,China
+NCT05686070,Beijing Tsinghua Changgung Hospital,Beijing,China
+NCT05686070,"Huashan Hospital, Fudan University",Shanghai,China
+NCT05686070,"Yangpu Hospital, Tongji University",Shanghai,China
+NCT05686070,Tianjin People's Hospital,Tianjin,China
+NCT05686070,Tianjin Huanhu Hospital,Tianjin,China
+NCT05686070,Servicios de Salud Universidad de Antioquia,Medellin,Colombia
+NCT05686070,Hospital General de Medellin,Medellin,Colombia
+NCT05686070,Promotora Médica Las Américas S.A.- Clinica Las Americas,Medellin,Colombia
+NCT05686070,Sociedad Médica Rionegro SOMER S.A.,Rionegro,Colombia
+NCT05686070,Clínica de la Costa SAS,Baranquilla,Colombia
+NCT05686070,Fundación Hospital Universidad del Norte,Soledad,Colombia
+NCT05686070,Clínica Universidad de la sabana,Chía,Colombia
+NCT05686070,Fundación Cardiomet CEQUIN Eje Cafetero,Armenia,Colombia
+NCT05686070,IPS Centro Médico Imbanaco de Cali S.A.,Cali,Colombia
+NCT05686070,Fundación Valle de Lili,Cali,Colombia
+NCT05686070,Fundación Cardiovascular de Colombia,Floridablanca,Colombia
+NCT05686070,Hospital San Vicente Fundación,Medellin,Colombia
+NCT05686070,Fundacion Cardiovascular Santa Maria,Medellin,Colombia
+NCT05686070,Clínica Medellín,Medellín,Colombia
+NCT05686070,Fakultni nemocnice u sv. Anny - I.neurologicka klinika,Brno,Czechia
+NCT05686070,"Nemocnice Ceske Budejovice, a.s. - Department of neurology",Ceské Budejovice,Czechia
+NCT05686070,"Nemocnice Chomutov, o.z.",Chomutov,Czechia
+NCT05686070,Nemocnice Jihlava - Neurologicke oddeleni,Jihlava,Czechia
+NCT05686070,Karvinska hornicka nemocnice a.s. - Neurologicke oddeleni,Karvina,Czechia
+NCT05686070,Krajska nemocnice Liberec - neurologicke oddeleni,Liberec,Czechia
+NCT05686070,Fakultni nemocnice Ostrava - Neurologicka klinika,Ostrava - Poruba,Czechia
+NCT05686070,Nemocnice AGEL Ostrava-Vítkovice - Neurologicke oddeleni,Ostrava - Vitkovice,Czechia
+NCT05686070,"Nemocnice Pardubickeho Kraje, as - Neurologická klinika",Pardubice,Czechia
+NCT05686070,Fakultni Thomayerova Nemocnice - neurology department,Praha 4,Czechia
+NCT05686070,Nemocnice na Homolce - Neurology Department,Praha 5-Motol,Czechia
+NCT05686070,Ustredni vojenska nemocnice Praha,Praha 6,Czechia
+NCT05686070,Fakultni nemocnice Kralovske Vinohrady - Neurologicka klinika,Praha,Czechia
+NCT05686070,Masaryk Hospital Usti n/L - neurology department,Ústí nad Labem,Czechia
+NCT05686070,Aalborg Universitetshospital -Neurology,Aalborg,Denmark
+NCT05686070,"Aarhus Universitetshospital, Neurologisk Afdeling",Aarhus N,Denmark
+NCT05686070,"Glostrup RH, Neurologisk Afdeling",Glostrup,Denmark
+NCT05686070,Herlev Hospital - Neurology Dept.,Herlev,Denmark
+NCT05686070,"Regionshospitalet Gødstrup, Neurologisk Afd.",Herning,Denmark
+NCT05686070,"Kolding Sygehus, Neurologisk Afdeling",Kolding,Denmark
+NCT05686070,"Bispebjerg Hospital, Neurologisk Afdeling",København NV,Denmark
+NCT05686070,"Odense Universitetshospital, Dept of Neurology",Odense C,Denmark
+NCT05686070,"HUS, Meilahden sairaala",Helsinki,Finland
+NCT05686070,Pohjois-Karjalan sairaanhoitopiiri,Joensuu,Finland
+NCT05686070,Kuopion yliopistollinen sairaala,Kuopio,Finland
+NCT05686070,"Tampereen yliopistollinen sairaala, keskussairaala",Tampere,Finland
+NCT05686070,Turun yliopistollinen keskussairaala,Turku,Finland
+NCT05686070,Hopital Jean Minjoz,Besancon,France
+NCT05686070,Hôpital Pellegrin - Bordeaux,Bordeaux,France
+NCT05686070,CH Boulogne-Sur-Mer - Neurologie,Boulogne-sur-mer,France
+NCT05686070,Hôpital La Cavale Blanche - CHU de Brest,Brest Cedex,France
+NCT05686070,"CH Sud Francilien, Neurologie",Corbeil-essonnes,France
+NCT05686070,"CHU Dijon, Neurologie",DIJON Cedex,France
+NCT05686070,"Raymond-Poincare neurologie, Garches",Garches,France
+NCT05686070,Centre Hospitalier Universitaire - Le Kremlin Bicêtre,Le Kremlin-bicetre,France
+NCT05686070,Centre Hospitalier - Le Mans,Le Mans,France
+NCT05686070,Hôpital B - Lille,Lille,France
+NCT05686070,Hopital Saint Philibert - Service de Neurologie,LOMME cedex,France
+NCT05686070,Hôpital Wertheimer - Lyon,Lyon,France
+NCT05686070,"La Timone, Neurologie, MARSEILLE",Marseille,France
+NCT05686070,Hopital Central - Nancy,Nancy,France
+NCT05686070,Hôpital Guillaume et René Laennec - Nantes,Nantes,France
+NCT05686070,Hôpital Pasteur - Nice,Nice,France
+NCT05686070,Hopital Carémeau - Nîmes,Nîmes,France
+NCT05686070,Centre hospitalier Sainte Anne,Paris,France
+NCT05686070,"Hoital Bichat, Service de Neurologie, Paris",Paris,France
+NCT05686070,Hôpital Rothschild - Paris,Paris,France
+NCT05686070,Hôpital Lariboisière - Paris,Paris,France
+NCT05686070,Hôpital de la Pitié-Salpétrière,Paris,France
+NCT05686070,"H Maison Blanche, Neurologie, REIMS",Reims,France
+NCT05686070,Hôpital Pontchaillou,Rennes Cedex,France
+NCT05686070,CHU STRASBOURG - Hôpital de Hautepierre,Strasbourg,France
+NCT05686070,"Hopital Foch, Neurologie, SURESNES",SURESNES Cedex,France
+NCT05686070,"Hopital des Armees Sainte-Anne, Neurologie, Toulon",Toulon cedex 09,France
+NCT05686070,Hôpital Purpan - Toulouse,Toulouse,France
+NCT05686070,"H bretonneau, neurologie, Tours",TOURS cedex 9,France
+NCT05686070,Universitätsklinikum Freiburg / Neurologie,Freiburg,Germany
+NCT05686070,Universitaetsklinikum Heidelberg / Neurologie,Heidelberg,Germany
+NCT05686070,Universitätsklinikum Mannheim / Neurologie,Mannheim,Germany
+NCT05686070,Universitätsklinikum Ulm/Neurologische Klinik,Ulm,Germany
+NCT05686070,Rhön-Klinikum Campus Bad Neustadt/Neurologie,Bad Neustadt,Germany
+NCT05686070,Universitätsklinikum Erlangen/Neurologie,Erlangen,Germany
+NCT05686070,Universitätsklinikum Frankfurt / Neurologie,Frankfurt,Germany
+NCT05686070,"Universität Gießen-Marburg, Standort Gießen/Neurologie",Gießen,Germany
+NCT05686070,Universitätsmedizin Greifswald/Neurologie,Greifswald,Germany
+NCT05686070,Medizinische Hochschule Hannover/Neurologie,Hannover,Germany
+NCT05686070,UniKlinikum Aachen/Neurologie,Aachen,Germany
+NCT05686070,Uniklinik Bonn / Neurologie,Bonn,Germany
+NCT05686070,Universitätsklinikum Düsseldorf / Neurologie,Düsseldorf,Germany
+NCT05686070,Marien Hospital Düsseldorf / Neurologie,Düsseldorf,Germany
+NCT05686070,Alfried Krupp Krankenhaus Rüttenscheid /Neurologie,Essen,Germany
+NCT05686070,Kreisklinikum Siegen / Neurologie,Siegen,Germany
+NCT05686070,GFO KlinikTroisdorf/Neurologie,Troisdorf,Germany
+NCT05686070,Johannes-Gutenberg-Universitaet Mainz|Neurologie,Mainz,Germany
+NCT05686070,Universitätsklinikum Halle (Saale)/Neurologie,Halle,Germany
+NCT05686070,Städtisches Klinikum Dresden / Neurologie,Dresden,Germany
+NCT05686070,Universitätsklinikum Dresden/Neurologie,Dresden,Germany
+NCT05686070,Universitätsklinik Leipzig /Neurologie,Leipzig,Germany
+NCT05686070,Klinikum Altenburger Land / Studienzentrum Neurologie,Altenburg,Germany
+NCT05686070,Uniklinik Jena/ Neurologie,Jena,Germany
+NCT05686070,Vivantes Klinikum Neukölln / Neurologie mit Stroke Unit,Berlin,Germany
+NCT05686070,Asklepios Klinik Wandsbek/Neurologie,Hamburg,Germany
+NCT05686070,Asklepios Klinik Barmbek/ Neurologie,Hamburg,Germany
+NCT05686070,University General Hospital of Alexandroupolis,Alexandroupoli,Greece
+NCT05686070,"General Hospital of Athens ""Evangelismos""",Athens,Greece
+NCT05686070,"General Hosp of Athens ""Korgialenio-Benakeio"" RCH",Athens,Greece
+NCT05686070,Athens Naval Hospital,Athens,Greece
+NCT05686070,401 General Military Hospital of Athens,Athens,Greece
+NCT05686070,G. GENNIMATAS General State Hospital of Athens,Athens,Greece
+NCT05686070,AIGINITEION Hospital,Athens,Greece
+NCT05686070,University General Hospital ATTIKON,Chaidari,Greece
+NCT05686070,University General Hospital of Heraklion,Heraklion,Greece
+NCT05686070,Ioannina University General Hospital,Ioannina,Greece
+NCT05686070,University General Hospital of Larissa,Larissa,Greece
+NCT05686070,Metropolitan Hospital,Neo Faliro Piraeus,Greece
+NCT05686070,University General Hospital of Patra,Patra,Greece
+NCT05686070,PAPANIKOLAOU General Hospital Thessaloniki,Pilea Chortiatis Thessaloniki,Greece
+NCT05686070,AHEPA University General Hospital of Thessaloniki,Thessaloniki,Greece
+NCT05686070,AHEPA University General Hospital of Thessaloniki,Thessaloniki,Greece
+NCT05686070,General Hospital of Thessaloniki Papageorgiou,Thessaloniki,Greece
+NCT05686070,Bajai Szent Rokus Korhaz,Baja,Hungary
+NCT05686070,University of Semmelweis/ Semmelweis Egyetem,Budapest,Hungary
+NCT05686070,Eszak-Pesti Centrumkorhaz-Honvedkorhaz,Budapest,Hungary
+NCT05686070,Jahn Ferenc Del-Pesti Korhaz es Rendelointezet,Budapest,Hungary
+NCT05686070,Debreceni Egyetem Klinikai Kozpont,Debrecen,Hungary
+NCT05686070,Petz Aladar Egyetemi Oktato Korhaz,Gyor,Hungary
+NCT05686070,Flor Ferenc Korhaz,Kistarcsa,Hungary
+NCT05686070,Szent Damjan Gorogkatolikus Korhaz,Kisvarda,Hungary
+NCT05686070,Kanizsai Dorottya Hospital,Nagykanizsa,Hungary
+NCT05686070,SzSzBMK es EOK Josa Andras Oktatokorhaz,Nyiregyhaza,Hungary
+NCT05686070,Pecsi Tudomanyegyetem Klinikai Kozpont,Pecs,Hungary
+NCT05686070,Soproni Erzsebet Oktato Korhaz es Rehabilitacios Intezet,Sopron,Hungary
+NCT05686070,SZTE ÁOK Szent Györgyi Albert Klinikai Kozpont,Szeged,Hungary
+NCT05686070,Zala Varmegyei Szent Rafael Korhaz,Zalaegerszeg,Hungary
+NCT05686070,Post Graduate Institute of Medical Education and Research,Chandigarh,India
+NCT05686070,K.G. Hospital,Coimbatore,India
+NCT05686070,"Omega Hospitals, Hyderabad",Hyderabad,India
+NCT05686070,Sawami Man Singh (SMS) Medical College & Attached Hospitals,Jaipur,India
+NCT05686070,Christian Medical College & Hospital (CMCH) - Ludhiana,Ludhiana,India
+NCT05686070,All India Institute of Medical Sciences (AIIMS) - New Delhi,New Delhi,India
+NCT05686070,Assuta Ashdod,Ashdod,Israel
+NCT05686070,Barzilai Medical Center | Neurology Department,Ashkelon,Israel
+NCT05686070,Soroka University Medical Center,Beer Sheva,Israel
+NCT05686070,Hillel Yaffe Medical Center,Hadera,Israel
+NCT05686070,Rambam Health Corporation,Haifa,Israel
+NCT05686070,Lady Davis Carmel Medical Center,Haifa,Israel
+NCT05686070,Edith Wolfson Medical Center,Holon,Israel
+NCT05686070,Shaare Zedek Medical Center,Jerusalem,Israel
+NCT05686070,Hadassah Hebrew University Hospital Ein Kerem,Jerusalem,Israel
+NCT05686070,Meir Medical Center,Kfar Saba,Israel
+NCT05686070,Clalit Health Services Rabin Medical Center-Beilinson Campus,Petach Tikva,Israel
+NCT05686070,Tel-Aviv Sourasky Medical Center,Tel Aviv,Israel
+NCT05686070,Chaim Sheba Medical Center,Tel Hashomer,Israel
+NCT05686070,Health Corporation of the Ziv Medical Center (R.A.),Zefat,Israel
+NCT05686070,Shamir Medical Center (Assaf Harofeh),Zerifin,Israel
+NCT05686070,ASL1 Avezzano-Sulmona-L'Aquila - Abruzzo,L'Aquila,Italy
+NCT05686070,A.O.U. San Giovanni di Dio Ruggi d'Aragona,Salerno,Italy
+NCT05686070,AUSL di Bologna,Bologna,Italy
+NCT05686070,AUSL della Romagna,Forlì Cesena,Italy
+NCT05686070,Fondazione PTV Policlinico Tor Vergata,Roma,Italy
+NCT05686070,Fondazione Policlinico Universitario Agostino Gemelli IRCCS,Roma,Italy
+NCT05686070,ASL 2 Savonese,Savona,Italy
+NCT05686070,ASST Papa Giovanni XXIII,Bergamo,Italy
+NCT05686070,Ospedale San Raffaele s.r.l.,Milano,Italy
+NCT05686070,ASL Lecce,Lecce,Italy
+NCT05686070,A.O.U. Policlinico G. Martino,Messina,Italy
+NCT05686070,A.O. Ospedali Riuniti Villa Sofia-Cervello,Palermo,Italy
+NCT05686070,A.O.U. Careggi,Firenze,Italy
+NCT05686070,A.O.U. Senese,Siena,Italy
+NCT05686070,A.O. di Perugia,Perugia,Italy
+NCT05686070,IRCCS Ospedale Sacro Cuore Don Calabria,Verona,Italy
+NCT05686070,A.O.U.I. Verona,Verona,Italy
+NCT05686070,ULSS 8 Berica,Vicenza,Italy
+NCT05686070,Nagoya Ekisaikai Hospital,Nagoya,Japan
+NCT05686070,Chubu Rosai Hospital,Nagoya,Japan
+NCT05686070,Tosei General Hospital,Seto,Japan
+NCT05686070,Fujita Health University Hospital,Toyoake,Japan
+NCT05686070,National Hospital Organization Toyohashi Medical Center,Toyohashi,Japan
+NCT05686070,Kimitsu Chuo Hospital,Kisarazu,Japan
+NCT05686070,Toho University Sakura Medical Center,Sakura,Japan
+NCT05686070,Kokura Memorial Hospital,Kitakyushu,Japan
+NCT05686070,Steel Memorial Yawata Hospital,Kitakyushu,Japan
+NCT05686070,Southern Tohoku Medical Clinic,Koriyama,Japan
+NCT05686070,Japanese Red Cross Takayama Hospital,Takayama,Japan
+NCT05686070,Maebashi Red Cross Hospital,Maebashi,Japan
+NCT05686070,Mazda Hospital of Mazda Motor Corporation,Aki-gun,Japan
+NCT05686070,Hiroshima General Hospital,Hatsukaichi,Japan
+NCT05686070,Higashihiroshima Medical Center,Higashihiroshima,Japan
+NCT05686070,Japanese Red Cross Asahikawa Hospital,Asahikawa,Japan
+NCT05686070,Hakodate Shintoshi Hospital,Hakodate,Japan
+NCT05686070,Teine Keijinkai Hospital,Sapporo,Japan
+NCT05686070,Ohnishi Neurological Center,Akashi,Japan
+NCT05686070,Hyogo Prefectural Harima-Himeji General Medical Center,Himeji,Japan
+NCT05686070,Eishokai Yoshida Hospital,Kobe,Japan
+NCT05686070,JA Toride Medical Center,Toride,Japan
+NCT05686070,Tsuchiura Kyodo General Hospital,Tsuchiura,Japan
+NCT05686070,Japan Organization of Occupational Health and Safety Kagawa Rosai Hospital,Marugame,Japan
+NCT05686070,Takamatsu Red Cross Hospital,Takamatsu,Japan
+NCT05686070,Kagawa Prefectural Central Hospital,Takamatsu,Japan
+NCT05686070,Seisho Hospital,Odawara,Japan
+NCT05686070,Saiseikai Yokohamashi Nanbu Hospital,Yokohama,Japan
+NCT05686070,National Hospital Organization Yokohama Medical Center,Yokohama,Japan
+NCT05686070,Kohnan Hospital,Sendai,Japan
+NCT05686070,Hokushin General Hospital,Nakano,Japan
+NCT05686070,Japanese Red Cross Society Suwa Hospital,Suwa,Japan
+NCT05686070,National Hospital Organization Beppu Medical Center,Beppu,Japan
+NCT05686070,Nozaki Tokushukai Hospital,Daito,Japan
+NCT05686070,Osaka Saiseikai Senri Hospital,Suita,Japan
+NCT05686070,National Hospital Organization Ureshino Medical Center,Ureshino,Japan
+NCT05686070,National Hospital Organization Saitama Hospital,Wako,Japan
+NCT05686070,Hamamatsu Rosai Hospital,Hamamatsu,Japan
+NCT05686070,Seirei Hamamatsu General Hospital,Hamamatsu,Japan
+NCT05686070,National Hospital Organization Tokyo Medical Center,Meguro-ku,Japan
+NCT05686070,Mishuku Hospital,Meguro-ku,Japan
+NCT05686070,Kyorin University Hospital,Mitaka,Japan
+NCT05686070,Tokyo Metropolitan Bokutoh Hospital,Sumida-ku,Japan
+NCT05686070,National Hospital Organization Disaster Medical Center,Tachikawa,Japan
+NCT05686070,Minamiwakayama Medical Center,Tanabe,Japan
+NCT05686070,JCHO Shimonoseki Medical Center,Shimonoseki,Japan
+NCT05686070,Yamanashi Prefectural Central Hospital,Kofu,Japan
+NCT05686070,Saiseikai Fukuoka General Hospital,Fukuoka,Japan
+NCT05686070,National Hospital Organization Kyushu Medical Center,Fukuoka,Japan
+NCT05686070,Social Medical Corporation the Chiyukai foundation Fukuoka Wajiro Hospital,Fukuoka,Japan
+NCT05686070,Fukuoka Neurosurgical Hospital,Fukuoka,Japan
+NCT05686070,Kyushu Central Hospital,Fukuoka,Japan
+NCT05686070,Hiroshima City North Medical Center Asa Citizens Hospital,Hiroshima,Japan
+NCT05686070,Atsuchi Neurosurgery Hospital,Kagoshima,Japan
+NCT05686070,Japanese Red Cross Kochi Hospital,Kochi,Japan
+NCT05686070,Kumamoto City Hospital,Kumamoto,Japan
+NCT05686070,Koseikai Takeda Hospital,Kyoto,Japan
+NCT05686070,Ijinkai Takeda General Hospital,Kyoto,Japan
+NCT05686070,Nagano Municipal Hospital,Nagano,Japan
+NCT05686070,Oita Prefectural Hospital,Oita,Japan
+NCT05686070,Okayama City General Medical Center Okayama City Hospital,Okayama,Japan
+NCT05686070,National Hospital Organization Osaka National Hospital,Osaka,Japan
+NCT05686070,Osaka General Medical Center,Osaka,Japan
+NCT05686070,Shizuoka City Shizuoka Hospital,Shizuoka,Japan
+NCT05686070,Shizuoka City Shimizu Hospital,Shizuoka,Japan
+NCT05686070,Wakayama Medical University Hospital,Wakayama,Japan
+NCT05686070,Emergency Care Hospital of Aktobe city,Aktobe,Kazakhstan
+NCT05686070,City Clinical Hospital #7 / stroke unit,Almaty,Kazakhstan
+NCT05686070,Chungbuk National University Hospital,Cheongju-Si,"Korea, Republic of"
+NCT05686070,Kyungpook National University Hospital,Daegu,"Korea, Republic of"
+NCT05686070,Hallym University Sacred Heart Hospital,Anyang-si,"Korea, Republic of"
+NCT05686070,Inje University Ilsan Paik Hospital,Goyang-si,"Korea, Republic of"
+NCT05686070,Seoul National University Bundang Hospital,Seongnam-si,"Korea, Republic of"
+NCT05686070,Seoul National University Hospital,Seoul,"Korea, Republic of"
+NCT05686070,KyungHee University Hospital,Seoul,"Korea, Republic of"
+NCT05686070,Inje University Busan Paik Hospital,Busan,"Korea, Republic of"
+NCT05686070,Dong-A University Hospital,Busan,"Korea, Republic of"
+NCT05686070,Keimyung University Dongsan Medical Center,Daegu,"Korea, Republic of"
+NCT05686070,Eulji University Hospital,Daejeon,"Korea, Republic of"
+NCT05686070,Chonnam National University Hospital,Gwangju,"Korea, Republic of"
+NCT05686070,Inha University Hospital,Incheon,"Korea, Republic of"
+NCT05686070,"Nowon Eulji Medical Center, Eulji University","Seoul,","Korea, Republic of"
+NCT05686070,SoonChunHyang University Seoul Hospital,Seoul,"Korea, Republic of"
+NCT05686070,Asan Medical Center,Seoul,"Korea, Republic of"
+NCT05686070,Samsung Medical Center,Seoul,"Korea, Republic of"
+NCT05686070,Korea University Anam Hospital,Seoul,"Korea, Republic of"
+NCT05686070,The Catholic University of Korea Seoul St. Mary's Hospital,Seoul,"Korea, Republic of"
+NCT05686070,Korea University Guro Hospital,Seoul,"Korea, Republic of"
+NCT05686070,"Severance Hospital, Yonsei University Health System",Seoul,"Korea, Republic of"
+NCT05686070,Jekabpils Regional Hospital,Jekabpils,Latvia
+NCT05686070,Rezekne Hospital,Rezekne,Latvia
+NCT05686070,P. Stradins Clinical University Hospital,Riga,Latvia
+NCT05686070,"Riga East Clinical University Hospital ""Gailezers""",Riga,Latvia
+NCT05686070,Vidzemes Hospital,Valmiera,Latvia
+NCT05686070,Alytus County S. Kudirka Hospital,Alytus,Lithuania
+NCT05686070,LUHS Kauno Hospital (Josvainiu str.),Kaunas,Lithuania
+NCT05686070,Hospital of LT University of Health Sciences Kaunas Clinics,Kaunas,Lithuania
+NCT05686070,Siauliai Republican hospital,Siauliai,Lithuania
+NCT05686070,Republican Vilnius University Hospital,Vilnius,Lithuania
+NCT05686070,Vilnius University Hospital Santaros Klinikos,Vilnius,Lithuania
+NCT05686070,Hospital Raja Perempuan Zainab II,Kelantan,Malaysia
+NCT05686070,Hospital Universiti Sains Malaysia,Kelantan,Malaysia
+NCT05686070,Queen Elizabeth Hospital Malaysia,Kota Kinabalu,Malaysia
+NCT05686070,Hospital Kuala Lumpur,Kuala Lumpur,Malaysia
+NCT05686070,University Malaya Medical Centre,Kuala Lumpur,Malaysia
+NCT05686070,Hospital Seberang Jaya,Pulau Pinang,Malaysia
+NCT05686070,Sarawak General Hospital,Sarawak,Malaysia
+NCT05686070,Hospital Pengajar Universiti Putra Malaysia,Selangor,Malaysia
+NCT05686070,Hospital Sultanah Nur Zahirah Medical Department,Terengganu,Malaysia
+NCT05686070,Catharina Hospital | Neurology Outpatient Clinic,Eindhoven,Netherlands
+NCT05686070,OLVG | Location West - Neurology Department,Amsterdam,Netherlands
+NCT05686070,Academisch Medisch Centrum (AMC),Amsterdam,Netherlands
+NCT05686070,Jeroen Bosch Ziekenhuis,Den Bosch,Netherlands
+NCT05686070,HagaZiekenhuis | Department of Neurology,Den Haag,Netherlands
+NCT05686070,Medisch Spectrum Twente,Enschede,Netherlands
+NCT05686070,Zuyderland Medisch Centrum,Heerlen,Netherlands
+NCT05686070,St. Antonius Hospital | Nieuwegein - Neurology Department - Stroke Unit,Nieuwegein,Netherlands
+NCT05686070,Maasstad Ziekenhuis | Neurology Department,Rotterdam,Netherlands
+NCT05686070,University Medical Center (UMC) Utrecht | Neurology and Neurosurgery Department,Utrecht,Netherlands
+NCT05686070,Isala Zwolle | Neurology Department,Zwolle,Netherlands
+NCT05686070,Haukeland Universitetssykehus Nevrologisk Avdeling,Bergen,Norway
+NCT05686070,Östfold Hospital Trust Fredrikstad,Fredrikstad,Norway
+NCT05686070,Sørlandet Sykehus Kristiansand Nevrologisk avdeling,Kristiansand,Norway
+NCT05686070,Akershus Universitetssykehus - Nevrologisk Avdeling,Lørenskog,Norway
+NCT05686070,Molde sykehus Nevrologisk avdeling,Molde,Norway
+NCT05686070,OUS Ullevål Neurology Department,Oslo,Norway
+NCT05686070,St. Olavs Hospital Neurology,Trondheim,Norway
+NCT05686070,Ålesund sykehus Nevrologisk poliklinikk,Ålesund,Norway
+NCT05686070,Uniwersytecki Szpital Kliniczny w Bialymstoku,Bialystok,Poland
+NCT05686070,Szpital Uniwersytecki Nr 2 im. J. Bizela,Bydgoszcz,Poland
+NCT05686070,"Copernicus PL, M.Kopernik Hospital",Gdansk,Poland
+NCT05686070,Samodzielny Publiczny Specjalistyczny Szpital Zachodni,Grodzisk Mazowiecki,Poland
+NCT05686070,Gornoslaskie CM im. Prof. Leszka Gieca SUM w Katowicach,Katowice,Poland
+NCT05686070,Szpital Uniwersytecki w Krakowie,Krakow,Poland
+NCT05686070,Szpital Specjalistyczny im. Rydygiera,Krakow,Poland
+NCT05686070,Szpital im. N. Barlickiego,Lodz,Poland
+NCT05686070,Wojew. Szpital Specjalistyczny im. M. Kopernika,Lodz,Poland
+NCT05686070,Samodzielny Publiczny Szpital Kliniczny nr 4,Lublin,Poland
+NCT05686070,Wojewodzki Szpital Specjalistyczny im. sw. Jadwigi w Opolu,Opole,Poland
+NCT05686070,SP Szpital Kliniczny nr 1 PUM im. Prof. T. Sokolowskiego,Szczecin,Poland
+NCT05686070,Szpital Wolski im. dr Anny Gostynskiej SPZOZ,Warszawa,Poland
+NCT05686070,Instytut Psychiatrii i Neurologii w Warszawie,Warszawa,Poland
+NCT05686070,Wojskowy Instytut Medyczny,Warszawa,Poland
+NCT05686070,Hospital Professor Doutor Fernando Fonseca | Neurology Department,Amadora,Portugal
+NCT05686070,Luz Saude | Hospital Beatriz Angelo - Centro de Investigacao Clinica,Loures,Portugal
+NCT05686070,Hospital de Vila Franca de Xira | Centro de Desenvolvimento e Investigacao,Vila Franca de Xira,Portugal
+NCT05686070,ULSM - Hospital Pedro Hispano,Matosinhos,Portugal
+NCT05686070,Hospital Garcia de Orta | Research Department,Almada,Portugal
+NCT05686070,BlueClinical | Centro Hospitalar Baixo Vouga - Unidade Aveiro - Gabinete de Ensaios Clinicos,Aveiro,Portugal
+NCT05686070,CHUC - Hospitais da U. Coimbra - Servico de Neurologia,Coimbra,Portugal
+NCT05686070,CHUA - Hospital de Faro,Faro,Portugal
+NCT05686070,Centro Hospitalar de Lisboa Ocidental | Clin Res Dept,Lisboa,Portugal
+NCT05686070,Hospital da Luz - Lisboa,Lisboa,Portugal
+NCT05686070,CHULN - Hospital Santa Maria,Lisboa,Portugal
+NCT05686070,Centro Hospitalar Universitario do Porto,Porto,Portugal
+NCT05686070,CHUSJ - Hospital Sao Joao,Porto,Portugal
+NCT05686070,Clinical Emergency County Hospital Brasov,Brasov,Romania
+NCT05686070,Spitatul Universitar de Urgenta Bucuresti,Bucharest,Romania
+NCT05686070,Institutul Clinic Fundeni,Bucuresti,Romania
+NCT05686070,Institutul National de Neurologie ¿i Boli Neurovasculare,Bucuresti,Romania
+NCT05686070,"Spitalul Clinic de Urgenta ""Prof. Dr. Nicolae Oblu""",Iasi,Romania
+NCT05686070,Spitalul Clinic Judetean de Urgenta Oradea,Oradea,Romania
+NCT05686070,Spitalul Clinic Judetean de Urgenta Sibiu,Sibiu,Romania
+NCT05686070,Spitalul de urgenta Sf. Ioan Cel Nou,Suceava,Romania
+NCT05686070,Spitalul Clinic Judetean de Urgenta Targu-Mures,Targu Mures,Romania
+NCT05686070,"Spitalul Clinic Judetean de Urgenta ""Pius Brinzeu"" Timisoara",Timisoara,Romania
+NCT05686070,"Univerzitna nemocnica Bratislava, Nemocnica Stare Mesto",Bratislava,Slovakia
+NCT05686070,"Univerzitna nemocnica Bratislava, Nemocnica Ruzinov",Bratislava,Slovakia
+NCT05686070,"Univerzitna nemocnica Bratislava, Nemocnica ak. L.Derera",Bratislava,Slovakia
+NCT05686070,Dolnooravska nemocnica s poliklinikou L. Nadasi Jegeho,Dolny Kubin,Slovakia
+NCT05686070,Nemocnica AGEL Komarno s.r.o.,Komarno,Slovakia
+NCT05686070,"Vseobecna nemocnica s poliklinikou Levoca, a.s.",Levoca,Slovakia
+NCT05686070,Liptovska nemocnica s poliklinikou MUDr. Ivana Stodolu,Liptovsky Mikulas,Slovakia
+NCT05686070,Vseobecna nemocnica s poliklinikou Lucenec,Lucenec,Slovakia
+NCT05686070,Univerzitna nemocnica Martin,Martin,Slovakia
+NCT05686070,Fakultna nemocnica Nitra,Nitra,Slovakia
+NCT05686070,Fakultna nemocnica s poliklinikou J.A. Reimana,Presov,Slovakia
+NCT05686070,ProCare Svet Zdravia | Rimavska Sobota Hospital - Neurology Department,Rimavska Sobota,Slovakia
+NCT05686070,"Fakultna nemocnica AGEL Skalica, a.s.",Skalica,Slovakia
+NCT05686070,"Svet zdravia, a.s. Nemocnica s poliklinikou Spisska Nova Ves",Spisska Nova Ves,Slovakia
+NCT05686070,Fakultna nemocnica Trnava,Trnava,Slovakia
+NCT05686070,ProCare Svet Zdravia | Vranov nad Toplou Hospital - Neurology Department,Vranov nad Toplou,Slovakia
+NCT05686070,Vseobecna nemocnica v Ziari nad Hronom,Ziar nad Hronom,Slovakia
+NCT05686070,"University Hospital of A Coruna | Neurology Department - Stroke, No-Cardioembolic-Tia",Coruña,Spain
+NCT05686070,Hospital Clínico Universitario de Santiago de Compostela,Santiago de Compostela,Spain
+NCT05686070,Hospital Universitari Germans Trias i Pujol,Badalona,Spain
+NCT05686070,"Hospital Rey Juan Carlos | Neurology Department - Stroke, No-Cardioembolic-Tia",Mostoles,Spain
+NCT05686070,"Hospital Alvaro Cunqueiro | Neurology - Stroke, No-Cardioembolic-Tia",Babio - Beade,Spain
+NCT05686070,"Complejo Hospitalario Universitario de Albacete | Hospital General Universitario - Neurology Department, Stroke Unit",Albacete,Spain
+NCT05686070,"Hospital de la Santa Creu i Sant Pau | Neurology Department - Stroke, No-Cardioembolic-Tia",Barcelona,Spain
+NCT05686070,Ciutat Sanitaria i Universitaria de la Vall d'Hebron,Barcelona,Spain
+NCT05686070,"Catalan Health Institute | Hospital Universitario de Girona Doctor Josep Trueta - Neurology Department, Stroke Unit",Girona,Spain
+NCT05686070,Complejo Asistencial Universitario de Leon | Neurology Division - Stroke Unit,León,Spain
+NCT05686070,Hospital Universitario Arnau de Vilanova de Lleida | Neurology Department - Clinical Neuroscience Research Group,Lleida,Spain
+NCT05686070,COMPLEJO HOSPITALARIO RUBER JUAN BRAVO - Neurología,Madrid,Spain
+NCT05686070,Hospital Universitario de La Princesa | Neurology Department,Madrid,Spain
+NCT05686070,H Gregorio Marañon|Neurology|STROKE|NO-CARDIOEMBOLIC-TIA,Madrid,Spain
+NCT05686070,"Hospital Universitario Ramon y Cajal | Neurology Department - Stroke, No-Cardioembolic-Tia",Madrid,Spain
+NCT05686070,Hospital Universitario 12 de Octubre,Madrid,Spain
+NCT05686070,"Hospital Universitario La Paz | Neurology Department - Stroke, No-Cardioembolic-Tia",Madrid,Spain
+NCT05686070,Hospital Clinico Universitario Virgen de la Arrixaca | Neurology Department - Stroke,Murcia,Spain
+NCT05686070,Hosp Univ Virgen Macarena|Neurologia|Neurovascular Res Unit,Sevilla,Spain
+NCT05686070,Virgen del Rocio Univ Hosp | Neur Dep | Neurovascular Unit,Sevilla,Spain
+NCT05686070,"Inst Investigacio Sanitaria Pere Virgili | Hosp Univ Joan XXIII de Tarragona - Neurology - Stroke, No-Cardioembolic-Tia",Tarragona,Spain
+NCT05686070,La Fe University and Polytechnic Hospital | Neurology Service - Vascular Unit,Valencia,Spain
+NCT05686070,Hospital Universitario Clinico de Valladolid | Neurology Department,Valladolid,Spain
+NCT05686070,Hospital Clínico Universitario Lozano Blesa,Zaragoza,Spain
+NCT05686070,Sahlgrenska Universitetssjukhuset,Göteborg,Sweden
+NCT05686070,Hässleholms Sjukhus,Hässleholm,Sweden
+NCT05686070,Skånes Universitetssjukhus,Lund,Sweden
+NCT05686070,Södersjukhuset AB,Stockholm,Sweden
+NCT05686070,Karolinska Universitetssjukhuset Huddinge,Stockholm,Sweden
+NCT05686070,"Karolinska University Hospital, Solna",Stockholm,Sweden
+NCT05686070,Danderyds sjukhus,Stockholm,Sweden
+NCT05686070,Akademiska Sjukhuset,Uppsala,Sweden
+NCT05686070,Östersunds Sjukhus,Östersund,Sweden
+NCT05686070,Universitätsspital Basel,Basel,Switzerland
+NCT05686070,Hôpital Cantonal Universitaire de Genève,Geneva,Switzerland
+NCT05686070,Kantonsspital St. Gallen,St. Gallen,Switzerland
+NCT05686070,Ospedale regionale di Lugano,Lugano,Switzerland
+NCT05686070,Centre Hospitalier Universitaire Vaudois (CHUV),Lausanne,Switzerland
+NCT05686070,Kantonsspital Baden,Baden,Switzerland
+NCT05686070,Inselspital Universitätsspital Bern,Bern,Switzerland
+NCT05686070,Hospital Cantonal Fribourg,Villars sur Glâne,Switzerland
+NCT05686070,NeuroZentrum Hirslanden,Zürich,Switzerland
+NCT05686070,China Medical University Hospital Hsin-Chu Branch,Zhubei City,Taiwan
+NCT05686070,Kaohsiung Medical University Chung-Ho Memorial Hospital,Kaohsiung City,Taiwan
+NCT05686070,Far Eastern Memorial Hospital Neurology,New Taipei City,Taiwan
+NCT05686070,En Chu Kong Hospital,New Taipei City,Taiwan
+NCT05686070,Fu Jen Catholic University Hospital,New Taipei City,Taiwan
+NCT05686070,MacKay Memorial Hospital Tamsui Branch,New Taipei City,Taiwan
+NCT05686070,Shin Kong Wu Ho-Su Memorial Hospital,Taipei City,Taiwan
+NCT05686070,Changhua Christian Hospital,Changhua,Taiwan
+NCT05686070,"National Taiwan University Hospital, Hsin-Chu Branch",Hsinchu,Taiwan
+NCT05686070,Chang Gung Memorial Hospital Kaohsiung,Kaohsiung,Taiwan
+NCT05686070,Kaohsiung Veterans General Hospital,Kaoshiung,Taiwan
+NCT05686070,Taipei Medical University - Shuang Ho Hospital,New Taipei City,Taiwan
+NCT05686070,China Medical University Hospital,Taichung,Taiwan
+NCT05686070,Taichung Veterans General Hospital,Taichung,Taiwan
+NCT05686070,National Cheng Kung University Hospital,Tainan,Taiwan
+NCT05686070,National Taiwan University Hospital,Taipei,Taiwan
+NCT05686070,Mackay Memorial Hospital,Taipei,Taiwan
+NCT05686070,Taipei Veterans General Hospital,Taipei,Taiwan
+NCT05686070,Taipei Municipal Wanfang Hospital,Taipei,Taiwan
+NCT05686070,Tri-Service General Hospital,Taipei,Taiwan
+NCT05686070,Chung Shan Medical University Hospital,Taizung,Taiwan
+NCT05686070,Chang Gung Memorial Hospital at Linkou,Taoyuan,Taiwan
+NCT05686070,Hacettepe Universitesi Tip Fakultesi,Ankara,Turkey
+NCT05686070,Gazi Universitesi Tip Fakultesi,Ankara,Turkey
+NCT05686070,Ankara Universitesi Tip Fakultesi Hastanesi,Ankara,Turkey
+NCT05686070,Health Ministry Of Türkiye Republic Ankara Bilkent City Hospital,Ankara,Turkey
+NCT05686070,Akdeniz Universitesi Tip Fakultesi Hastanesi,Antalya,Turkey
+NCT05686070,Firat Universitesi Tip Fakultesi,Elazig,Turkey
+NCT05686070,Eskisehir Osmangazi Universitesi Tip Fakultesi,Eskisehir,Turkey
+NCT05686070,Istanbul Universitesi Istanbul Tip Fakultesi,Istanbul,Turkey
+NCT05686070,Bakirkoy Prof Dr Mazhar Osman Ruh Sagligi ve Sinir Hast. EAH,Istanbul,Turkey
+NCT05686070,Istanbul Sultan 2. Abdulhamid Han Egitim ve Arastirma Has.,Istanbul,Turkey
+NCT05686070,Kartal Dr Lutfi Kirdar Sehir Hastanesi,Istanbul,Turkey
+NCT05686070,Marmara Uni. Tip Fak. Pendik EAH Noroloji,Istanbul,Turkey
+NCT05686070,Ege Universitesi Tip Fakultesi,Izmir,Turkey
+NCT05686070,Dokuz Eylul Universitesi Tip Fakultesi,Izmir,Turkey
+NCT05686070,Saglik Bilimleri Universitesi Izmir Tepecik EAH,Izmir,Turkey
+NCT05686070,Selcuk University Faculty of Medicine,Konya,Turkey
+NCT05686070,Necmettin Erbakan Universitesi Meram Tip Fakultesi Hastanesi,Konya,Turkey
+NCT05686070,Samsun Egitim Arastirma Hastanesi,Samsun,Turkey
+NCT05686070,Ondokuz Mayis Uni Tip Fakultesi,Samsun,Turkey
+NCT05686070,Cumhuriyet Universitesi Tip Fakultesi,Sivas,Turkey
+NCT05686070,Southampton General Hospital,Southampton,United Kingdom
+NCT05686070,Kent and Canterbury Hospital | Stroke Unit,Canterbury,United Kingdom
+NCT05686070,St George's Hospital,Kogarah,United Kingdom
+NCT05686070,Salford Royal Hospital,Salford,United Kingdom
+NCT05686070,Royal Stoke University Hospital,Stoke on Trent,United Kingdom
+NCT05686070,Royal Victoria Infirmary,Newcastle Upon Tyne,United Kingdom
+NCT05686070,Sunderland Royal Hospital,Sunderland,United Kingdom
+NCT05686070,Leeds General Infirmary,Leeds,United Kingdom
+NCT05686070,Royal Derby Hospital Derby Teaching Hospitals NHS Foundation,Derby,United Kingdom
+NCT05686070,Edinburgh Royal Infirmary,Edinburgh,United Kingdom
+NCT05686070,Royal Devon & Exeter Hospital,Exeter,United Kingdom
+NCT05686070,Glasgow Royal Infirmary | Glasgow Clinical Research Facility,Glasgow,United Kingdom
+NCT05686070,Aintree University Hospital,Liverpool,United Kingdom
+NCT05686070,King's College Hospital - NHS Foundation Trust,London,United Kingdom
+NCT05686070,Charing Cross Hospital,London,United Kingdom
+NCT05686070,John Radcliffe Hospital,Oxford,United Kingdom
 NCT04931862,Macquarie University,North Ryde,Australia
 NCT04931862,The Wesley Hospital,Brisbane,Australia
 NCT04931862,Perron Institute,Nedlands,Australia
@@ -190,3 +1559,153 @@ NCT04931862,University College London Hospital,London,United Kingdom
 NCT04931862,King's College Hospital,London,United Kingdom
 NCT04931862,University of Oxford - Nuffield Department of Clinical Neurosciences,Oxford,United Kingdom
 NCT04931862,University of Sheffield,Sheffield,United Kingdom
+NCT05819359,Cedars-Sinai,Los Angeles,United States
+NCT05819359,University of Colorado,Aurora,United States
+NCT05819359,Parkinson's Disease and Movement Disorders Center of Boca Raton,Boca Raton,United States
+NCT05819359,Renstar Medical Research,Ocala,United States
+NCT05819359,Northwestern University,Chicago,United States
+NCT05819359,University of Kansas Medical Center,Kansas City,United States
+NCT05819359,Baylor University Medical Center,Baltimore,United States
+NCT05819359,Massachusetts General Hospital,Boston,United States
+NCT05819359,Beth Israel Deaconess Medical Center,Boston,United States
+NCT05819359,"Quest Research Institute, LLC",Farmington Hills,United States
+NCT05819359,Mayo Clinic,Rochester,United States
+NCT05819359,Park Nicollet Struther's Parkinson's Center (Struthers Parkinsons Center at HealthPartners),Saint Paul,United States
+NCT05819359,Park Nicollet Struther's Parkinson's Center (Struthers Parkinsons Center at HealthPartners),Saint Paul,United States
+NCT05819359,Rutgers Robert Wood Johnson Medical School,New Brunswick,United States
+NCT05819359,Mount Sinai Beth Israel,New York,United States
+NCT05819359,Weill Cornell Medicine,New York,United States
+NCT05819359,Columbia University Medical Center,New York,United States
+NCT05819359,Northwell Health,New York,United States
+NCT05819359,University of Rochester Neurology,Rochester,United States
+NCT05819359,Cleveland Clinic Foundation,Cleveland,United States
+NCT05819359,University Hospitals Cleveland Medical Center,South Euclid,United States
+NCT05819359,Parkinson's Disease and Movement Disorders Cente at University of Pennyslvania,Philadelphia,United States
+NCT05819359,Thomas Jefferson University,Philadelphia,United States
+NCT05819359,Vanderbilt Medical Center,Nashville,United States
+NCT05819359,Baylor College of Medicine,Houston,United States
+NCT05819359,University of Texas Health Science Center - San Antonio,San Antonio,United States
+NCT05819359,Inland Northwest Research,Spokane,United States
+NCT05819359,Clinique Neuro-Outaouais (Neuro-Outaouais Clinic),Gatineau,Canada
+NCT05819359,Montreal Neurological Institute-Hospital,Montréal,Canada
+NCT05819359,CHU Nantes,Nantes,France
+NCT05819359,CHU Nice,Nice,France
+NCT05819359,Centre Hospitalier Universitaire de Nimes (CHU) - Hopital Universitaire Caremeau,Nîmes,France
+NCT05819359,Assistance Publique-Hopitaux de Paris (AP-HP) - Hopital Pitie-Salpetriere - Centres d'Investigation Clinique (CIC) Paris-Est,Paris,France
+NCT05819359,Centre Hospitalier Universitaire (CHU) de Rennes - Hopital de Pontchaillou - Centre d'Investigation Clinique (CIC) - Inserm 1414,Rennes,France
+NCT05819359,CIC Toulouse,Toulouse,France
+NCT05819359,"Neurologisches Fachkrankenhaus für, Bewegungsstörungen / Parkinson",Beelitz-Heilstätten,Germany
+NCT05819359,"Gertrudis Clinic Biskirchen, Parkinson-Center",Biskirchen,Germany
+NCT05819359,Paracelsus-Kliniken Deutschland GmbH & Co. KGaA - Paracelsus-Elena-Klinik - Zentrum fuer Parkinson-Syndrome und Bewegungsstoerungen (Centre of Parkinsonism and Movement Disorders),Kassel,Germany
+NCT05819359,Philipps-Universitaet Marburg; Philipps-Universitaet Marburg - Klinik fuer Neurologie,Marburg,Germany
+NCT05819359,"Klinikum der Universität München, Campus Grosshadern, Neurologische Klinik und Poliklinik",Munich,Germany
+NCT05819359,Parkinson-Klinik Ortenau GmbH&Co KG,Wolfach,Germany
+NCT05819359,ASST Spedali Civili di Brescia,Brescia,Italy
+NCT05819359,"Ospedale ""Antonio Perrino""",Brindisi,Italy
+NCT05819359,Fondazione IRCCS Ca' Granda Ospedale Maggiore,Milano,Italy
+NCT05819359,"Fondazione IRCCS Istituto Neurologico ""Carlo Besta""",Milano,Italy
+NCT05819359,"Azienda Ospedaliera Universitaria, ""Luigi Vanvitelli""",Napoli,Italy
+NCT05819359,Universita degli Studi di Padova - Azienda Ospedaliera di Padova - Clinica Neurologica,Padova,Italy
+NCT05819359,IRCCS San Raffaele Pisana di Roma,Roma,Italy
+NCT05819359,Istituto Clinico Humanitas,Rozzano,Italy
+NCT05819359,Azienda Ospedaliera Universitaria OO.RR. San Giovanni di Dio e Ruggi d'Aragona,Salerno,Italy
+NCT05819359,Amsterdam UMC - Locatie AMC (Academisch Medisch Centrum),Amsterdam,Netherlands
+NCT05819359,University Medical Center Groningen,Groningen,Netherlands
+NCT05819359,St. Antonius Ziekenhuis (St. Antonius Hospital) - Utrecht,Utrecht,Netherlands
+NCT05819359,Centrum Medyczne Neuromed,Bydgoszcz,Poland
+NCT05819359,Krakowska Akademia Neurologii Sp. z o.o.,Kraków,Poland
+NCT05819359,NeuroKlinika Gabinet Lekarski prof. Andrzej Bogucki,Łódź,Poland
+NCT05819359,Hospital Sra da Oliveira,Guimarães,Portugal
+NCT05819359,Instituto de Medicina Molecular (IMM),Lisboa,Portugal
+NCT05819359,Centro Hospitalar do Porto (CHP) - Hospital Geral de Santo Antonio (HGSA),Porto,Portugal
+NCT05819359,"Centro Hospitalar S. João, E.P.E Serviço de Neurologia",Porto,Portugal
+NCT05819359,Hospital Universitario Germans Trias i Pujol,Badalona,Spain
+NCT05819359,Hospital Universitario Cruces,Barakaldo,Spain
+NCT05819359,Hospital de la Santa Creu i de Sant Pau,Barcelona,Spain
+NCT05819359,Hospital Universitari Vall d'Hebron,Barcelona,Spain
+NCT05819359,Hospital Universitario de La Princesa,Madrid,Spain
+NCT05819359,Hospital Ruber Internacional,Madrid,Spain
+NCT05819359,Hospital Universitario Virgen del Rocio,Sevilla,Spain
+NCT05819359,Skanes Universitetssjukhus - Lund (Universitetssjukhuset i Lund),Lund,Sweden
+NCT05819359,Karolinska Universitetssjukhuset - Solna - Neurologiska kliniken (Neurology Clinic),Solna,Sweden
+NCT05819359,University of Dundee - Ninewells Hospital and Medical School,Dundee,United Kingdom
+NCT05819359,Glasgow Memory Clinic,Glasgow,United Kingdom
+NCT05819359,King's College London - David Goldberg Centre,London,United Kingdom
+NCT05819359,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Newcastle Upon Tyne,United Kingdom
+NCT05819359,Plymouth Hospitals NHS Trust - Derriford Hospital,Plymouth,United Kingdom
+NCT02685605,Barrow Neurological Institute (SJHMC),Phoenix,United States
+NCT02685605,Stritch School of Medicine Loyola University,Maywood,United States
+NCT02685605,"Long Island Jewish Medical Center, North Shore University Hospital",Lake Success,United States
+NCT02685605,"Lenox Hill Hospital, Hofstra Northwell School of Medicine",New York,United States
+NCT02685605,West Virginia University,Morgantown,United States
+NCT02685605,Hospital Alemão Oswaldo Cruz,São Paulo,Brazil
+NCT02685605,Montreal Neurological Institute and Hospital,Montréal,Canada
+NCT02685605,"Beijing Tian Tan Hospital, Capital Medical University",Beijing,China
+NCT02685605,University Hospital Augsburg,Augsburg,Germany
+NCT02685605,Charité - Universitätsmedizin,Berlin,Germany
+NCT02685605,St. Georg Hospital,Leipzig,Germany
+NCT02685605,University Hospital Mannheim,Mannheim,Germany
+NCT02685605,"Technical University of Munich (TUM), Department of Radiation Oncology",Munich,Germany
+NCT02685605,Klinikum Stuttgart,Stuttgart,Germany
+NCT02685605,Helios University Hospital Wuppertal,Wuppertal,Germany
+NCT02685605,"Gangnam Severance Hospital, Yonsei University College of Medicine",Seoul,"Korea, Republic of"
+NCT02685605,Catalan Institute of Oncology (ICO),Barcelona,Spain
+NCT02685605,Hospital Reina Sofia,Córdoba,Spain
+NCT02685605,The London Clinic,London,United Kingdom
+NCT04840823,Montreal Neurological Institute-Hospital,Montreal,Canada
+NCT05403541,Site Number -1022,Phoenix,United States
+NCT05403541,Site Number -1002,Carlsbad,United States
+NCT05403541,Site Number -1009,Irvine,United States
+NCT05403541,Site Number -1017,Boca Raton,United States
+NCT05403541,Site Number -1007,Clearwater,United States
+NCT05403541,Site Number -1010,Maitland,United States
+NCT05403541,Site Number -1019,Orlando,United States
+NCT05403541,Site Number - 1028,Port Charlotte,United States
+NCT05403541,Site Number -1011,Fairway,United States
+NCT05403541,Site Number -1003,Lexington,United States
+NCT05403541,Site Number -1013,East Lansing,United States
+NCT05403541,Site Number - 1018,Chapel Hill,United States
+NCT05403541,Site Number -1004,Cleveland,United States
+NCT05403541,Site Number -1006,Portland,United States
+NCT05403541,Site Number - 1023,Philadelphia,United States
+NCT05403541,Site Number -1001,Austin,United States
+NCT05403541,Site Number -1016,Dallas,United States
+NCT05403541,Site Number - 1014,Round Rock,United States
+NCT05403541,Site Number -1005,Charlottesville,United States
+NCT05403541,Site Number -2001,Edmonton,Canada
+NCT05403541,Site Number -8002,Tbilisi,Georgia
+NCT05403541,Site Number -8004,Tbilisi,Georgia
+NCT05403541,Site Number -8001,Tbilisi,Georgia
+NCT05403541,Site Number -8003,Tbilisi,Georgia
+NCT05403541,Site Number - 8005,Tbilisi,Georgia
+NCT05403541,Site Number -7553,Budapest,Hungary
+NCT05403541,Site Number - 7552,Kistarcsa,Hungary
+NCT05403541,Site Number -6006,Brescia,Italy
+NCT05403541,Site Number - 6002,Genova,Italy
+NCT05403541,Site Number - 6003,Milano,Italy
+NCT05403541,Site Number -6001,Napoli,Italy
+NCT05403541,Site Number -6005,Roma,Italy
+NCT05403541,Site Number - 4002,Hanamaki-shi,Japan
+NCT05403541,Site Number - 4009,Kawasaki-shi,Japan
+NCT05403541,Site Number - 4007,Koshigaya-shi,Japan
+NCT05403541,Site Number - 4011,Matsuyama-shi,Japan
+NCT05403541,Site Number - 4010,Osaka,Japan
+NCT05403541,Site Number - 4005,Tokyo,Japan
+NCT05403541,Site Number -4505,Daegu,"Korea, Republic of"
+NCT05403541,Site Number -4501,Seoul,"Korea, Republic of"
+NCT05403541,Site Number -3001,Katowice,Poland
+NCT05403541,Site Number -3004,Krakow,Poland
+NCT05403541,Site Number - 3003,Krakow,Poland
+NCT05403541,Site Number -3002,Kraków,Poland
+NCT05403541,Site Number - 3008,Lublin,Poland
+NCT05403541,Site Number -3006,Poznań,Poland
+NCT05403541,Site Number - 3005,Warszawa,Poland
+NCT05403541,Site Number -7502,Constanta,Romania
+NCT05403541,Site Number -7501,Targu Mures,Romania
+NCT05403541,Site Number -7503,Timişoara,Romania
+NCT05403541,Site Number - 9001,Belgrade,Serbia
+NCT05403541,Site Number -3502,Barcelona,Spain
+NCT05403541,Site Number -3504,Cordoba,Spain
+NCT05403541,Site Number -3501,Madrid,Spain
+NCT05403541,Site Number -3503,Madrid,Spain
+NCT04261478,Centre Hospitalier de l'Université de Montréal,Montréal,Canada

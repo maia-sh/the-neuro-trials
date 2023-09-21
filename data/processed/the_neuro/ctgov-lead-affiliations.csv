@@ -1,24 +1,60 @@
 nct_id,affiliation_type,lead_affiliation
-NCT02685605,Sponsor,Universitätsmedizin Mannheim
-NCT02685605,Responsible Party,"University Hospital, Bonn"
-NCT02685605,Study Official,"Department of Radiation Oncology, University Hospital Bonn, Univeristy of Bonn, Bonn, Germany"
-NCT02685605,Study Official,"Department of Neurosurgery, Montréal Neurological, Institute and Hospital, Montréal, Canada"
-NCT03260920,Sponsor,Lawson Health Research Institute
+NCT04886518,Sponsor,"Harmony Biosciences, LLC"
+NCT04935866,Sponsor,CHU de Quebec-Universite Laval
+NCT05348785,Sponsor,Biogen
+NCT04167527,Sponsor,Emory University
+NCT03179501,Sponsor,Beau Nakamoto
+NCT04747431,Sponsor,"Passage Bio, Inc."
 NCT04057898,Sponsor,MediciNova
-NCT04057898,Study Official,Medicinova Inc
+NCT04948645,Sponsor,Calico Life Sciences LLC
+NCT04635891,Sponsor,University of Kansas Medical Center
+NCT04349514,Sponsor,Monash University
+NCT05349721,Sponsor,PTC Therapeutics
+NCT04494256,Sponsor,Biogen
+NCT05686551,Sponsor,Hoffmann-La Roche
 NCT04477785,Sponsor,Michael J. Fox Foundation for Parkinson's Research
+NCT04241068,Sponsor,Biogen
+NCT03260920,Sponsor,Lawson Health Research Institute
+NCT05061953,Sponsor,Innodem Neurosciences
+NCT05686070,Sponsor,Bayer
+NCT05403541,Sponsor,Immunovant Sciences GmbH
+NCT04931862,Sponsor,Wave Life Sciences Ltd.
+NCT02685605,Sponsor,Universitätsmedizin Mannheim
+NCT04261478,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT05819359,Sponsor,"Bial R&D Investments, S.A."
+NCT05704361,Sponsor,Hoffmann-La Roche
+NCT05633459,Sponsor,QurAlis Corporation
+NCT05399888,Sponsor,Biogen
+NCT04840823,Sponsor,McGill University
+NCT05039099,Sponsor,AL-S Pharma
+NCT04349514,Responsible Party,Monash University
+NCT04935866,Responsible Party,CHU de Quebec-Universite Laval
+NCT04167527,Responsible Party,Emory University
+NCT03179501,Responsible Party,University of Hawaii
 NCT04477785,Responsible Party,Institute for Neurodegenerative Disorders
+NCT04840823,Responsible Party,McGill University
+NCT02685605,Responsible Party,"University Hospital, Bonn"
+NCT04935866,Study Official,"CHU de Québec-Universite Laval Research Center, Universite Laval"
+NCT04935866,Study Official,Ottawa Hospital Research Institute
+NCT03179501,Study Official,University of Hawaii
+NCT04747431,Study Official,"Passage Bio, Inc."
+NCT04057898,Study Official,Medicinova Inc
+NCT05039099,Study Official,AL-S Pharma SA
+NCT04349514,Study Official,Monash University
+NCT04635891,Study Official,University of Kansas Medical Center
+NCT04635891,Study Official,University of Rochester
+NCT05348785,Study Official,Biogen
 NCT04477785,Study Official,Institute for Neurodegenerative Disorders
 NCT04477785,Study Official,"University of California, San Francisco"
-NCT04494256,Sponsor,Biogen
-NCT04494256,Study Official,Biogen
-NCT04840823,Sponsor,McGill University
-NCT04840823,Responsible Party,McGill University
-NCT04840823,Study Official,McGill University
-NCT04886518,Sponsor,"Harmony Biosciences, LLC"
-NCT04931862,Sponsor,Wave Life Sciences Ltd.
+NCT04167527,Study Official,Emory University
 NCT04931862,Study Official,Wave Life Sciences
-NCT04948645,Sponsor,Calico Life Sciences LLC
-NCT05039099,Sponsor,AL-S Pharma
-NCT05039099,Study Official,AL-S Pharma SA
-NCT05061953,Sponsor,Innodem Neurosciences
+NCT04494256,Study Official,Biogen
+NCT04241068,Study Official,Biogen
+NCT04840823,Study Official,McGill University
+NCT05704361,Study Official,Hoffmann-La Roche
+NCT05633459,Study Official,QurAlis Corporation
+NCT05399888,Study Official,Biogen
+NCT02685605,Study Official,"Department of Radiation Oncology, University Hospital Bonn, Univeristy of Bonn, Bonn, Germany"
+NCT02685605,Study Official,"Department of Neurosurgery, Montréal Neurological, Institute and Hospital, Montréal, Canada"
+NCT05819359,Study Official,"Bial R&D Investments, S.A."
+NCT04261478,Study Official,Centre hospitalier de l'Université de Montréal (CHUM)

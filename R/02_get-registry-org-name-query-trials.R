@@ -6,7 +6,6 @@ library(readr)
 library(aactr)
 library(lubridate)
 library(glue)
-source("https://raw.githubusercontent.com/maia-sh/intovalue-data/817c24afa007dbc222cd28fe9b6090c4355ec96e/scripts/functions/duration_days.R")
 
 
 #  Prepare organization ---------------------------------------------------
@@ -70,49 +69,3 @@ org_short <- stringr::str_c(org_short,
 
 download_aact(ids = trns, dir = dir_raw_org, user = AACT_USER, query = glue("AACT_{org_short}"))
 process_aact(dir_raw_org, dir_processed_org, "csv")
-
-
-# Combine AACT and org affiliation info -----------------------------------
-
-aact <- read_csv(path(dir_processed_org, "ctgov-studies.csv"))
-
-studies <-
-  affiliations %>%
-
-  # Add org to column names
-  rename_with(~stringr::str_c(org_short, ., sep = "_"), -nct_id) %>%
-  left_join(aact, ., by = "nct_id") %>%
-  mutate(
-    registration_year = lubridate::year(registration_date),
-    start_year = lubridate::year(start_date),
-    completion_year = lubridate::year(completion_date),
-
-    # Registration is prospective if registered in same or prior month to start
-    is_prospective =
-      (floor_date(registration_date, unit = "month") <=
-         floor_date(start_date, unit = "month")),
-
-    # Days from (primary) completion date to summary results date
-    days_cd_to_summary = duration_days(completion_date, summary_results_date),
-    days_pcd_to_summary = duration_days(primary_completion_date, summary_results_date),
-
-    # Whether summary results are reported within 1 year of (primary) completion
-    is_summary_results_1y_cd = days_cd_to_summary < 365*1,
-    is_summary_results_1y_pcd = days_pcd_to_summary < 365*1
-  )
-
-write_csv(studies, glue("{dir_processed_org}/{org_short}-studies.csv"))
-
-
-# # Filter for eligible trials ----------------------------------------------
-#
-# # Limit to interventional trials completed in or before 2020 with relevant status
-# trials <-
-#   studies %>%
-#   filter(
-#     study_type == "Interventional" &
-#       recruitment_status %in% c("Completed" , "Terminated" , "Suspended", "Unknown status") &
-#       completion_year < 2021
-#   )
-#
-# write_csv(trials, glue("{dir_processed_org}/{org_short}-trials.csv"))
