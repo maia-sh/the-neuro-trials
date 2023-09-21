@@ -15,12 +15,19 @@ org_short <- "the_neuro"
 dir_raw_org <- dir_create(here("data", "raw", org_short))
 dir_processed_org <- dir_create(here("data", "processed", org_short))
 
-neuro_trials <-
+# Read in various files listing trials provided by the neuro
+neuro_trials_1 <-
   read_csv(here("data", "raw", "TheNeuro_registered_clinical_trials.csv")) |>
   tidyr::drop_na() |>
   rename(nct_id = clinicaltrials.gov_ID)
 
-trns <- neuro_trials$nct_id
+neuro_trials_2 <-
+  readxl::read_excel(here("data", "raw", "CRU trials_12Sep2023.xlsx")) |>
+  tidyr::drop_na(`Study Identifier`) |>
+  filter(stringr::str_detect(`Study Identifier`, "NCT")) |>
+  rename(nct_id = `Study Identifier`)
+
+trns <- union(neuro_trials_1$nct_id, neuro_trials_2$nct_id)
 
 # Specify aact username
 AACT_USER <- "respmetrics"
