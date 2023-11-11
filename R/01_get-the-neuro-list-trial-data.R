@@ -27,7 +27,10 @@ neuro_trial_list_2 <-
   mutate(source = "CRU trials_12Sep2023.xlsx") |>
   tidyr::drop_na(`Study Identifier`) |>
   filter(stringr::str_detect(`Study Identifier`, "NCT")) |>
-  rename(nct_id = `Study Identifier`)
+  rename(nct_id = `Study Identifier`) |>
+
+  # Some trials associated with multiple registrations
+  tidyr::separate_rows(nct_id, sep = "; ")
 
 neuro_trial_list <-
   full_join(neuro_trial_list_1, neuro_trial_list_2, by = "nct_id") |>

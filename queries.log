@@ -3,3 +3,6 @@
 {"timestamp": "2023-08-09T17:33:07+0200", "log_lvl": "INFO", "log_msg": "AACT_the_neuro"}{"timestamp": "2023-09-21T03:05:54+0200", "log_lvl": "INFO", "log_msg": "AACT_the_neuro"}
 {"timestamp": "2023-09-21T03:07:19+0200", "log_lvl": "INFO", "log_msg": "Organization: montreal|montréal"}
 {"timestamp": "2023-09-21T03:08:11+0200", "log_lvl": "INFO", "log_msg": "AACT_montreal_neuro"}
+{"timestamp": "2023-11-11T01:18:03+0100", "log_lvl": "INFO", "log_msg": "AACT_the_neuro"}
+{"timestamp": "2023-11-11T01:20:05+0100", "log_lvl": "INFO", "log_msg": "Organization: montreal|montréal"}
+{"timestamp": "2023-11-11T01:20:34+0100", "log_lvl": "INFO", "log_msg": "AACT_montreal_neuro"}

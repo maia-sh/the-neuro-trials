@@ -1,60 +1,319 @@
 nct_id,affiliation_type,lead_affiliation
-NCT04886518,Sponsor,"Harmony Biosciences, LLC"
-NCT04935866,Sponsor,CHU de Quebec-Universite Laval
-NCT05348785,Sponsor,Biogen
-NCT04167527,Sponsor,Emory University
-NCT03179501,Sponsor,Beau Nakamoto
-NCT04747431,Sponsor,"Passage Bio, Inc."
-NCT04057898,Sponsor,MediciNova
-NCT04948645,Sponsor,Calico Life Sciences LLC
-NCT04635891,Sponsor,University of Kansas Medical Center
-NCT04349514,Sponsor,Monash University
-NCT05349721,Sponsor,PTC Therapeutics
-NCT04494256,Sponsor,Biogen
-NCT05686551,Sponsor,Hoffmann-La Roche
-NCT04477785,Sponsor,Michael J. Fox Foundation for Parkinson's Research
-NCT04241068,Sponsor,Biogen
-NCT03260920,Sponsor,Lawson Health Research Institute
-NCT05061953,Sponsor,Innodem Neurosciences
-NCT05686070,Sponsor,Bayer
-NCT05403541,Sponsor,Immunovant Sciences GmbH
-NCT04931862,Sponsor,Wave Life Sciences Ltd.
 NCT02685605,Sponsor,Universitätsmedizin Mannheim
-NCT04261478,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
-NCT05819359,Sponsor,"Bial R&D Investments, S.A."
-NCT05704361,Sponsor,Hoffmann-La Roche
-NCT05633459,Sponsor,QurAlis Corporation
-NCT05399888,Sponsor,Biogen
-NCT04840823,Sponsor,McGill University
+NCT03098511,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT01442194,Sponsor,Novartis Pharmaceuticals
+NCT03785678,Sponsor,"Genentech, Inc."
+NCT03750552,Sponsor,Theravance Biopharma
+NCT02927080,Sponsor,"Acceleron Pharma, Inc., a wholly-owned subsidiary of Merck & Co., Inc., Rahway, NJ USA"
+NCT03364036,Sponsor,"Merck KGaA, Darmstadt, Germany"
+NCT04149457,Sponsor,Posit Science Corporation
 NCT05039099,Sponsor,AL-S Pharma
-NCT04349514,Responsible Party,Monash University
-NCT04935866,Responsible Party,CHU de Quebec-Universite Laval
-NCT04167527,Responsible Party,Emory University
-NCT03179501,Responsible Party,University of Hawaii
-NCT04477785,Responsible Party,Institute for Neurodegenerative Disorders
-NCT04840823,Responsible Party,McGill University
+NCT03689972,Sponsor,Biogen
+NCT05204017,Sponsor,University of Alberta
+NCT03889249,Sponsor,University of Calgary
+NCT04349514,Sponsor,Monash University
+NCT06038643,Sponsor,Douglas Mental Health University Institute
+NCT01665144,Sponsor,Novartis Pharmaceuticals
+NCT05602727,Sponsor,Merck Sharp & Dohme LLC
+NCT05231785,Sponsor,Alnylam Pharmaceuticals
+NCT04931862,Sponsor,Wave Life Sciences Ltd.
+NCT04586023,Sponsor,Hoffmann-La Roche
+NCT04886518,Sponsor,"Harmony Biosciences, LLC"
+NCT04259255,Sponsor,Mitsubishi Tanabe Pharma America Inc.
+NCT03836716,Sponsor,ZevraDenmark
+NCT02655614,Sponsor,"Genentech, Inc."
+NCT02792218,Sponsor,Novartis Pharmaceuticals
+NCT04225871,Sponsor,"Ra Pharmaceuticals, Inc."
+NCT05054140,Sponsor,Immunic AG
+NCT03737851,Sponsor,AbbVie
+NCT04477785,Sponsor,Michael J. Fox Foundation for Parkinson's Research
+NCT04458051,Sponsor,Sanofi
+NCT03863080,Sponsor,Immunovant Sciences GmbH
+NCT03737812,Sponsor,AbbVie
+NCT03070119,Sponsor,Biogen
+NCT03160898,Sponsor,Cytokinetics
+NCT03192332,Sponsor,"Insel Gruppe AG, University Hospital Bern"
+NCT05633459,Sponsor,QurAlis Corporation
+NCT02623699,Sponsor,Biogen
+NCT05216250,Sponsor,AbbVie
+NCT04777331,Sponsor,Hoffmann-La Roche
+NCT04548999,Sponsor,Hoffmann-La Roche
+NCT03970447,Sponsor,Global Coalition for Adaptive Research
+NCT04494256,Sponsor,Biogen
+NCT03260920,Sponsor,Lawson Health Research Institute
+NCT03709784,Sponsor,Washington University School of Medicine
+NCT03626012,Sponsor,Biogen
+NCT00493298,Sponsor,Biogen
+NCT04057898,Sponsor,MediciNova
+NCT02906020,Sponsor,"Genzyme, a Sanofi Company"
+NCT05151471,Sponsor,Mitsubishi Tanabe Pharma America Inc.
+NCT04893083,Sponsor,Neuron23 Inc.
+NCT04569084,Sponsor,Mitsubishi Tanabe Pharma America Inc.
+NCT02255656,Sponsor,"Genzyme, a Sanofi Company"
+NCT04935866,Sponsor,CHU de Quebec-Universite Laval
+NCT03318523,Sponsor,Biogen
+NCT03402919,Sponsor,McGill University
+NCT02782741,Sponsor,"Genzyme, a Sanofi Company"
+NCT04650854,Sponsor,UCB Biopharma SRL
+NCT04095793,Sponsor,Theravance Biopharma
+NCT05819359,Sponsor,"Bial R&D Investments, S.A."
+NCT03950076,Sponsor,Population Health Research Institute
+NCT03362658,Sponsor,University of Alberta
+NCT05061953,Sponsor,Innodem Neurosciences
+NCT03505021,Sponsor,"Orion Corporation, Orion Pharma"
+NCT02485600,Sponsor,AbbVie
+NCT05021991,Sponsor,Praxis Precision Medicines
+NCT04248465,Sponsor,"Alexion Pharmaceuticals, Inc."
+NCT03650114,Sponsor,Novartis Pharmaceuticals
+NCT03866603,Sponsor,CENTOGENE GmbH Rostock
+NCT03770403,Sponsor,argenx
+NCT01412333,Sponsor,Hoffmann-La Roche
+NCT04411641,Sponsor,Sanofi
+NCT04577404,Sponsor,Mitsubishi Tanabe Pharma America Inc.
+NCT04165824,Sponsor,Mitsubishi Tanabe Pharma America Inc.
+NCT04783935,Sponsor,"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany"
+NCT04167527,Sponsor,Emory University
+NCT03943290,Sponsor,"Acceleron Pharma, Inc., a wholly-owned subsidiary of Merck & Co., Inc., Rahway, NJ USA"
+NCT03504917,Sponsor,Hoffmann-La Roche
+NCT03068754,Sponsor,Mallinckrodt
+NCT04338022,Sponsor,"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany"
+NCT04768972,Sponsor,"Ionis Pharmaceuticals, Inc."
+NCT02796261,Sponsor,"Orbus Therapeutics, Inc."
+NCT03976349,Sponsor,Biogen
+NCT03855137,Sponsor,Allergan
+NCT03085810,Sponsor,Hoffmann-La Roche
+NCT05269004,Sponsor,Hoffmann-La Roche
+NCT04926818,Sponsor,Novartis Pharmaceuticals
+NCT03972306,Sponsor,Hoffmann-La Roche
+NCT03655236,Sponsor,Sun Pharma Advanced Research Company Limited
+NCT05349721,Sponsor,PTC Therapeutics
+NCT02547818,Sponsor,"AZTherapies, Inc."
+NCT03179501,Sponsor,Beau Nakamoto
+NCT02414165,Sponsor,Tocagen Inc.
+NCT03186989,Sponsor,"Ionis Pharmaceuticals, Inc."
+NCT05132569,Sponsor,Sanofi
+NCT03829657,Sponsor,Theravance Biopharma
+NCT05686551,Sponsor,Hoffmann-La Roche
+NCT05237284,Sponsor,Sanofi
+NCT02667587,Sponsor,Bristol-Myers Squibb
+NCT01960348,Sponsor,Alnylam Pharmaceuticals
+NCT04003974,Sponsor,Fulcrum Therapeutics
+NCT04936542,Sponsor,Ipsen
+NCT03920293,Sponsor,"Alexion Pharmaceuticals, Inc."
+NCT02688985,Sponsor,"Genentech, Inc."
+NCT04322149,Sponsor,"Anelixis Therapeutics, LLC"
+NCT05397470,Sponsor,Fulcrum Therapeutics
+NCT03090789,Sponsor,Friedreich's Ataxia Research Alliance
+NCT04192955,Sponsor,University of Calgary
+NCT02638207,Sponsor,Octapharma
+NCT03478982,Sponsor,"Engage Therapeutics, Inc."
+NCT02388165,Sponsor,Pfizer
+NCT04948645,Sponsor,Calico Life Sciences LLC
+NCT01194570,Sponsor,Hoffmann-La Roche
+NCT04840823,Sponsor,McGill University
+NCT04686136,Sponsor,Allergan
+NCT05908695,Sponsor,"Green Valley (Shanghai) Pharmaceuticals Co., Ltd."
+NCT05686070,Sponsor,Bayer
+NCT04635891,Sponsor,University of Kansas Medical Center
+NCT04951622,Sponsor,"Janssen Research & Development, LLC"
+NCT03083665,Sponsor,UCB Biopharma SRL
+NCT04155606,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT02098252,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT01349582,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT01139892,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT05442775,Sponsor,Cytokinetics
+NCT04944784,Sponsor,Cytokinetics
+NCT05779813,Sponsor,Western University
+NCT04115293,Sponsor,"Ra Pharmaceuticals, Inc."
+NCT04569435,Sponsor,"Annexon, Inc."
+NCT04762758,Sponsor,Pharnext SA
+NCT03044249,Sponsor,Mediti Pharma Inc.
+NCT04288856,Sponsor,Biogen
+NCT04241068,Sponsor,Biogen
+NCT03315130,Sponsor,Ra Pharmaceuticals
+NCT05151172,Sponsor,Dr. Michael Hill
+NCT04642443,Sponsor,"Sense Diagnostics, LLC"
+NCT03599245,Sponsor,Hoffmann-La Roche
+NCT04923984,Sponsor,University of Manitoba
+NCT05399888,Sponsor,Biogen
+NCT04544449,Sponsor,Hoffmann-La Roche
+NCT03661528,Sponsor,"Alexion Pharmaceuticals, Inc."
+NCT05826457,Sponsor,Washington University School of Medicine
+NCT04963270,Sponsor,Hoffmann-La Roche
+NCT00887146,Sponsor,Alliance for Clinical Trials in Oncology
+NCT04980495,Sponsor,argenx
+NCT04124965,Sponsor,UCB Biopharma SRL
+NCT03971422,Sponsor,UCB Biopharma SRL
+NCT05407324,Sponsor,Corcept Therapeutics
+NCT05271409,Sponsor,Hoffmann-La Roche
+NCT03309579,Sponsor,Ottawa Hospital Research Institute
+NCT04524273,Sponsor,Viela Bio (acquired by Horizon Therapeutics)
+NCT05704361,Sponsor,Hoffmann-La Roche
+NCT05403541,Sponsor,Immunovant Sciences GmbH
+NCT05348785,Sponsor,Biogen
+NCT04539041,Sponsor,Novartis Pharmaceuticals
+NCT04462536,Sponsor,NoNO Inc.
+NCT05269667,Sponsor,Hoffmann-La Roche
+NCT04747431,Sponsor,"Passage Bio, Inc."
+NCT04619420,Sponsor,"Janssen Research & Development, LLC"
+NCT04164901,Sponsor,Institut de Recherches Internationales Servier
+NCT03936361,Sponsor,Beth Israel Deaconess Medical Center
+NCT04261478,Sponsor,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT02398656,Sponsor,University of Calgary
+NCT03529045,Sponsor,LivaNova
+NCT02398656,Responsible Party,University of Calgary
 NCT02685605,Responsible Party,"University Hospital, Bonn"
-NCT04935866,Study Official,"CHU de Québec-Universite Laval Research Center, Universite Laval"
-NCT04935866,Study Official,Ottawa Hospital Research Institute
-NCT03179501,Study Official,University of Hawaii
-NCT04747431,Study Official,"Passage Bio, Inc."
-NCT04057898,Study Official,Medicinova Inc
-NCT05039099,Study Official,AL-S Pharma SA
-NCT04349514,Study Official,Monash University
-NCT04635891,Study Official,University of Kansas Medical Center
-NCT04635891,Study Official,University of Rochester
-NCT05348785,Study Official,Biogen
-NCT04477785,Study Official,Institute for Neurodegenerative Disorders
-NCT04477785,Study Official,"University of California, San Francisco"
-NCT04167527,Study Official,Emory University
-NCT04931862,Study Official,Wave Life Sciences
-NCT04494256,Study Official,Biogen
-NCT04241068,Study Official,Biogen
-NCT04840823,Study Official,McGill University
-NCT05704361,Study Official,Hoffmann-La Roche
-NCT05633459,Study Official,QurAlis Corporation
-NCT05399888,Study Official,Biogen
+NCT03889249,Responsible Party,University of Calgary
+NCT04349514,Responsible Party,Monash University
+NCT06038643,Responsible Party,Douglas Mental Health University Institute
+NCT04477785,Responsible Party,Institute for Neurodegenerative Disorders
+NCT04167527,Responsible Party,Emory University
+NCT04935866,Responsible Party,CHU de Quebec-Universite Laval
+NCT03936361,Responsible Party,Beth Israel Deaconess Medical Center
+NCT03179501,Responsible Party,University of Hawaii
+NCT04840823,Responsible Party,McGill University
+NCT04155606,Responsible Party,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT05779813,Responsible Party,Western University
+NCT05151172,Responsible Party,University of Calgary
+NCT04923984,Responsible Party,University of Manitoba
 NCT02685605,Study Official,"Department of Radiation Oncology, University Hospital Bonn, Univeristy of Bonn, Bonn, Germany"
 NCT02685605,Study Official,"Department of Neurosurgery, Montréal Neurological, Institute and Hospital, Montréal, Canada"
-NCT05819359,Study Official,"Bial R&D Investments, S.A."
+NCT04155606,Study Official,Neurosurgeon University of Alberta Health
+NCT02098252,Study Official,CHUM-Montreal
+NCT01349582,Study Official,Centre Hospitalier de l'Université de Montréal - Hôpital Notre Dame
+NCT01139892,Study Official,University of Alberta
+NCT01139892,Study Official,Université de Montréal
 NCT04261478,Study Official,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT03529045,Study Official,"LivaNova, Inc."
+NCT04115293,Study Official,0018445992273 (UCB)
+NCT01665144,Study Official,Novartis Pharmaceuticals
+NCT03364036,Study Official,"Merck KGaA, Darmstadt, Germany"
+NCT03315130,Study Official,001 844 599 2273 (UCB)
+NCT04149457,Study Official,Posit Science Corporation
+NCT02623699,Study Official,Biogen
+NCT04494256,Study Official,Biogen
+NCT03098511,Study Official,Centre hospitalier de l'Université de Montréal (CHUM)
+NCT03098511,Study Official,University of Manitoba
+NCT01442194,Study Official,Novartis Pharmaceuticals
+NCT05204017,Study Official,University of Alberta
+NCT03709784,Study Official,Washington University School of Medicine
+NCT03889249,Study Official,University of Calgary
+NCT06038643,Study Official,McGill University
+NCT03750552,Study Official,Theravance Biopharma
+NCT04259255,Study Official,Massachusetts General Hospital
+NCT03836716,Study Official,University of Miami
+NCT04349514,Study Official,Monash University
+NCT04225871,Study Official,001 844 599 2273
+NCT03689972,Study Official,Biogen
+NCT03737851,Study Official,AbbVie
+NCT03402919,Study Official,Western University
+NCT03950076,Study Official,Population Health Research Institute
+NCT03362658,Study Official,FRCPC
+NCT03770403,Study Official,argenx
+NCT05039099,Study Official,AL-S Pharma SA
+NCT04411641,Study Official,Sanofi
+NCT04577404,Study Official,Mitsubishi Tanabe Pharma America Inc.
+NCT04165824,Study Official,Mitsubishi Tanabe Pharma America Inc.
+NCT05602727,Study Official,Merck Sharp & Dohme LLC
+NCT05231785,Study Official,Alnylam Pharmaceuticals
+NCT04931862,Study Official,Wave Life Sciences
+NCT04586023,Study Official,Hoffmann-La Roche
+NCT00493298,Study Official,Biogen
+NCT04322149,Study Official,Eledon Pharmaceuticals
+NCT02655614,Study Official,Hoffmann-La Roche
+NCT02638207,Study Official,Octapharma
+NCT03478982,Study Official,"Engage Therapeutics, Inc."
+NCT04095793,Study Official,Theravance Biopharma
+NCT02255656,Study Official,Sanofi
+NCT04935866,Study Official,"CHU de Québec-Universite Laval Research Center, Universite Laval"
+NCT04935866,Study Official,Ottawa Hospital Research Institute
+NCT03318523,Study Official,Biogen
+NCT05054140,Study Official,"Mellen Center for MS, Neurological Institute, Cleveland Clinic, Ohio"
+NCT04951622,Study Official,"Janssen Research & Development, LLC"
+NCT03737812,Study Official,AbbVie
+NCT03070119,Study Official,Biogen
+NCT03083665,Study Official,001 844 599 2273 (UCB)
+NCT03160898,Study Official,Cytokinetics
+NCT03192332,Study Official,"Dept. of Neurology, Inselspital Bern"
+NCT03192332,Study Official,"Dept. of Neuroradiology, Inselspital Bern"
+NCT05633459,Study Official,QurAlis Corporation
+NCT05216250,Study Official,AbbVie
+NCT03626012,Study Official,Biogen
+NCT02906020,Study Official,Sanofi
+NCT04338022,Study Official,"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany"
+NCT04477785,Study Official,Institute for Neurodegenerative Disorders
+NCT04477785,Study Official,"University of California, San Francisco"
+NCT04458051,Study Official,Sanofi
+NCT05151471,Study Official,Mitsubishi Tanabe Pharma America Inc.
+NCT04569084,Study Official,Mitsubishi Tanabe Pharma America Inc.
+NCT03855137,Study Official,Allergan
+NCT03179501,Study Official,University of Hawaii
+NCT02414165,Study Official,"University of California, Los Angeles"
+NCT02782741,Study Official,Sanofi
+NCT03505021,Study Official,"Orion Corporation, Orion Pharma"
+NCT04650854,Study Official,001 844 599 22733 (UCB)
+NCT02485600,Study Official,AbbVie
+NCT02667587,Study Official,Bristol-Myers Squibb
+NCT01960348,Study Official,Alnylam Pharmaceuticals
+NCT04783935,Study Official,"Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany"
+NCT04167527,Study Official,Emory University
+NCT04936542,Study Official,Ipsen
+NCT05021991,Study Official,Praxis Precision Medicines
+NCT03866603,Study Official,CENTOGENE GmbH
+NCT01412333,Study Official,Hoffmann-La Roche
+NCT03504917,Study Official,Hoffmann-La Roche
+NCT03068754,Study Official,Mallinckrodt
+NCT02388165,Study Official,Pfizer
+NCT04635891,Study Official,University of Kansas Medical Center
+NCT04635891,Study Official,University of Rochester
+NCT03976349,Study Official,Biogen
+NCT05442775,Study Official,Scientific Leadership at Cytokinetics
+NCT04944784,Study Official,Cytokinetics
+NCT02398656,Study Official,University of Calgary
+NCT03972306,Study Official,Hoffmann-La Roche
+NCT03085810,Study Official,Hoffmann-La Roche
+NCT02547818,Study Official,"AZTherapies, Inc."
+NCT05132569,Study Official,Sanofi
+NCT03829657,Study Official,Theravance Biopharma
+NCT04288856,Study Official,Biogen
+NCT04241068,Study Official,Biogen
+NCT04003974,Study Official,Fulcrum Therapeutics
+NCT04777331,Study Official,Hoffmann-La Roche
+NCT04548999,Study Official,Hoffmann-La Roche
+NCT03970447,Study Official,GCAR CMO and GBM AGILE Global PI
+NCT02688985,Study Official,Hoffmann-La Roche
+NCT05151172,Study Official,University of Calgary and Foothills Medical Centre
+NCT04642443,Study Official,Emory University
+NCT03599245,Study Official,Hoffmann-La Roche
+NCT03090789,Study Official,Children's Hospital of Philadelphia
+NCT04057898,Study Official,Medicinova Inc
+NCT04124965,Study Official,001 844 599 22733 (UCB)
+NCT03971422,Study Official,+1 844 599 2273 (UCB)
+NCT05819359,Study Official,"Bial R&D Investments, S.A."
+NCT04923984,Study Official,University of Manitoba
+NCT05269004,Study Official,Hoffmann-La Roche
+NCT03309579,Study Official,Ottawa Hospital Research Institute
+NCT04926818,Study Official,Novartis Pharmaceuticals
+NCT05237284,Study Official,Sanofi
+NCT04192955,Study Official,University of Calgary
+NCT05779813,Study Official,Western University
+NCT04524273,Study Official,Horizon Therapeutics
+NCT04569435,Study Official,"Annexon, Inc."
+NCT05399888,Study Official,Biogen
+NCT05704361,Study Official,Hoffmann-La Roche
+NCT05348785,Study Official,Biogen
+NCT04762758,Study Official,"CHU la Timone, Marseille , France"
+NCT04762758,Study Official,"University of Miami Miller School of Medicine, USA"
+NCT04544449,Study Official,Hoffmann-La Roche
+NCT04462536,Study Official,"Study Principal Investigator, University of Calgary"
+NCT03044249,Study Official,Mediti Pharma Inc.
+NCT04963270,Study Official,Hoffmann-La Roche
+NCT00887146,Study Official,Mayo Clinic
+NCT05407324,Study Official,Corcept Therapeutics
+NCT05271409,Study Official,Hoffmann-La Roche
+NCT05269667,Study Official,Hoffmann-La Roche
+NCT04747431,Study Official,"Passage Bio, Inc."
+NCT04619420,Study Official,"Janssen Research & Development, LLC"
+NCT01194570,Study Official,Hoffmann-La Roche
+NCT04840823,Study Official,McGill University
+NCT04686136,Study Official,Allergan
