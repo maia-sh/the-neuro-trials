@@ -1,0 +1,38 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Trials at The Neuro (Montreal Neurological Institute-Hospital)
+
+```{r query-logs, echo = FALSE, message = FALSE}
+
+library(dplyr)
+
+query_logs <- loggit::read_logs(here::here("queries.log"))
+
+get_latest_query <- function(query, logs) {
+  logs |> 
+  filter(stringr::str_detect(log_msg, query)) |> 
+    arrange(desc(timestamp)) |> 
+    slice_head(n = 1) |> 
+    pull(timestamp) |> 
+    as.Date.character()
+}
+```
+
+Latest AACT query: `r get_latest_query('AACT', query_logs)`
+
+```{r trials}
+trials <- readr::read_csv(here::here("data", "processed", "combined-ctgov-studies.csv"))
+```
+
+"combined-ctgov-studies.csv" contains `r nrow(trials)` ClinicalTrials.gov registrations.
