@@ -19,6 +19,17 @@ aact_2 <-
 
 aact_2_only <- anti_join(aact_2, aact_1, by = "nct_id")
 
+query_logs <- loggit::read_logs(here::here("queries.log"))
+get_latest_query <- function(query, logs) {
+  logs %>%
+    filter(log_msg == query) %>%
+    arrange(desc(timestamp)) %>%
+    slice_head(n = 1) %>%
+    pull(timestamp) %>%
+    as.Date.character()
+}
+
+ctgov_download_date <- get_latest_query("AACT_montreal_neuro", query_logs)
 
 # Prepare trials
 studies <-
@@ -40,13 +51,21 @@ mutate(
       (lubridate::floor_date(registration_date, unit = "month") <=
          lubridate::floor_date(start_date, unit = "month")),
 
-    # Days from (primary) completion date to summary results date
-    days_cd_to_summary = duration_days(completion_date, summary_results_date),
+    # get registry download date
+    registry_download_date = ctgov_download_date,
+
+    # calculate results due date (1 year after primary completion date)
+    # Alternative: results_due_date = ymd(primary_completion_date) + years(1)
+    results_due_date = ymd(primary_completion_date) + days(365),
+
+    # are summary results due at the time of registry download date?
+    results_due = results_due_date < registry_download_date,
+
+    # days from primary completion date to summary results date
     days_pcd_to_summary = duration_days(primary_completion_date, summary_results_date),
 
-    # Whether summary results are reported within 1 year of (primary) completion
-    is_summary_results_1y_cd = days_cd_to_summary < 365*1,
-    is_summary_results_1y_pcd = days_pcd_to_summary < 365*1
+    # Whether summary results are reported within 1 year of primary completion
+    is_summary_results_1y_pcd = days_pcd_to_summary <= 365*1
   )
 
 write_csv(studies, here("data", "processed", "combined-ctgov-studies.csv"))
