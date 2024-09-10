@@ -7,12 +7,12 @@ Latest AACT query: 2023-11-11
 
 ``` r
 trials <- readr::read_csv(here::here("data", "processed", "combined-ctgov-studies.csv"))
-#> Rows: 162 Columns: 28
+#> Rows: 162 Columns: 29
 #> ── Column specification ────────────────────────────────────────────────────────
 #> Delimiter: ","
 #> chr  (10): nct_id, source, study_type, phase, recruitment_status, title, all...
 #> dbl   (5): enrollment, registration_year, start_year, completion_year, days_...
-#> lgl   (5): has_summary_results, is_multicentric, is_prospective, results_due...
+#> lgl   (6): has_summary_results, is_multicentric, is_prospective, results_due...
 #> dttm  (3): start_date, completion_date, primary_completion_date
 #> date  (5): last_update_submitted_date, registration_date, summary_results_da...
 #> 
@@ -77,3 +77,25 @@ trials_sr |>
 
 Of 42 interventional trials with a completed status and a primary date
 available, 13 reported timely summary results in the registry.
+
+# Link in registration to publication
+
+``` r
+trials_links <-
+  trials |> 
+    filter(
+    study_type == "Interventional",
+    recruitment_status == "Completed"
+  )
+
+trials_links |> count(has_linked_reference)
+#> # A tibble: 2 × 2
+#>   has_linked_reference     n
+#>   <lgl>                <int>
+#> 1 FALSE                   18
+#> 2 TRUE                    24
+```
+
+Of 42 interventional trials with a completed status, 24 have at least
+one linked reference. This includes results, background, and references
+automatically derived from PubMed.

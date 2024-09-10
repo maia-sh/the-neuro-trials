@@ -6,7 +6,24 @@ library(readr)
 library(lubridate)
 source("https://raw.githubusercontent.com/maia-sh/intovalue-data/817c24afa007dbc222cd28fe9b6090c4355ec96e/scripts/functions/duration_days.R")
 
-# Get data
+
+# Get data ----------------------------------------------------------------
+
+# Query
+query_logs <- loggit::read_logs(here::here("queries.log"))
+
+get_latest_query <- function(query, logs) {
+  logs %>%
+    filter(log_msg == query) %>%
+    arrange(desc(timestamp)) %>%
+    slice_head(n = 1) %>%
+    pull(timestamp) %>%
+    as.Date.character()
+}
+
+ctgov_download_date <- get_latest_query("AACT_montreal_neuro", query_logs)
+
+# Trials
 source_1 <- read_csv(here("data", "raw", "the_neuro", "the_neuro-cru-trial-list.csv"))
 
 aact_1 <-
@@ -22,17 +39,14 @@ aact_2 <-
 
 aact_2_only <- anti_join(aact_2, aact_1, by = "nct_id")
 
-query_logs <- loggit::read_logs(here::here("queries.log"))
-get_latest_query <- function(query, logs) {
-  logs %>%
-    filter(log_msg == query) %>%
-    arrange(desc(timestamp)) %>%
-    slice_head(n = 1) %>%
-    pull(timestamp) %>%
-    as.Date.character()
-}
+# References
+references_montreal <- readr::read_csv(here::here("data", "processed", "montreal", "ctgov-references.csv"))
+references_the_neuro <- readr::read_csv(here::here("data", "processed", "the_neuro", "ctgov-references.csv"))
 
-ctgov_download_date <- get_latest_query("AACT_montreal_neuro", query_logs)
+references_all <-
+  bind_rows(references_montreal, references_the_neuro) |>
+  distinct() |>
+  mutate(has_linked_reference = TRUE)
 
 # Prepare trials
 studies_all <-
@@ -79,7 +93,11 @@ mutate(
       .default = NA_character_
     ),
     summary_results_reporting = factor(summary_results_reporting, levels = c("results_timely", "results_due_late", "results_due_missing", "results_not_due"))
-  )
+  ) |>
+
+  # Add boolean for whether any reference linked in registry
+  left_join(distinct(references_all, nct_id, has_linked_reference), by = "nct_id") |>
+  mutate(has_linked_reference = tidyr::replace_na(has_linked_reference, FALSE))
 
 # Canada team decided to limit to trials provided by McGill and not from AACT queries
 studies <-

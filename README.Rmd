@@ -74,3 +74,18 @@ trials_sr |>
 ```
 
 Of `r nrow(trials_sr)` interventional trials with a completed status and a primary date available, `r trials_sr |> filter(summary_results_reporting == "results_timely") |> nrow()` reported timely summary results in the registry.
+
+# Link in registration to publication
+
+```{r links}
+trials_links <-
+  trials |> 
+    filter(
+    study_type == "Interventional",
+    recruitment_status == "Completed"
+  )
+
+trials_links |> count(has_linked_reference)
+```
+
+Of `r nrow(trials_sr)` interventional trials with a completed status, `r trials_links |> filter(has_linked_reference) |> nrow()` have at least one linked reference. This includes results, background, and references automatically derived from PubMed. 
