@@ -3,6 +3,7 @@
 library(dplyr)
 library(here)
 library(readr)
+library(lubridate)
 source("https://raw.githubusercontent.com/maia-sh/intovalue-data/817c24afa007dbc222cd28fe9b6090c4355ec96e/scripts/functions/duration_days.R")
 
 # Get data
@@ -11,11 +12,13 @@ source_1 <- read_csv(here("data", "raw", "the_neuro", "the_neuro-cru-trial-list.
 aact_1 <-
   read_csv(here("data", "processed", "the_neuro", "ctgov-studies.csv")) |>
   left_join(source_1, by = "nct_id") |>
-  relocate(source, .after = "nct_id")
+  relocate(source, .after = "nct_id") |>
+  distinct()
 
 aact_2 <-
   read_csv(here("data", "processed", "montreal", "ctgov-studies.csv")) |>
-  mutate(source = "registry-org-name-query", .after = "nct_id")
+  mutate(source = "registry-org-name-query", .after = "nct_id") |>
+  distinct()
 
 aact_2_only <- anti_join(aact_2, aact_1, by = "nct_id")
 
@@ -32,7 +35,7 @@ get_latest_query <- function(query, logs) {
 ctgov_download_date <- get_latest_query("AACT_montreal_neuro", query_logs)
 
 # Prepare trials
-studies <-
+studies_all <-
 
   bind_rows(aact_1, aact_2_only) |>
   select(-source) |>
@@ -42,14 +45,14 @@ studies <-
   relocate(source, .after = "nct_id") |>
 
 mutate(
-    registration_year = lubridate::year(registration_date),
-    start_year = lubridate::year(start_date),
-    completion_year = lubridate::year(completion_date),
+    registration_year = year(registration_date),
+    start_year = year(start_date),
+    completion_year = year(completion_date),
 
     # Registration is prospective if registered in same or prior month to start
     is_prospective =
-      (lubridate::floor_date(registration_date, unit = "month") <=
-         lubridate::floor_date(start_date, unit = "month")),
+      (floor_date(registration_date, unit = "month") <=
+         floor_date(start_date, unit = "month")),
 
     # get registry download date
     registry_download_date = ctgov_download_date,
@@ -65,7 +68,22 @@ mutate(
     days_pcd_to_summary = duration_days(primary_completion_date, summary_results_date),
 
     # Whether summary results are reported within 1 year of primary completion
-    is_summary_results_1y_pcd = days_pcd_to_summary <= 365*1
+    is_summary_results_1y_pcd = days_pcd_to_summary <= 365,
+
+    # Create categorical variable for summary results reporting
+    summary_results_reporting = case_when(
+      is_summary_results_1y_pcd ~ "results_timely",
+      has_summary_results & days_pcd_to_summary > 365 & results_due ~ "results_due_late",
+      !has_summary_results & results_due ~ "results_due_missing",
+      !results_due ~ "results_not_due",
+      .default = NA_character_
+    ),
+    summary_results_reporting = factor(summary_results_reporting, levels = c("results_timely", "results_due_late", "results_due_missing", "results_not_due"))
   )
+
+# Canada team decided to limit to trials provided by McGill and not from AACT queries
+studies <-
+  studies_all |>
+  filter(source != "registry-org-name-query")
 
 write_csv(studies, here("data", "processed", "combined-ctgov-studies.csv"))
