@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 ```{r query-logs, echo = FALSE, message = FALSE}
 
 library(dplyr)
+library(ggplot2)
 
 query_logs <- loggit::read_logs(here::here("queries.log"))
 
@@ -35,4 +36,41 @@ Latest AACT query: `r get_latest_query('AACT', query_logs)`
 trials <- readr::read_csv(here::here("data", "processed", "combined-ctgov-studies.csv"))
 ```
 
-"combined-ctgov-studies.csv" contains `r nrow(trials)` ClinicalTrials.gov registrations.
+"combined-ctgov-studies.csv" contains `r nrow(trials)` ClinicalTrials.gov registrations, limited to trial registration numbers provided by McGill (excluding trials found only via AACT query).
+
+# Prospective registration
+
+```{r prospective-registration}
+trials_pr <-
+  trials |> 
+  filter(
+    study_type == "Interventional",
+    !is.na(start_date)
+  )
+
+trials_pr |> count(is_prospective)
+```
+
+Of `r nrow(trials_pr)` interventional trials with a start date available, `r trials_pr |> filter(is_prospective) |> nrow()` are registered prospectively.
+
+# Trial results reporting in the registry
+```{r summary-results}
+trials_sr <-
+  trials |> 
+    filter(
+    study_type == "Interventional",
+    recruitment_status == "Completed",
+    !is.na(primary_completion_date)
+  ) |> 
+  mutate(
+  summary_results_reporting = factor(summary_results_reporting, levels = c("results_timely", "results_due_late", "results_due_missing", "results_not_due"))
+  )
+
+trials_sr |> count(summary_results_reporting)
+
+trials_sr |> 
+  ggplot(aes(x = summary_results_reporting)) +
+  geom_bar()
+```
+
+Of `r nrow(trials_sr)` interventional trials with a completed status and a primary date available, `r trials_sr |> filter(summary_results_reporting == "results_timely") |> nrow()` reported timely summary results in the registry.
